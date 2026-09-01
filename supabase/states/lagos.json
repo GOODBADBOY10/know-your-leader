@@ -5,6 +5,14 @@
     {
       "state": "Lagos",
       "name": "Lagos West"
+    }, 
+    {
+      "state": "Lagos",
+      "name": "Lagos East"
+    },
+    {
+      "state": "Lagos",
+      "name": "Lagos Central"
     }
   ],
   "federalConstituencies": [
