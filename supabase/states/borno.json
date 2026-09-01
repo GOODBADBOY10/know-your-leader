@@ -4,79 +4,992 @@
   "senatorialDistricts": [
     {
       "state": "Borno",
-      "name": "Borno PLACEHOLDER Senatorial District"
+      "name": "Borno Central."
+    },
+    {
+      "state": "Borno",
+      "name": "Borno North."
+    },
+    {
+      "state": "Borno",
+      "name": "Borno South."
     }
   ],
   "federalConstituencies": [
     {
       "state": "Borno",
-      "name": "Borno PLACEHOLDER Federal Constituency"
+      "name": "Askira-Uba/Hawul Federal Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": " Bama/Ngala/Kala-Balge Federal Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Biu/Kwaya-Kusar/Shani/Bayo Federal Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Damboa/Gwoza/Chibok Federal Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Dikwa/Mafa/Konduga Federal Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Jere Federal Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Kaga/Gubio/Magumeri Federal Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Kukawa/Mobbar/Abadam/Guzamala Federal Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Maiduguri Metropolitan Federal Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Monguno/Nganzai/Marte Federal Constituency"
     }
-  ],
+    ],
   "stateConstituencies": [
     {
       "state": "Borno",
-      "name": "Borno PLACEHOLDER State Constituency"
+      "name": " Abadam State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Askira/Uba State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Bama State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Gulumba/Oloji (Bama II) State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Bayo State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Biu State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Chibok State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Damboa State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Dikwa State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Gubio State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Guzamala State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Gwoza State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Hawul State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Jere State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Kaga State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Kala/Balge State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Konduga State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Kukawa State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Kwaya Kusar State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Magumeri State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Maiduguri Metropolitan State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Mafa State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Marte State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Mobbar State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Ngala State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Nganzai State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Shani State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Borno",
-      "name": "Borno PLACEHOLDER LGA",
-      "senatorialDistrict": "Borno PLACEHOLDER Senatorial District",
-      "federalConstituency": "Borno PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Borno PLACEHOLDER State Constituency"
+      "name": "Askira/Uba",
+      "senatorialDistrict": "BORNO-SOUTH Senatorial District",
+      "federalConstituency": "Askira/Uba Federal Constituency",
+      "stateConstituency": "Askira/Uba State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Abadam",
+      "senatorialDistrict": "Borno North Senatorial District",
+      "federalConstituency": "Ngala/Kala Balge/Dikwe Federal Constituency",
+      "stateConstituency": "Abadam State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Bama",
+      "senatorialDistrict": "Borno South Senatorial District",
+      "federalConstituency": "Bama/Ngala/Kala-Balge Federal Constituency",
+      "stateConstituency": "Bama State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Bayo",
+      "senatorialDistrict": "Borno South Senatorial District",
+      "federalConstituency": "Biu/Kwaya-Kusar/Shani/Bayo Federal Constituency",
+      "stateConstituency": "Bayo State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Biu",
+      "senatorialDistrict": "Borno South Senatorial District",
+      "federalConstituency": "Biu/Kwaya-Kusar/Shani/Bayo Federal Constituency",
+      "stateConstituency": "Biu State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Chibok",
+      "senatorialDistrict": "Borno South Senatorial District",
+      "federalConstituency": "Damboa/Gwoza/Chibok Federal Constituency",
+      "stateConstituency": "Chibok State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Damboa",
+      "senatorialDistrict": "Borno South Senatorial District",
+      "federalConstituency": "Damboa/Gwoza/Chibok Federal Constituency",
+      "stateConstituency": "Damboa State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Dikwa",
+      "senatorialDistrict": "Borno Central Senatorial District",
+      "federalConstituency": "Dikwa/Mafa/Ngozala Federal Constituency",
+      "stateConstituency": "Dikwa State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Gubio",
+      "senatorialDistrict": "Borno North Senatorial District",
+      "federalConstituency": "Kaga/Gubio/Bade Federal Constituency",
+      "stateConstituency": "Gubio State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Guzamala",
+      "senatorialDistrict": "Borno North Senatorial District",
+      "federalConstituency": "Kukawa/Guzamala Federal Constituency",
+      "stateConstituency": "Guzamala State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Gwoza",
+      "senatorialDistrict": "Borno South Senatorial District",
+      "federalConstituency": "Damboa/Gwoza/Chibok Federal Constituency",
+      "stateConstituency": "Gwoza State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Hawul",
+      "senatorialDistrict": "Borno South Senatorial District",
+      "federalConstituency": "Askira/Uba/Hawul Federal Constituency",
+      "stateConstituency": "Hawul State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Jere",
+      "senatorialDistrict": "Borno Central Senatorial District",
+      "federalConstituency": "Jere Federal Constituency",
+      "stateConstituency": "Jere State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Kaga",
+      "senatorialDistrict": "Borno Central Senatorial District",
+      "federalConstituency": "Kaga/Gubio/Magumeri Federal Constituency",
+      "stateConstituency": "Kaga State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Kala/Balge",
+      "senatorialDistrict": "Borno North Senatorial District",
+      "federalConstituency": "Ngala/Kala Balge/Dikwa Federal Constituency",
+      "stateConstituency": "Kala/Balge State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Konduga",
+      "senatorialDistrict": "Borno Central Senatorial District",
+      "federalConstituency": "Konduga/Maiduguri Federal Constituency",
+      "stateConstituency": "Konduga State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Kukawa",
+      "senatorialDistrict": "Borno North Senatorial District",
+      "federalConstituency": "Kukawa/Monguno/Nganzai Federal Constituency",
+      "stateConstituency": "Kukawa State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Kwaya Kusar",
+      "senatorialDistrict": "Borno Central Senatorial District",
+      "federalConstituency": "Biu/Kwaya-Kusar/Shani/Bayo Federal Constituency",
+      "stateConstituency": "Kwaya Kusar State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Mafa",
+      "senatorialDistrict": "Borno Central Senatorial District",
+      "federalConstituency": "Mafa/Dikwa/Ngozai Federal Constituency",
+      "stateConstituency": "Mafa State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Magumeri",
+      "senatorialDistrict": "Borno North Senatorial District",
+      "federalConstituency": "Kaga/Gubio/Magumeri Federal Constituency",
+      "stateConstituency": "Magumeri State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Maiduguri Metropolitan (MMC)",
+      "senatorialDistrict": "Borno Central Senatorial District",
+      "federalConstituency": "Maiduguri Metropolitan Council Federal Constituency",
+      "stateConstituency": "Maiduguri Metropolitan Council State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Marte",
+      "senatorialDistrict": "Borno North Senatorial District",
+      "federalConstituency": "Monguno/Nganzai/Marte Federal Constituency",
+      "stateConstituency": "Marte State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Mobbar",
+      "senatorialDistrict": "Borno North Senatorial District",
+      "federalConstituency": "Kukawa/Mobbar/Abadam/Guzamala Federal Constituency",
+      "stateConstituency": "Mobbar State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Ngala",
+      "senatorialDistrict": "Borno Central Senatorial District",
+      "federalConstituency": "Ngala/Kala Balge/Bama Federal Constituency",
+      "stateConstituency": "Ngala State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Nganzai",
+      "senatorialDistrict": "Borno North Senatorial District",
+      "federalConstituency": "Monguno/Nganzai/Marte Federal Constituency",
+      "stateConstituency": "Nganzai State Constituency"
+    },
+    {
+      "state": "Borno",
+      "name": "Shani",
+      "senatorialDistrict": "Borno South Senatorial District",
+      "federalConstituency": "Biu/Kwaya-Kusar/Shani/Bayo Federal Constituency",
+      "stateConstituency": "Shani State Constituency"
     }
-  ],
+    ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Borno",
-      "name": "Musa Danladi (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
+      "name": "Babagana Umara Zulum",
+      "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "manual"
+      "source": "Oyebanji Mukhtar Tolani."
     },
     {
       "office": "SEN",
       "state": "Borno",
-      "senatorialDistrict": "Borno PLACEHOLDER Senatorial District",
-      "name": "Suleiman Bala (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
+      "senatorialDistrict": "Borno-North Senatorial District",
+      "name": "Mohammed Tahir Monguno",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "SEN",
+      "state": "Borno",
+      "senatorialDistrict": "Borno-Central Senatorial District",
+      "name": "Kaka shehu Lawan",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "SEN",
+      "state": "Borno",
+      "senatorialDistrict": "Borno-South Senatorial District",
+      "name": "Mohammed Ali Ndume",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
     },
     {
       "office": "REP",
       "state": "Borno",
-      "federalConstituency": "Borno PLACEHOLDER Federal Constituency",
-      "name": "Ifeoma Suleiman (PLACEHOLDER \u2014 REPLACE ME)",
+      "federalConstituency": "Kaga/Gubio/Magumeri Federal Constituency",
+      "name": "Usman Zannah",
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "REP",
+      "state": "Borno",
+      "federalConstituency": "Maiduguri Metropolitan Council Federal Constituency",
+      "name": "Abdulkadir Rahis",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "REP",
+      "state": "Borno",
+      "federalConstituency": "Monguno/Nganzai/Marte Federal Constituency",
+      "name": "Bukar Tulba.",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "REP",
+      "state": "Borno",
+      "federalConstituency": "Kukawa/Mobbar/Abadam/Guzamala Federal Constituency",
+      "name": "Mallam Bukar Gana.",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "REP",
+      "state": "Borno",
+      "federalConstituency": "Bama/Ngala/Kala-Balge Federal Constituency",
+      "name": "Zainab Gimba.",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
     },
     {
       "office": "HOA",
       "state": "Borno",
-      "stateConstituency": "Borno PLACEHOLDER State Constituency",
-      "name": "Halima Uche (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "stateConstituency": "Abadam State Constituency",
+      "name": "Chiroma Tijjani Modu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Askira State Constituency",
+      "name": "Abdullahi Musa Askira",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Bama State Constituency",
+      "name": "Bukar Baba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Bayo State Constituency",
+      "name": "Maina Abare Maigari",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Biu State Constituency",
+      "name": "Gambo Kimba Yakubu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Chibok State Constituency",
+      "name": "Nuhu Clark",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Damboa State Constituency",
+      "name": "Malami Wakil Korede",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Dikwa State Constituency",
+      "name": "Zakariya Mohammed",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Gubio State Constituency",
+      "name": "Moruma Gubo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Gulumba State Constituency",
+      "name": "Mallam Baba Baba Shehu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Guzamala State Constituency",
+      "name": "Abdulkarim Lawan",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Gwoza State Constituency",
+      "name": "Buba Abdullahi Abatcha",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Hawul State Constituency",
+      "name": "Ibrahim Mohammed",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Jere State Constituency",
+      "name": "Abba Kolo Abba Kyari",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Kaga State Constituency",
+      "name": "Alibe Mustapha",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Kala/Balge State Constituency",
+      "name": "Dige Mohammed",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Konduga State Constituency",
+      "name": "Bukar Modu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Kukawa State Constituency",
+      "name": "Lawan Karta Maina Ma'aji",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Kwaya Kusar State Constituency",
+      "name": "Babale Abubakar",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Mafa State Constituency",
+      "name": "Modu Baba Ali",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Magumeri State Constituency",
+      "name": "Mustapha Audu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Ngala State Constituency",
+      "name": "Abatcha Alhaji Bukar",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Maiduguri Metropolitan Council State Constituency",
+      "name": "Kotoko Alhaji Ali",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Marte State Constituency",
+      "name": "Gambomi Mohammed Marte",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Mobbar State Constituency",
+      "name": "Moruma Usman Lawan",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Monguno State Constituency",
+      "name": "Garbu Maina",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Nganzai State Constituency",
+      "name": "Ali Gajiram Mohammed",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Shani State Constituency",
+      "name": "Inuwa Ibrahim Musa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Oyebanji Mukhtar Tolani."
     },
     {
       "office": "CHM",
       "state": "Borno",
-      "lga": "Borno PLACEHOLDER LGA",
-      "name": "Ibrahim Eze (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "lga": "Abadam",
+      "name": "Abubakar Aji Mustapha",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Askira/Uba",
+      "name": "Abubakar U. Mazhinyi",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Bama",
+      "name": "Modu Ali Gujja",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Bayo",
+      "name": "Haruna Aliyu Chibra",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Biu",
+      "name": "Sule Ali Abubakar",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Chibok",
+      "name": "Madu Mustapha",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Damboa",
+      "name": "Ali M. Kauji",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Dikwa",
+      "name": "R. G. Modu",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Gubio",
+      "name": "Mali Bulama Mali Gubio",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Guzamala",
+      "name": "Goni Gana Lawan",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Gwoza",
+      "name": "Abba Kawu Idrisa Timta",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Hawul",
+      "name": "Hussaini Malgwi",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Jere",
+      "name": "Inna Galadima",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Kaga",
+      "name": "Mairu Goni Abdallah",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Kala/Balge",
+      "name": "Ajid Musa Ajid",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Konduga",
+      "name": "Abba Satomi Abbari",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Kukawa",
+      "name": "Abba Fugu Bukar",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Kwaya Kusar",
+      "name": "Salisu Adamu Yanga",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Mafa",
+      "name": "Sunusi Mustapha",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Magumeri",
+      "name": "Abubakar Abdulkadir",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Maiduguri Metropolitan Council (MMC)",
+      "name": "Tijani Umar Ali",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Marte",
+      "name": "Baba Gana Abatcha",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Monguno",
+      "name": "Liman Alhaji Kalla",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Mobbar",
+      "name": "Mohammed M. Aji",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Ngala",
+      "name": "Muhammad Umar",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Nganzai",
+      "name": "Engr.Badu",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Shani",
+      "name": "Hassan Abdu Labaki",
+      "party": "APC",
+      "termStart": "2026-01-29",
+      "termEnd": "2030-01-29",
+      "source": "Oyebanji Mukhtar Tolani."
     }
   ]
 }
