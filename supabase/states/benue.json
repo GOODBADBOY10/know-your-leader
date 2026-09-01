@@ -1,39 +1,365 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Benue",
   "senatorialDistricts": [
     {
       "state": "Benue",
-      "name": "Benue PLACEHOLDER Senatorial District"
+      "name": "Benue North-East"
+    },
+    {
+      "state": "Benue",
+      "name": "Benue North-West"
+    },
+    {
+      "state": "Benue",
+      "name": "Benue South"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Benue",
-      "name": "Benue PLACEHOLDER Federal Constituency"
+      "name": "Ado/Okpokwu/Ogbadibo Federal Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Apa/Agatu Federal Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Buruku Federal Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Gboko/Tarka Federal Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Guma/Makurdi Federal Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Gwer East/Gwer West Federal Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Katsina-Ala/Ukum/Logo Federal Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Konshisha/Vandeikya Federal Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Kwande/Ushongo Federal Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Oju/Obi Federal Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Otukpo/Ohimini Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Benue",
-      "name": "Benue PLACEHOLDER State Constituency"
-    }
-  ],
-  "lgas": [
+      "name": "Ado State Constituency"
+    },
     {
       "state": "Benue",
-      "name": "Benue PLACEHOLDER LGA",
-      "senatorialDistrict": "Benue PLACEHOLDER Senatorial District",
-      "federalConstituency": "Benue PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Benue PLACEHOLDER State Constituency"
+      "name": "Agatu State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Apa State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Buruku State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Gboko East State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Gboko West State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Guma I (Agasha) State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Guma II State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Gwer East State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Gwer West State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Katsina-Ala East State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Katsina-Ala West State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Konshisha State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Kwande East State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Kwande West State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Logo State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Makurdi North State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Makurdi South State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Obi State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Ogbadibo State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Ohimini State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Okpokwu State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Otukpo/Akpa State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Adoka/Ugboju State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Oju I State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Oju II State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Tarka State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Ukum State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Ushongo-Mbagwa State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Ushongo-Mata State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Vandeikya I State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Vandeikya II State Constituency"
+    }
+  ],
+"lgas": [
+    {
+      "state": "Benue",
+      "name": "Ado",
+      "senatorialDistrict": "Benue South",
+      "federalConstituency": "Ado/Okpokwu/Ogbadibo Federal Constituency",
+      "stateConstituency": "Ado State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Agatu",
+      "senatorialDistrict": "Benue South",
+      "federalConstituency": "Apa/Agatu Federal Constituency",
+      "stateConstituency": "Agatu State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Apa",
+      "senatorialDistrict": "Benue South",
+      "federalConstituency": "Apa/Agatu Federal Constituency",
+      "stateConstituency": "Apa State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Buruku",
+      "senatorialDistrict": "Benue North-West",
+      "federalConstituency": "Buruku Federal Constituency",
+      "stateConstituency": "Buruku State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Gboko",
+      "senatorialDistrict": "Benue North-West",
+      "federalConstituency": "Gboko/Tarka Federal Constituency",
+      "stateConstituency": "Gboko East State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Guma",
+      "senatorialDistrict": "Benue North-West",
+      "federalConstituency": "Guma/Makurdi Federal Constituency",
+      "stateConstituency": "Guma I (Agasha) State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Gwer East",
+      "senatorialDistrict": "Benue North-West",
+      "federalConstituency": "Gwer East/Gwer West Federal Constituency",
+      "stateConstituency": "Gwer East State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Gwer West",
+      "senatorialDistrict": "Benue North-West",
+      "federalConstituency": "Gwer East/Gwer West Federal Constituency",
+      "stateConstituency": "Gwer West State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Katsina-Ala",
+      "senatorialDistrict": "Benue North-East",
+      "federalConstituency": "Katsina-Ala/Ukum/Logo Federal Constituency",
+      "stateConstituency": "Katsina-Ala East State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Konshisha",
+      "senatorialDistrict": "Benue North-East",
+      "federalConstituency": "Konshisha/Vandeikya Federal Constituency",
+      "stateConstituency": "Konshisha State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Kwande",
+      "senatorialDistrict": "Benue North-East",
+      "federalConstituency": "Kwande/Ushongo Federal Constituency",
+      "stateConstituency": "Kwande East State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Logo",
+      "senatorialDistrict": "Benue North-East",
+      "federalConstituency": "Katsina-Ala/Ukum/Logo Federal Constituency",
+      "stateConstituency": "Logo State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Makurdi",
+      "senatorialDistrict": "Benue North-West",
+      "federalConstituency": "Guma/Makurdi Federal Constituency",
+      "stateConstituency": "Makurdi North State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Obi",
+      "senatorialDistrict": "Benue South",
+      "federalConstituency": "Oju/Obi Federal Constituency",
+      "stateConstituency": "Obi State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Ogbadibo",
+      "senatorialDistrict": "Benue South",
+      "federalConstituency": "Ado/Okpokwu/Ogbadibo Federal Constituency",
+      "stateConstituency": "Ogbadibo State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Ohimini",
+      "senatorialDistrict": "Benue South",
+      "federalConstituency": "Otukpo/Ohimini Federal Constituency",
+      "stateConstituency": "Ohimini State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Oju",
+      "senatorialDistrict": "Benue South",
+      "federalConstituency": "Oju/Obi Federal Constituency",
+      "stateConstituency": "Oju I State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Okpokwu",
+      "senatorialDistrict": "Benue South",
+      "federalConstituency": "Ado/Okpokwu/Ogbadibo Federal Constituency",
+      "stateConstituency": "Okpokwu State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Otukpo",
+      "senatorialDistrict": "Benue South",
+      "federalConstituency": "Otukpo/Ohimini Federal Constituency",
+      "stateConstituency": "Otukpo/Akpa State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Tarka",
+      "senatorialDistrict": "Benue North-West",
+      "federalConstituency": "Gboko/Tarka Federal Constituency",
+      "stateConstituency": "Tarka State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Ukum",
+      "senatorialDistrict": "Benue North-East",
+      "federalConstituency": "Katsina-Ala/Ukum/Logo Federal Constituency",
+      "stateConstituency": "Ukum State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Ushongo",
+      "senatorialDistrict": "Benue North-East",
+      "federalConstituency": "Kwande/Ushongo Federal Constituency",
+      "stateConstituency": "Ushongo-Mbagwa State Constituency"
+    },
+    {
+      "state": "Benue",
+      "name": "Vandeikya",
+      "senatorialDistrict": "Benue North-East",
+      "federalConstituency": "Konshisha/Vandeikya Federal Constituency",
+      "stateConstituency": "Vandeikya I State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Benue",
-      "name": "Onyekachi Bello (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
+      "name": "Hyacinth Iormem Alia",
+      "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
       "source": "manual"
@@ -41,9 +367,29 @@
     {
       "office": "SEN",
       "state": "Benue",
-      "senatorialDistrict": "Benue PLACEHOLDER Senatorial District",
-      "name": "Adewale Chukwu (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
+      "senatorialDistrict": "Benue North-East",
+      "name": "Emmanuel Memga Udende",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Benue",
+      "senatorialDistrict": "Benue North-West",
+      "name": "Titus Tartenger Zam",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Benue",
+      "senatorialDistrict": "Benue South",
+      "name": "Patrick Abba Moro",
+      "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
       "source": "manual"
@@ -51,9 +397,109 @@
     {
       "office": "REP",
       "state": "Benue",
-      "federalConstituency": "Benue PLACEHOLDER Federal Constituency",
-      "name": "Chioma Bala (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
+      "federalConstituency": "Ado/Okpokwu/Ogbadibo Federal Constituency",
+      "name": "Philip Agbese",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Benue",
+      "federalConstituency": "Apa/Agatu Federal Constituency",
+      "name": "Ojotu Ojema",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Benue",
+      "federalConstituency": "Buruku Federal Constituency",
+      "name": "Sekav Dzua Iyortyom",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Benue",
+      "federalConstituency": "Gboko/Tarka Federal Constituency",
+      "name": "Regina Akume",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Benue",
+      "federalConstituency": "Guma/Makurdi Federal Constituency",
+      "name": "Dickson Dominic Tarkighir",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Benue",
+      "federalConstituency": "Gwer East/Gwer West Federal Constituency",
+      "name": "Austin Asema Achado",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Benue",
+      "federalConstituency": "Katsina-Ala/Ukum/Logo Federal Constituency",
+      "name": "Solomon Wombo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Benue",
+      "federalConstituency": "Konshisha/Vandeikya Federal Constituency",
+      "name": "Sesoo Ikpahher",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Benue",
+      "federalConstituency": "Kwande/Ushongo Federal Constituency",
+      "name": "Terseer Ugbor",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Benue",
+      "federalConstituency": "Oju/Obi Federal Constituency",
+      "name": "David Ogewu Agada",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Benue",
+      "federalConstituency": "Otukpo/Ohimini Federal Constituency",
+      "name": "Blessing Onyeche Onuh",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
       "source": "manual"
@@ -61,21 +507,151 @@
     {
       "office": "HOA",
       "state": "Benue",
-      "stateConstituency": "Benue PLACEHOLDER State Constituency",
-      "name": "Tunde Suleiman (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
+      "stateConstituency": "Ado State Constituency",
+      "name": "Lami Danladi",
+      "party": "APC",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
       "source": "manual"
     },
     {
-      "office": "CHM",
+      "office": "HOA",
       "state": "Benue",
-      "lga": "Benue PLACEHOLDER LGA",
-      "name": "Aliyu Lawal (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
+      "stateConstituency": "Agatu State Constituency",
+      "name": "Godwin Abu Edoh",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Apa State Constituency",
+      "name": "Umoru Abu James",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Buruku State Constituency",
+      "name": "Jabi Abraham Zahemen",
+      "party": "APC",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Gboko East State Constituency",
+      "name": "Orpin Beckie Torkwase",
+      "party": "APC",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Gboko West State Constituency",
+      "name": "Dajoh Hyacinth Aondona",
+      "party": "APC",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Guma I (Agasha) State Constituency",
+      "name": "Ortyom William Mkange",
+      "party": "APC",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Guma II State Constituency",
+      "name": "Uche Peter Terwase",
+      "party": "APC",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Gwer East State Constituency",
+      "name": "Audu Elias Terumbur",
+      "party": "APC",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Gwer West State Constituency",
+      "name": "Gyila Solomon Terlumun",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Katsina-Ala East State Constituency",
+      "name": "Agbidyeh Jonathan Akule",
+      "party": "APC",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Katsina-Ala West State Constituency",
+      "name": "Ipusu Peter Bemdoo",
+      "party": "APC",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Konshisha State Constituency",
+      "name": "Dyako Cephas Tavershima",
+      "party": "LP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Kwande East State Constituency",
+      "name": "Samuel Anyor Matu",
+      "party": "APC",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Kwande West State Constituency",
+      "name": "Dugeri Thomas Terzungwe",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
       "source": "manual"
     }
   ]
