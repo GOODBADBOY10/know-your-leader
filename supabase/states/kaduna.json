@@ -1,0 +1,82 @@
+{
+  "_status": "placeholder",
+  "_state": "Kaduna",
+  "senatorialDistricts": [
+    {
+      "state": "Kaduna",
+      "name": "Kaduna PLACEHOLDER Senatorial District"
+    }
+  ],
+  "federalConstituencies": [
+    {
+      "state": "Kaduna",
+      "name": "Kaduna PLACEHOLDER Federal Constituency"
+    }
+  ],
+  "stateConstituencies": [
+    {
+      "state": "Kaduna",
+      "name": "Kaduna PLACEHOLDER State Constituency"
+    }
+  ],
+  "lgas": [
+    {
+      "state": "Kaduna",
+      "name": "Kaduna PLACEHOLDER LGA",
+      "senatorialDistrict": "Kaduna PLACEHOLDER Senatorial District",
+      "federalConstituency": "Kaduna PLACEHOLDER Federal Constituency",
+      "stateConstituency": "Kaduna PLACEHOLDER State Constituency"
+    }
+  ],
+  "officeholders": [
+    {
+      "office": "GOV",
+      "state": "Kaduna",
+      "name": "Rotimi Abdullahi (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2023-05-29",
+      "termEnd": "2027-05-29",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Kaduna",
+      "senatorialDistrict": "Kaduna PLACEHOLDER Senatorial District",
+      "name": "Folake Ojo (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Kaduna PLACEHOLDER Federal Constituency",
+      "name": "Chioma Danladi (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Kaduna PLACEHOLDER State Constituency",
+      "name": "Rahma Garba (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Kaduna PLACEHOLDER LGA",
+      "name": "Funke Musa (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "manual"
+    }
+  ]
+}

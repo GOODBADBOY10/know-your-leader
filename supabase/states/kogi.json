@@ -1,0 +1,82 @@
+{
+  "_status": "placeholder",
+  "_state": "Kogi",
+  "senatorialDistricts": [
+    {
+      "state": "Kogi",
+      "name": "Kogi PLACEHOLDER Senatorial District"
+    }
+  ],
+  "federalConstituencies": [
+    {
+      "state": "Kogi",
+      "name": "Kogi PLACEHOLDER Federal Constituency"
+    }
+  ],
+  "stateConstituencies": [
+    {
+      "state": "Kogi",
+      "name": "Kogi PLACEHOLDER State Constituency"
+    }
+  ],
+  "lgas": [
+    {
+      "state": "Kogi",
+      "name": "Kogi PLACEHOLDER LGA",
+      "senatorialDistrict": "Kogi PLACEHOLDER Senatorial District",
+      "federalConstituency": "Kogi PLACEHOLDER Federal Constituency",
+      "stateConstituency": "Kogi PLACEHOLDER State Constituency"
+    }
+  ],
+  "officeholders": [
+    {
+      "office": "GOV",
+      "state": "Kogi",
+      "name": "Halima Sadiq (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2023-05-29",
+      "termEnd": "2027-05-29",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Kogi",
+      "senatorialDistrict": "Kogi PLACEHOLDER Senatorial District",
+      "name": "Folake Uche (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kogi",
+      "federalConstituency": "Kogi PLACEHOLDER Federal Constituency",
+      "name": "Chinedu Uche (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Kogi PLACEHOLDER State Constituency",
+      "name": "Suleiman Okafor (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Kogi PLACEHOLDER LGA",
+      "name": "Zainab Ogunleye (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "manual"
+    }
+  ]
+}

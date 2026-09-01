@@ -1,0 +1,11 @@
+{
+  "name": "know-your-leaders-import",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "import": "node import.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}

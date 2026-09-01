@@ -1,0 +1,82 @@
+{
+  "_status": "placeholder",
+  "_state": "Nasarawa",
+  "senatorialDistricts": [
+    {
+      "state": "Nasarawa",
+      "name": "Nasarawa PLACEHOLDER Senatorial District"
+    }
+  ],
+  "federalConstituencies": [
+    {
+      "state": "Nasarawa",
+      "name": "Nasarawa PLACEHOLDER Federal Constituency"
+    }
+  ],
+  "stateConstituencies": [
+    {
+      "state": "Nasarawa",
+      "name": "Nasarawa PLACEHOLDER State Constituency"
+    }
+  ],
+  "lgas": [
+    {
+      "state": "Nasarawa",
+      "name": "Nasarawa PLACEHOLDER LGA",
+      "senatorialDistrict": "Nasarawa PLACEHOLDER Senatorial District",
+      "federalConstituency": "Nasarawa PLACEHOLDER Federal Constituency",
+      "stateConstituency": "Nasarawa PLACEHOLDER State Constituency"
+    }
+  ],
+  "officeholders": [
+    {
+      "office": "GOV",
+      "state": "Nasarawa",
+      "name": "Halima Suleiman (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2023-05-29",
+      "termEnd": "2027-05-29",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Nasarawa",
+      "senatorialDistrict": "Nasarawa PLACEHOLDER Senatorial District",
+      "name": "Aisha Okoro (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Nasarawa",
+      "federalConstituency": "Nasarawa PLACEHOLDER Federal Constituency",
+      "name": "Emeka Ojo (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Nasarawa",
+      "stateConstituency": "Nasarawa PLACEHOLDER State Constituency",
+      "name": "Bashir Adebayo (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Nasarawa",
+      "lga": "Nasarawa PLACEHOLDER LGA",
+      "name": "Folake Bello (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "LP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "manual"
+    }
+  ]
+}

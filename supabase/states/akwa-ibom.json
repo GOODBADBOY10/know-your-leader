@@ -1,0 +1,82 @@
+{
+  "_status": "placeholder",
+  "_state": "Akwa Ibom",
+  "senatorialDistricts": [
+    {
+      "state": "Akwa Ibom",
+      "name": "Akwa Ibom PLACEHOLDER Senatorial District"
+    }
+  ],
+  "federalConstituencies": [
+    {
+      "state": "Akwa Ibom",
+      "name": "Akwa Ibom PLACEHOLDER Federal Constituency"
+    }
+  ],
+  "stateConstituencies": [
+    {
+      "state": "Akwa Ibom",
+      "name": "Akwa Ibom PLACEHOLDER State Constituency"
+    }
+  ],
+  "lgas": [
+    {
+      "state": "Akwa Ibom",
+      "name": "Akwa Ibom PLACEHOLDER LGA",
+      "senatorialDistrict": "Akwa Ibom PLACEHOLDER Senatorial District",
+      "federalConstituency": "Akwa Ibom PLACEHOLDER Federal Constituency",
+      "stateConstituency": "Akwa Ibom PLACEHOLDER State Constituency"
+    }
+  ],
+  "officeholders": [
+    {
+      "office": "GOV",
+      "state": "Akwa Ibom",
+      "name": "Bashir Danjuma (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2023-05-29",
+      "termEnd": "2027-05-29",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Akwa Ibom",
+      "senatorialDistrict": "Akwa Ibom PLACEHOLDER Senatorial District",
+      "name": "Ngozi Chukwuma (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Akwa Ibom",
+      "federalConstituency": "Akwa Ibom PLACEHOLDER Federal Constituency",
+      "name": "Segun Adeyemi (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Akwa Ibom PLACEHOLDER State Constituency",
+      "name": "Bashir Ibe (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "NNPP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "lga": "Akwa Ibom PLACEHOLDER LGA",
+      "name": "Chioma Danladi (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APC",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "manual"
+    }
+  ]
+}

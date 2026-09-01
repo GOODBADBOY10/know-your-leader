@@ -1,0 +1,82 @@
+{
+  "_status": "placeholder",
+  "_state": "Anambra",
+  "senatorialDistricts": [
+    {
+      "state": "Anambra",
+      "name": "Anambra PLACEHOLDER Senatorial District"
+    }
+  ],
+  "federalConstituencies": [
+    {
+      "state": "Anambra",
+      "name": "Anambra PLACEHOLDER Federal Constituency"
+    }
+  ],
+  "stateConstituencies": [
+    {
+      "state": "Anambra",
+      "name": "Anambra PLACEHOLDER State Constituency"
+    }
+  ],
+  "lgas": [
+    {
+      "state": "Anambra",
+      "name": "Anambra PLACEHOLDER LGA",
+      "senatorialDistrict": "Anambra PLACEHOLDER Senatorial District",
+      "federalConstituency": "Anambra PLACEHOLDER Federal Constituency",
+      "stateConstituency": "Anambra PLACEHOLDER State Constituency"
+    }
+  ],
+  "officeholders": [
+    {
+      "office": "GOV",
+      "state": "Anambra",
+      "name": "Kelechi Okafor (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2023-05-29",
+      "termEnd": "2027-05-29",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Anambra",
+      "senatorialDistrict": "Anambra PLACEHOLDER Senatorial District",
+      "name": "Ekaete Nnaji (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Anambra",
+      "federalConstituency": "Anambra PLACEHOLDER Federal Constituency",
+      "name": "Adaeze Danjuma (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Anambra",
+      "stateConstituency": "Anambra PLACEHOLDER State Constituency",
+      "name": "Musa Abdullahi (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Anambra",
+      "lga": "Anambra PLACEHOLDER LGA",
+      "name": "Umar Suleiman (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "manual"
+    }
+  ]
+}

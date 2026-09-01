@@ -1,0 +1,30 @@
+{
+  "_status": "verified",
+  "_note": "National-scope offices only \u2014 no state field, apply everywhere. Don't edit unless there's a real change (e.g. election, resignation).",
+  "officeholders": [
+    {
+      "office": "PRES",
+      "name": "Bola Ahmed Tinubu",
+      "party": "APC",
+      "termStart": "2023-05-29",
+      "termEnd": "2027-05-29",
+      "source": "wikidata"
+    },
+    {
+      "office": "SPRES",
+      "name": "Godswill Akpabio",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "wikidata"
+    },
+    {
+      "office": "SPEAK",
+      "name": "Tajudeen Abbas",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "wikidata"
+    }
+  ]
+}

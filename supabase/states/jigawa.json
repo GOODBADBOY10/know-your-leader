@@ -1,0 +1,82 @@
+{
+  "_status": "placeholder",
+  "_state": "Jigawa",
+  "senatorialDistricts": [
+    {
+      "state": "Jigawa",
+      "name": "Jigawa PLACEHOLDER Senatorial District"
+    }
+  ],
+  "federalConstituencies": [
+    {
+      "state": "Jigawa",
+      "name": "Jigawa PLACEHOLDER Federal Constituency"
+    }
+  ],
+  "stateConstituencies": [
+    {
+      "state": "Jigawa",
+      "name": "Jigawa PLACEHOLDER State Constituency"
+    }
+  ],
+  "lgas": [
+    {
+      "state": "Jigawa",
+      "name": "Jigawa PLACEHOLDER LGA",
+      "senatorialDistrict": "Jigawa PLACEHOLDER Senatorial District",
+      "federalConstituency": "Jigawa PLACEHOLDER Federal Constituency",
+      "stateConstituency": "Jigawa PLACEHOLDER State Constituency"
+    }
+  ],
+  "officeholders": [
+    {
+      "office": "GOV",
+      "state": "Jigawa",
+      "name": "Obinna Okafor (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2023-05-29",
+      "termEnd": "2027-05-29",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Jigawa",
+      "senatorialDistrict": "Jigawa PLACEHOLDER Senatorial District",
+      "name": "Garba Uche (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Jigawa",
+      "federalConstituency": "Jigawa PLACEHOLDER Federal Constituency",
+      "name": "Funke Balogun (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Jigawa PLACEHOLDER State Constituency",
+      "name": "Nkechi Musa (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "NNPP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Jigawa PLACEHOLDER LGA",
+      "name": "Yakubu Ojo (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APC",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "manual"
+    }
+  ]
+}

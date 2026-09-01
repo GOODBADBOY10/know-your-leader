@@ -1,0 +1,82 @@
+{
+  "_status": "verified",
+  "_state": "Lagos",
+  "senatorialDistricts": [
+    {
+      "state": "Lagos",
+      "name": "Lagos West"
+    }
+  ],
+  "federalConstituencies": [
+    {
+      "state": "Lagos",
+      "name": "Ikeja Federal Constituency"
+    }
+  ],
+  "stateConstituencies": [
+    {
+      "state": "Lagos",
+      "name": "Ikeja I State Constituency"
+    }
+  ],
+  "lgas": [
+    {
+      "state": "Lagos",
+      "name": "Ikeja",
+      "senatorialDistrict": "Lagos West",
+      "federalConstituency": "Ikeja Federal Constituency",
+      "stateConstituency": "Ikeja I State Constituency"
+    }
+  ],
+  "officeholders": [
+    {
+      "office": "GOV",
+      "state": "Lagos",
+      "name": "Babajide Olusola Sanwo-Olu",
+      "party": "APC",
+      "termStart": "2023-05-29",
+      "termEnd": "2027-05-29",
+      "source": "wikidata"
+    },
+    {
+      "office": "SEN",
+      "state": "Lagos",
+      "senatorialDistrict": "Lagos West",
+      "name": "Idiat Oluranti Adebule",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "wikidata"
+    },
+    {
+      "office": "REP",
+      "state": "Lagos",
+      "federalConstituency": "Ikeja Federal Constituency",
+      "name": "James Abiodun Faleke",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "wikidata"
+    },
+    {
+      "office": "HOA",
+      "state": "Lagos",
+      "stateConstituency": "Ikeja I State Constituency",
+      "name": "Adeseyi Lawal Lawal",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Lagos",
+      "lga": "Ikeja",
+      "name": "TBD \u2014 not yet verified",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    }
+  ]
+}

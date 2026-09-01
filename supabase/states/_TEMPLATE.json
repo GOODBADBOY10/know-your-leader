@@ -1,0 +1,91 @@
+{
+  "_status": "placeholder",
+  "_state": "REPLACE_STATE_NAME",
+  "_instructions": "Copy this file, rename to your state (lowercase, dashes for spaces, e.g. cross-river.json), fill in real data, then change _status to 'verified' when every PLACEHOLDER/TBD is gone.",
+  "senatorialDistricts": [
+    {
+      "state": "REPLACE_STATE_NAME",
+      "name": "REPLACE_DISTRICT_1"
+    },
+    {
+      "state": "REPLACE_STATE_NAME",
+      "name": "REPLACE_DISTRICT_2"
+    },
+    {
+      "state": "REPLACE_STATE_NAME",
+      "name": "REPLACE_DISTRICT_3"
+    }
+  ],
+  "federalConstituencies": [
+    {
+      "state": "REPLACE_STATE_NAME",
+      "name": "REPLACE_FED_CONSTITUENCY"
+    }
+  ],
+  "stateConstituencies": [
+    {
+      "state": "REPLACE_STATE_NAME",
+      "name": "REPLACE_STATE_CONSTITUENCY"
+    }
+  ],
+  "lgas": [
+    {
+      "state": "REPLACE_STATE_NAME",
+      "name": "REPLACE_LGA_NAME",
+      "senatorialDistrict": "REPLACE_DISTRICT_1",
+      "federalConstituency": "REPLACE_FED_CONSTITUENCY",
+      "stateConstituency": "REPLACE_STATE_CONSTITUENCY"
+    }
+  ],
+  "officeholders": [
+    {
+      "office": "GOV",
+      "state": "REPLACE_STATE_NAME",
+      "name": "REPLACE_REAL_NAME",
+      "party": "REPLACE",
+      "termStart": "YYYY-MM-DD",
+      "termEnd": "YYYY-MM-DD",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "REPLACE_STATE_NAME",
+      "senatorialDistrict": "REPLACE_DISTRICT_1",
+      "name": "REPLACE_REAL_NAME",
+      "party": "REPLACE",
+      "termStart": "YYYY-MM-DD",
+      "termEnd": "YYYY-MM-DD",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "REPLACE_STATE_NAME",
+      "federalConstituency": "REPLACE_FED_CONSTITUENCY",
+      "name": "REPLACE_REAL_NAME",
+      "party": "REPLACE",
+      "termStart": "YYYY-MM-DD",
+      "termEnd": "YYYY-MM-DD",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "REPLACE_STATE_NAME",
+      "stateConstituency": "REPLACE_STATE_CONSTITUENCY",
+      "name": "REPLACE_REAL_NAME",
+      "party": "REPLACE",
+      "termStart": "YYYY-MM-DD",
+      "termEnd": "YYYY-MM-DD",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "REPLACE_STATE_NAME",
+      "lga": "REPLACE_LGA_NAME",
+      "name": "REPLACE_REAL_NAME",
+      "party": "REPLACE",
+      "termStart": "YYYY-MM-DD",
+      "termEnd": "YYYY-MM-DD",
+      "source": "manual"
+    }
+  ]
+}

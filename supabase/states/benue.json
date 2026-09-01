@@ -1,0 +1,82 @@
+{
+  "_status": "placeholder",
+  "_state": "Benue",
+  "senatorialDistricts": [
+    {
+      "state": "Benue",
+      "name": "Benue PLACEHOLDER Senatorial District"
+    }
+  ],
+  "federalConstituencies": [
+    {
+      "state": "Benue",
+      "name": "Benue PLACEHOLDER Federal Constituency"
+    }
+  ],
+  "stateConstituencies": [
+    {
+      "state": "Benue",
+      "name": "Benue PLACEHOLDER State Constituency"
+    }
+  ],
+  "lgas": [
+    {
+      "state": "Benue",
+      "name": "Benue PLACEHOLDER LGA",
+      "senatorialDistrict": "Benue PLACEHOLDER Senatorial District",
+      "federalConstituency": "Benue PLACEHOLDER Federal Constituency",
+      "stateConstituency": "Benue PLACEHOLDER State Constituency"
+    }
+  ],
+  "officeholders": [
+    {
+      "office": "GOV",
+      "state": "Benue",
+      "name": "Onyekachi Bello (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2023-05-29",
+      "termEnd": "2027-05-29",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Benue",
+      "senatorialDistrict": "Benue PLACEHOLDER Senatorial District",
+      "name": "Adewale Chukwu (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Benue",
+      "federalConstituency": "Benue PLACEHOLDER Federal Constituency",
+      "name": "Chioma Bala (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "NNPP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Benue",
+      "stateConstituency": "Benue PLACEHOLDER State Constituency",
+      "name": "Tunde Suleiman (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Benue",
+      "lga": "Benue PLACEHOLDER LGA",
+      "name": "Aliyu Lawal (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "manual"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "_status": "placeholder",
+  "_state": "Imo",
+  "senatorialDistricts": [
+    {
+      "state": "Imo",
+      "name": "Imo PLACEHOLDER Senatorial District"
+    }
+  ],
+  "federalConstituencies": [
+    {
+      "state": "Imo",
+      "name": "Imo PLACEHOLDER Federal Constituency"
+    }
+  ],
+  "stateConstituencies": [
+    {
+      "state": "Imo",
+      "name": "Imo PLACEHOLDER State Constituency"
+    }
+  ],
+  "lgas": [
+    {
+      "state": "Imo",
+      "name": "Imo PLACEHOLDER LGA",
+      "senatorialDistrict": "Imo PLACEHOLDER Senatorial District",
+      "federalConstituency": "Imo PLACEHOLDER Federal Constituency",
+      "stateConstituency": "Imo PLACEHOLDER State Constituency"
+    }
+  ],
+  "officeholders": [
+    {
+      "office": "GOV",
+      "state": "Imo",
+      "name": "Ifeoma Danladi (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APC",
+      "termStart": "2023-05-29",
+      "termEnd": "2027-05-29",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Imo",
+      "senatorialDistrict": "Imo PLACEHOLDER Senatorial District",
+      "name": "Obinna Balogun (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Imo",
+      "federalConstituency": "Imo PLACEHOLDER Federal Constituency",
+      "name": "Chukwuemeka Nnamdi (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Imo PLACEHOLDER State Constituency",
+      "name": "Bukola Uche (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Imo PLACEHOLDER LGA",
+      "name": "Zainab Bala (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "NNPP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "manual"
+    }
+  ]
+}

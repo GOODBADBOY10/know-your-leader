@@ -1,0 +1,82 @@
+{
+  "_status": "placeholder",
+  "_state": "Borno",
+  "senatorialDistricts": [
+    {
+      "state": "Borno",
+      "name": "Borno PLACEHOLDER Senatorial District"
+    }
+  ],
+  "federalConstituencies": [
+    {
+      "state": "Borno",
+      "name": "Borno PLACEHOLDER Federal Constituency"
+    }
+  ],
+  "stateConstituencies": [
+    {
+      "state": "Borno",
+      "name": "Borno PLACEHOLDER State Constituency"
+    }
+  ],
+  "lgas": [
+    {
+      "state": "Borno",
+      "name": "Borno PLACEHOLDER LGA",
+      "senatorialDistrict": "Borno PLACEHOLDER Senatorial District",
+      "federalConstituency": "Borno PLACEHOLDER Federal Constituency",
+      "stateConstituency": "Borno PLACEHOLDER State Constituency"
+    }
+  ],
+  "officeholders": [
+    {
+      "office": "GOV",
+      "state": "Borno",
+      "name": "Musa Danladi (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "NNPP",
+      "termStart": "2023-05-29",
+      "termEnd": "2027-05-29",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Borno",
+      "senatorialDistrict": "Borno PLACEHOLDER Senatorial District",
+      "name": "Suleiman Bala (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "ADC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Borno",
+      "federalConstituency": "Borno PLACEHOLDER Federal Constituency",
+      "name": "Ifeoma Suleiman (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Borno",
+      "stateConstituency": "Borno PLACEHOLDER State Constituency",
+      "name": "Halima Uche (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Borno",
+      "lga": "Borno PLACEHOLDER LGA",
+      "name": "Ibrahim Eze (PLACEHOLDER \u2014 REPLACE ME)",
+      "party": "APGA",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "manual"
+    }
+  ]
+}
