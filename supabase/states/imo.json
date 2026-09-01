@@ -1,8 +1,8 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Imo",
   "senatorialDistricts": [
-      {
+    {
       "state": "Imo",
       "name": "Imo East Senatorial District"
     },
@@ -14,10 +14,9 @@
       "state": "Imo",
       "name": "Imo West Senatorial District"
     }
-
   ],
   "federalConstituencies": [
-        {
+    {
       "state": "Imo",
       "name": "Aboh Mbaise/Ngor Okpala Federal Constituency"
     },
@@ -57,7 +56,6 @@
       "state": "Imo",
       "name": "Owerri Municipal/Owerri North/Owerri West Federal Constituency"
     }
-
   ],
   "stateConstituencies": [
     {
@@ -168,10 +166,9 @@
       "state": "Imo",
       "name": "Owerri West State Constituency"
     }
-
   ],
   "lgas": [
-      {
+    {
       "state": "Imo",
       "name": "Aboh Mbaise LGA",
       "senatorialDistrict": "Imo East Senatorial District",
@@ -362,7 +359,7 @@
     }
   ],
   "officeholders": [
-        {
+    {
       "office": "GOV",
       "state": "Imo",
       "name": "Hope Uzodimma",
@@ -371,7 +368,7 @@
       "termEnd": "2028-01-14",
       "source": "verified"
     },
-        {
+    {
       "office": "SEN",
       "state": "Imo",
       "senatorialDistrict": "Imo East Senatorial District",
@@ -381,7 +378,6 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
     {
       "office": "SEN",
       "state": "Imo",
@@ -392,7 +388,6 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
     {
       "office": "SEN",
       "state": "Imo",
@@ -403,7 +398,6 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
     {
       "office": "REP",
       "state": "Imo",
@@ -414,7 +408,6 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
     {
       "office": "REP",
       "state": "Imo",
@@ -425,7 +418,6 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
     {
       "office": "REP",
       "state": "Imo",
@@ -436,7 +428,6 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
     {
       "office": "REP",
       "state": "Imo",
@@ -447,7 +438,6 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
     {
       "office": "REP",
       "state": "Imo",
@@ -458,7 +448,6 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
     {
       "office": "REP",
       "state": "Imo",
@@ -469,7 +458,6 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
     {
       "office": "REP",
       "state": "Imo",
@@ -480,7 +468,6 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
     {
       "office": "REP",
       "state": "Imo",
@@ -491,7 +478,6 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
     {
       "office": "REP",
       "state": "Imo",
@@ -502,7 +488,6 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
     {
       "office": "REP",
       "state": "Imo",
@@ -513,218 +498,217 @@
       "termEnd": "2027-06-12",
       "source": "verified"
     },
-
-      {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Ahiazu Mbaise State Constituency",
-    "name": "Samuel Nkem Otuibe",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Mbaitoli State Constituency",
-    "name": "Innocent Ikechukwu Ikpamezie",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Ngor Okpala State Constituency",
-    "name": "Obinna Ambrose Egu",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Ikeduru State Constituency",
-    "name": "Iheoha Johnleoba",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Oru West State Constituency",
-    "name": "Dominic Ugochukwu Ezerioha",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Onuimo State Constituency",
-    "name": "Esile James Uba",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Orsu State Constituency",
-    "name": "Agabige Francis Uche",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Ehime Mbano State Constituency",
-    "name": "Bernard Ndubuisi",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Ohaji/Egbema State Constituency",
-    "name": "Uzoma Francis Osuoha",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Njaba State Constituency",
-    "name": "Ozioma Bennett Ebonine",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Ideato North State Constituency",
-    "name": "Udeze Ernest Okechukwu",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Obowo State Constituency",
-    "name": "Chidozie Kennedy Ibeh",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Okigwe State Constituency",
-    "name": "Ogbunikpa Chidi Samuel",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Ezinihitte Mbaise State Constituency",
-    "name": "Henry Agbasonu",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Nkwerre State Constituency",
-    "name": "Ojukwu Thaddeus Chisom",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Oguta State Constituency",
-    "name": "Gilbert Chidozie Nwosu",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Orlu State Constituency",
-    "name": "Martin Ihezuo",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Owerri Municipal State Constituency",
-    "name": "Amadi Clinton",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Aboh Mbaise State Constituency",
-    "name": "Princewill Ugochukwu Amuchie",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Ideato South State Constituency",
-    "name": "Duru Iheonukara Johnson",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  },
-  {
-    "office": "HOA",
-    "state": "Imo",
-    "stateConstituency": "Isu State Constituency",
-    "name": "Kingsley Emeka Ozurumba",
-    "party": "APC",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-12",
-    "source": "Imo State House of Assembly"
-  }, 
- {
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ahiazu Mbaise State Constituency",
+      "name": "Samuel Nkem Otuibe",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Mbaitoli State Constituency",
+      "name": "Innocent Ikechukwu Ikpamezie",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ngor Okpala State Constituency",
+      "name": "Obinna Ambrose Egu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ikeduru State Constituency",
+      "name": "Iheoha Johnleoba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Oru West State Constituency",
+      "name": "Dominic Ugochukwu Ezerioha",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Onuimo State Constituency",
+      "name": "Esile James Uba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Orsu State Constituency",
+      "name": "Agabige Francis Uche",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ehime Mbano State Constituency",
+      "name": "Bernard Ndubuisi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ohaji/Egbema State Constituency",
+      "name": "Uzoma Francis Osuoha",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Njaba State Constituency",
+      "name": "Ozioma Bennett Ebonine",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ideato North State Constituency",
+      "name": "Udeze Ernest Okechukwu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Obowo State Constituency",
+      "name": "Chidozie Kennedy Ibeh",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Okigwe State Constituency",
+      "name": "Ogbunikpa Chidi Samuel",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ezinihitte Mbaise State Constituency",
+      "name": "Henry Agbasonu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Nkwerre State Constituency",
+      "name": "Ojukwu Thaddeus Chisom",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Oguta State Constituency",
+      "name": "Gilbert Chidozie Nwosu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Orlu State Constituency",
+      "name": "Martin Ihezuo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Owerri Municipal State Constituency",
+      "name": "Amadi Clinton",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Aboh Mbaise State Constituency",
+      "name": "Princewill Ugochukwu Amuchie",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ideato South State Constituency",
+      "name": "Duru Iheonukara Johnson",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Isu State Constituency",
+      "name": "Kingsley Emeka Ozurumba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
       "office": "CHM",
       "state": "Imo",
       "lga": "Ahiazu Mbaise LGA",
@@ -734,7 +718,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -745,7 +728,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -756,7 +738,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -767,7 +748,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -778,7 +758,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -789,7 +768,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -800,7 +778,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -811,7 +788,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -822,7 +798,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -833,7 +808,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -844,7 +818,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -855,7 +828,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -866,7 +838,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -877,7 +848,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -888,7 +858,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -899,7 +868,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -910,7 +878,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -921,7 +888,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -932,7 +898,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -943,7 +908,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -954,7 +918,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -965,7 +928,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -976,7 +938,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -987,7 +948,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
@@ -998,7 +958,6 @@
       "termEnd": "2027-09-22",
       "source": "ISIEC"
     },
-
     {
       "office": "CHM",
       "state": "Imo",
