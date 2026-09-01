@@ -4,79 +4,1009 @@
   "senatorialDistricts": [
     {
       "state": "Anambra",
-      "name": "Anambra PLACEHOLDER Senatorial District"
+      "name": "Anambra North"
+    },
+    {
+      "state": "Anambra",
+      "name": "Anambra Central"
+    },
+    {
+      "state": "Anambra",
+      "name": "Anambra South"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Anambra",
-      "name": "Anambra PLACEHOLDER Federal Constituency"
+      "name": "Aguata Federal Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Anambra East/Anambra West Federal Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Awka North/Awka South Federal Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Idemili North/Idemili South Federal Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Ihiala Federal Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Njikoka/Dunukofia/Anaocha Federal Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Nnewi North/Nnewi South/Ekwusigo Federal Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Onitsha North/Onitsha South Federal Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Orumba North/Orumba South Federal Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Oyi/Ayamelum Federal Constituency"
+    },
+     {
+      "state": "Anambra",
+      "name": "Ogbaru Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Anambra",
-      "name": "Anambra PLACEHOLDER State Constituency"
+      "name": "Anaocha I State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Anaocha II State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Awka South I PLACEHOLDER State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Awka South II PLACEHOLDER State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Dunukofia State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Idemili North State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Idemili South State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Njikoka I State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Njikoka II Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Anambra East State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Anambra West State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Ayamelum State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Ogbaru I State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Ogbaru II State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Onitsha North I State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Onitsh North II State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Onitsha South I State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Onitsha South II State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Oyi State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Aguata I State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Aguata II State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Ekwusigo State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Ihiala I State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Ihiala II State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Nnewi North State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Nnewi South I State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Nnewi South II State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Orumba North State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Orumba South State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Anambra",
-      "name": "Anambra PLACEHOLDER LGA",
-      "senatorialDistrict": "Anambra PLACEHOLDER Senatorial District",
-      "federalConstituency": "Anambra PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Anambra PLACEHOLDER State Constituency"
+      "name": "Awka North",
+      "senatorialDistrict": "Anambra Central",
+      "federalConstituency": "Awka North/Awka South Federal Constituency",
+      "stateConstituency": "Awka North State Constituency"
+    },
+     {
+      "state": "Anambra",
+      "name": "Awka South",
+      "senatorialDistrict": "Anambra Central",
+      "federalConstituency": "Awka North/Awka South Federal Constituency",
+      "stateConstituency": "Awka South(I, II) State Constituency"
+    },
+     {
+      "state": "Anambra",
+      "name": "Njikoka",
+      "senatorialDistrict": "Anambra Central",
+      "federalConstituency": "Njikoka/Dunukofia/Anaocha Federal Constituency",
+      "stateConstituency": "Njikoka(I, II) State Constituency"
+    },
+     {
+      "state": "Anambra",
+      "name": "Anaocha",
+      "senatorialDistrict": "Anambra Central",
+      "federalConstituency": "Njikoka/Dunukofia/Anaocha Senatorial District",
+      "stateConstituency": "Anaocha(I, II) State Constituency"
+    },
+     {
+      "state": "Anambra",
+      "name": "Idemili North",
+      "senatorialDistrict": "Anambra Central",
+      "federalConstituency":"Idemili North/Idenili South Federal Constituency",
+      "stateConstituency": "Idemili North State Constituency"
+    },
+     {
+      "state": "Anambra",
+      "name": "Idemili South",
+      "senatorialDistrict": "Anambra Central",
+      "federalConstituency": "Idemili North/Idemili South Federal Constituency",
+      "stateConstituency": "Idemili South State Constituency"
+    },
+     {
+      "state": "Anambra",
+      "name": "Dunukofia",
+      "senatorialDistrict": "Anambra Central",
+      "federalConstituency": "Njikoka/Dunukofia/Anaocha Federal Constituency",
+      "stateConstituency": "Dunukofia State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Onitsha North",
+      "senatorialDistrict": "Anambra North",
+      "federalConstituency": "Onitsha North/Onitsha South Federal Constituency",
+      "stateConstituency": "Onitsha North(I, II) State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Onitsha South",
+      "senatorialDistrict": "Anambra North",
+      "federalConstituency": "Onitsha North/Onitsha South Federal Constituency",
+      "stateConstituency": "Onitsha South State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Ayamelum",
+      "senatorialDistrict": "Anambra North",
+      "federalConstituency": "Oyi/Ayamelum Federal Constituency",
+      "stateConstituency": "Ayamelum State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Oyi",
+      "senatorialDistrict": "Anambra North",
+      "federalConstituency": "Oyi/Ayamelum Federal Constituency",
+      "stateConstituency": "Oyi State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Anambra East",
+      "senatorialDistrict": "Anambra North",
+      "federalConstituency": "Anambra East/Anambra West Federal Constituency",
+      "stateConstituency": "Anambra East State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Anambra West",
+      "senatorialDistrict": "Anambra North",
+      "federalConstituency": "Anambra East/Anambra West Federal Constituency",
+      "stateConstituency":  "Anambra West State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name":  "Ogbaru",
+      "senatorialDistrict": "Anambra North",
+      "federalConstituency": "Ogbaru Federal Constituency",
+      "stateConstituency": "Ogbaru(I, II) State Constituency"
+    },
+     {
+      "state": "Anambra",
+      "name": "Ekwusigo",
+      "senatorialDistrict": "Anambra South",
+      "federalConstituency": "Nnewi North/Nnewi South/Ekwusigo Federal Constituency",
+      "stateConstituency": "Ekwusigo State Constituency"
+     },
+    {
+      "state": "Anambra",
+      "name": "Aguata",
+      "senatorialDistrict": "Anambra South",
+      "federalConstituency": "Aguata Federal Constituency",
+      "stateConstituency": "Aguata(I, II) State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Ihiala",
+      "senatorialDistrict": "Anambra South",
+      "federalConstituency": "Ihiala Federal Constituency",
+      "stateConstituency": "Ihiala(I, II) State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Orumba North",
+      "senatorialDistrict": "Anambra South",
+      "federalConstituency": "Orumba North/Orumba South Federal Constituency",
+      "stateConstituency": "Orumba North State Constituency"
+    },
+    {
+      "state": "Anambra",
+      "name": "Orumba South",
+      "senatorialDistrict": "Anambra South",
+      "federalConstituency": "Orumba North/Orumba South Federal Constituency",
+      "stateConstituency":  "Orumba South State Constituency"
+    },
+     {
+      "state": "Anambra",
+      "name": "Nnewi South",
+      "senatorialDistrict": "Anambra South",
+      "federalConstituency": "Nnewi North/Nnewi South/Ekwusigo Federal Constituency",
+      "stateConstituency":  "Nnewi South(I, II) State Constituency"
+    },
+     {
+      "state": "Anambra",
+      "name": "Nnewi North",
+      "senatorialDistrict": "Anambra South",
+      "federalConstituency": "Nnewi North/Nnewi South/Ekwusigo Federal Constituency",
+      "stateConstituency":  "Nnewi North(I, II) State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Anambra",
-      "name": "Kelechi Okafor (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
-      "termStart": "2023-05-29",
-      "termEnd": "2027-05-29",
-      "source": "manual"
+      "name": "Prof. Charles Chukwuma Soludo",
+      "party": "APGA",
+      "termStart": "2026-03-17",
+      "termEnd": "2030-03-17",
+      "source": "wikidata"
     },
     {
       "office": "SEN",
       "state": "Anambra",
-      "senatorialDistrict": "Anambra PLACEHOLDER Senatorial District",
-      "name": "Ekaete Nnaji (PLACEHOLDER \u2014 REPLACE ME)",
+      "senatorialDistrict": "Anambra Central",
+      "name": "Victor Umeh",
+      "party": "NDC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "wikidata"
+    },
+    {
+      "office": "SEN",
+      "state": "Anambra",
+      "senatorialDistrict": "Anambra North",
+      "name": "Tony Okechukwu Nwoye",
+      "party": "ADC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "wikidata"
+    },
+    {
+      "office": "SEN",
+      "state": "Anambra",
+      "senatorialDistrict": "Anambra South",
+      "name": "Emma Nwachukwu",
       "party": "APGA",
       "termStart": "2023-06-13",
-      "termEnd": "2027-06-13",
-      "source": "manual"
+      "termEnd": "2027-06-12",
+      "source": "wikidata"
     },
     {
       "office": "REP",
       "state": "Anambra",
-      "federalConstituency": "Anambra PLACEHOLDER Federal Constituency",
-      "name": "Adaeze Danjuma (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
+      "federalConstituency": "Aguata Federal Constituency",
+      "name": "Dominic Ifeanyi Okafor",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "wikidata"
     },
     {
-      "office": "HOA",
+      "office": "REP",
       "state": "Anambra",
-      "stateConstituency": "Anambra PLACEHOLDER State Constituency",
-      "name": "Musa Abdullahi (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APC",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "federalConstituency": "Anambra East/Anambra West Federal Constituency",
+      "name": "Peter Udogalanya Aniekwe",
+      "party": "NDC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "wikidata"
     },
     {
-      "office": "CHM",
+      "office": "REP",
       "state": "Anambra",
-      "lga": "Anambra PLACEHOLDER LGA",
-      "name": "Umar Suleiman (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
-    }
+      "federalConstituency": "Awka North/Awka South Federal Constituency",
+      "name": "Lilian Obiageli Orogbu",
+      "party": "NDC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "wikidata"
+    },
+    {
+      "office": "REP",
+      "state": "Anambra",
+      "federalConstituency": "Idemili North/Idemili South Federal Constituency",
+      "name": "Uchenna Harris Okonkwo",
+      "party": "NDC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "wikidata"
+    },
+  {
+    "office": "REP",
+    "state": "Anambra",
+    "federalConstituency": "Ihiala Federal Constituency",
+    "name": "Paschal A. Agbodike",
+    "party": "APC",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "REP",
+    "state": "Anambra",
+    "federalConstituency": "Njikoka/Dunukofia/Anaocha Federal Constituency",
+    "name": "George Ibezimako Ozodinobi",
+    "party": "NDC",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "REP",
+    "state": "Anambra",
+    "federalConstituency": "Nnewi North/Nnewi South/Ekwusigo Federal Constituency",
+    "name": "Peter Ifeanyichukwu Uzokwe",
+    "party": "NDC",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "REP",
+    "state": "Anambra",
+    "federalConstituency": "Ogbaru Federal Constituency",
+    "name": "Victor Afam Ogene",
+    "party": "NDC",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "REP",
+    "state": "Anambra",
+    "federalConstituency": "Onitsha North/Onitsha South Federal Constituency",
+    "name": "Emeka Idu Godwin Obiajulu",
+    "party": "NDC",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "REP",
+    "state": "Anambra",
+    "federalConstituency": "Orumba North/Orumba South Federal Constituency",
+    "name": "Chinwe Clara Nnabuife",
+    "party": "YPP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "REP",
+    "state": "Anambra",
+    "federalConstituency": "Oyi/Ayamelum Federal Constituency",
+    "name": "Maureen Chinwe Gwacham",
+    "party": "APC",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+    {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Aguata I",
+    "name": "Anayo Okpalaeke",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Anaocha I",
+    "name": "Felicitas Ogbuefi",
+    "party": "LP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Awka North",
+    "name": "Chimezie Ikwunne",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Awka South I",
+    "name": "Nigeria Henry Mbachu",
+    "party": "LP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Idemili South",
+    "name": "Chukwuebuka Igwe",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Idemili North",
+    "name": "Martin Obiorah Amakwe",
+    "party": "LP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Ihiala I",
+    "name": "Jude Chimezie Ngobili",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Njikoka I",
+    "name": "Chidiebele Ibemeka",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Nnewi North",
+    "name": "Augustine Ike",
+    "party": "YPP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Nnewi South I",
+    "name": "Noso Atuchukwu",
+    "party": "YPP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Ogbaru I",
+    "name": "Chukwunonso Noble Igwe-Obumneme",
+    "party": "PDP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Oyi",
+    "name": "Innocent Ojike",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Aguata II",
+    "name": "Anthony Muobike",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Anaocha II",
+    "name": "Ejike Aloy Okechukwu",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Awka South II",
+    "name": "Chukwuma Pius Okoye",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Ihiala II",
+    "name": "Chukwuebuka Kelvin Iloh",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Njikoka II",
+    "name": "Jude Ejikeme Akpua",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Nnewi South II",
+    "name": "Johnbosco Nwabugwu Akaegbobi",
+    "party": "YPP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Ogbaru II",
+    "name": "Somtochukwu Nkemakolam Udeze",
+    "party": "PDP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Onitsha North II",
+    "name": "Patrick Okafor",
+    "party": "LP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Onitsha South II",
+    "name": "Jude Umennajiego",
+    "party": "LP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Anambra Central",
+    "name": "Emeka Egbuonu",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Onitsha South I",
+    "name": "Fredrick Chigozie Ezenwa",
+    "party": "LP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Onitsha North I",
+    "name": "Justice Azuka",
+    "party": "LP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Orumba North",
+    "name": "Paul Chukwuka Obu",
+    "party": "LP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Orumba South",
+    "name": "Emmanuel Obinna Nwafor",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Oyi",
+    "name": "Charles Chinedu Obimma",
+    "party": "YPP",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Anambra East",
+    "name": "Obi Callistus Nweke",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Anambra West",
+    "name": "Patrick Obalum Udoba",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Dunukofia",
+    "name": "Francis Chuks Azotani",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Ayemelum",
+    "name": "Victor Uche Okafor",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+  {
+    "office": "HOA",
+    "state": "Anambra",
+    "stateConstituency": "Ekwusigo",
+    "name": "Ikenna Ofodeme",
+    "party": "APGA",
+    "termStart": "2023-06-13",
+    "termEnd": "2027-06-13",
+    "source": "wikidata"
+  },
+    {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Aguata",
+    "name": "Kingsley Ezeagu",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Anambra East",
+    "name": "Ifeanyi Chinweze",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Anambra West",
+    "name": "Tony Obierika",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Anaocha",
+    "name": "Paulinus Okafor",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Awka North",
+    "name": "ThankGod Anago",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Awka South",
+    "name": "Chinedu Okafor",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Ayamelum",
+    "name": "Mgbechi Igwebuike",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Dunukofia",
+    "name": "Clement Ozumba",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Ekwusigo",
+    "name": "Ifeanyi Onuchukwu",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Idemili North",
+    "name": "Stanley Nkwoka",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Idemili South",
+    "name": "Oluchukwu Ilogbenam",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Ihiala",
+    "name": "Anayo Orjiakor",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Njikoka",
+    "name": "Ikechukwu Okakpu",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Nnewi North",
+    "name": "Echezona Anazodo",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Nnewi South",
+    "name": "Chinedu Ezeogidi",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Ogbaru",
+    "name": "Nnamdi Ifejika",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Onitsha North",
+    "name": "Chukwuemelie Ibekwe",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Onitsha South",
+    "name": "Okechukwu Mofunanya",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Orumba North",
+    "name": "Casmir Nwafor",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Orumba South",
+    "name": "Shedrack Azubuike",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  },
+  {
+    "office": "CHM",
+    "state": "Anambra",
+    "lga": "Oyi",
+    "name": "Igbem Elochukwu",
+    "party": "APGA",
+    "termStart": "2026-09-01",
+    "termEnd": "2030-09-01",
+    "source": "wikidata"
+  }
   ]
 }
