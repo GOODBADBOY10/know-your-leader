@@ -1,8 +1,4 @@
-
 {
-  "_status": "placeholder",
-  "_state": "Jigawa",
-
   "senatorialDistricts": [
     {
       "state": "Jigawa",
@@ -17,7 +13,6 @@
       "name": "Jigawa South-West Senatorial District"
     }
   ],
-
   "federalConstituencies": [
     {
       "state": "Jigawa",
@@ -64,7 +59,6 @@
       "name": "Ringim/Taura Federal Constituency"
     }
   ],
-
   "stateConstituencies": [
     {
       "state": "Jigawa",
@@ -187,7 +181,6 @@
       "name": "Yankwashi State Constituency"
     }
   ],
-
   "lgas": [
     {
       "state": "Jigawa",
@@ -379,7 +372,6 @@
       "stateConstituency": "Yankwashi State Constituency"
     }
   ],
-
   "officeholders": [
     {
       "office": "GOV",
@@ -390,7 +382,6 @@
       "termEnd": "2027-05-29",
       "source": "Jigawa State Government"
     },
-
     {
       "office": "SEN",
       "state": "Jigawa",
@@ -421,7 +412,6 @@
       "termEnd": "2027-06-13",
       "source": "2023 election result"
     },
-
     {
       "office": "REP",
       "state": "Jigawa",
@@ -532,7 +522,6 @@
       "termEnd": "2027-06-13",
       "source": "Jigawa State Government"
     },
-
     {
       "office": "HOA",
       "state": "Jigawa",
@@ -832,10 +821,7 @@
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
       "source": "Jigawa State Government"
-    }
-  ],
-
-  "lgaChairmen": [
+    },
     {
       "office": "CHM",
       "state": "Jigawa",
