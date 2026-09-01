@@ -1,12 +1,11 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Abia",
   "senatorialDistricts": [
     {
       "state": "Abia",
       "name": "Abia North"
     },
-
     {
       "state": "Abia",
       "name": "Abia Central"
@@ -108,7 +107,7 @@
       "name": "Osisioma Ngwa South State Constituency"
     },
     {
-      "state":"Abia",
+      "state": "Abia",
       "name": "Obingwa East State Constituency"
     },
     {
@@ -145,14 +144,8 @@
     },
     {
       "state": "Abia",
-      "name": "Isuikwuato State Constituency"
-    },
-    {
-      "state": "Abia",
       "name": "Aba Central State Constituency"
     }
-
-    
   ],
   "lgas": [
     {
@@ -174,84 +167,112 @@
       "name": "Arochukwu",
       "senatorialDistrict": "Abia North Senatorial District",
       "federalConstituency": "Arochukwu/Ohafia Federal Constituency",
-      "stateConstituency": ["Arochukwu State Constituency"]
+      "stateConstituency": [
+        "Arochukwu State Constituency"
+      ]
     },
     {
       "state": "Abia",
       "name": "Bende",
       "senatorialDistrict": "Abia North Senatorial District",
       "federalConstituency": "Bende Federal Constituency",
-      "stateConstituency": ["Bende North State Constituency", "Bende South State Constituency"]
+      "stateConstituency": [
+        "Bende North State Constituency",
+        "Bende South State Constituency"
+      ]
     },
     {
       "state": "Abia",
       "name": "Ikwuano",
       "senatorialDistrict": "Abia Central Senatorial District",
       "federalConstituency": "Ikwuano/Umuahia North/Umuahia South Federal Constituency",
-      "stateConstituency": ["Ikwuano State Constituency"]
+      "stateConstituency": [
+        "Ikwuano State Constituency"
+      ]
     },
     {
       "state": "Abia",
       "name": "Isiala Ngwa North",
       "senatorialDistrict": "Abia Central Senatorial District",
       "federalConstituency": "Isiala Ngwa North/Isiala Ngwa South Federal Constituency",
-      "stateConstituency": ["Isiala Ngwa North State Constituency"]
+      "stateConstituency": [
+        "Isiala Ngwa North State Constituency"
+      ]
     },
     {
       "state": "Abia",
       "name": "Isiala Ngwa South",
       "senatorialDistrict": "Abia Central Senatorial District",
       "federalConstituency": "Isiala Ngwa North/Isiala Ngwa South Federal Constituency",
-      "stateConstituency": ["Isiala Ngwa South State Constituency"]
+      "stateConstituency": [
+        "Isiala Ngwa South State Constituency"
+      ]
     },
     {
       "state": "Abia",
       "name": "Isuikwuato",
       "senatorialDistrict": "Abia North Senatorial District",
       "federalConstituency": "Isuikwuato/Umunneochi Federal Constituency",
-      "stateConstituency": ["Isuikwuato State Constituency"]
+      "stateConstituency": [
+        "Isuikwuato State Constituency"
+      ]
     },
     {
       "state": "Abia",
       "name": "Obingwa",
       "senatorialDistrict": "Abia South Senatorial District",
       "federalConstituency": "Obingwa/Ugwunagbo/Osisioma Federal Constituency",
-      "stateConstituency": ["Obingwa East State Constituency", "Obingwa West State Constituency"]
+      "stateConstituency": [
+        "Obingwa East State Constituency",
+        "Obingwa West State Constituency"
+      ]
     },
     {
       "state": "Abia",
       "name": "Ohafia",
       "senatorialDistrict": "Abia North Senatorial District",
       "federalConstituency": "Arochukwu/Ohafia Federal Constituency",
-      "stateConstituency": ["Ohafia North State Constituency", "Ohafia South State Constituency"]
+      "stateConstituency": [
+        "Ohafia North State Constituency",
+        "Ohafia South State Constituency"
+      ]
     },
     {
       "state": "Abia",
       "name": "Osisioma Ngwa",
       "senatorialDistrict": "Abia South Senatorial District",
       "federalConstituency": "Obingwa/Ugwunagbo/Osisioma Federal Constituency",
-      "stateConstituency": ["Osisioma Ngwa North State Constituency", "Osisioma Ngwa South State Constituency"]
+      "stateConstituency": [
+        "Osisioma Ngwa North State Constituency",
+        "Osisioma Ngwa South State Constituency"
+      ]
     },
     {
       "state": "Abia",
       "name": "Ugwunagbo",
       "senatorialDistrict": "Abia South Senatorial District",
       "federalConstituency": "Obingwa/Ugwunagbo/Osisioma Federal Constituency",
-      "stateConstituency": ["Ugwunagbo State Constituency"]
+      "stateConstituency": [
+        "Ugwunagbo State Constituency"
+      ]
     },
     {
       "state": "Abia",
       "name": "Ukwa East",
       "senatorialDistrict": "Abia South Senatorial District",
       "federalConstituency": "Ukwa East/Ukwa West Federal Constituency",
-      "stateConstituency": ["Ukwa East State Constituency"]
+      "stateConstituency": [
+        "Ukwa East State Constituency"
+      ]
     },
     {
       "state": "Abia",
       "name": "Ukwa West",
       "senatorialDistrict": "Abia South Senatorial District",
       "federalConstituency": "Ukwa East/Ukwa West Federal Constituency",
-      "stateConstituency": ["Ukwa West State Constituency"]
+      "stateConstituency": [
+        "Ukwa West State Constituency"
+      ]
     },
     {
       "state": "Abia",
@@ -269,18 +290,21 @@
       "name": "Umuahia South",
       "senatorialDistrict": "Abia Central Senatorial District",
       "federalConstituency": "Ikwuano/Umuahia North/Umuahia South Federal Constituency",
-      "stateConstituency": ["Umuahia South State Constituency"]
+      "stateConstituency": [
+        "Umuahia South State Constituency"
+      ]
     },
     {
       "state": "Abia",
       "name": "Umunneochi",
       "senatorialDistrict": "Abia North Senatorial District",
       "federalConstituency": "Isuikwuato/Umunneochi Federal Constituency",
-      "stateConstituency": ["Umunneochi State Constituency"]
+      "stateConstituency": [
+        "Umunneochi State Constituency"
+      ]
     }
   ],
-
-  "officeholder": [
+  "officeholders": [
     {
       "office": "GOV",
       "state": "Abia",
@@ -314,7 +338,7 @@
       "office": "SEN",
       "state": "Abia",
       "senatorialDistrict": "Abia Central Senatorial District",
-      "name": " Augustine Akobundu",
+      "name": "Augustine Akobundu",
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-12",
@@ -344,7 +368,7 @@
       "office": "REP",
       "state": "Abia",
       "federalConstituency": "Bende Federal Constituency",
-      "name": "Benjamin Kalu ",
+      "name": "Benjamin Kalu",
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
@@ -394,13 +418,12 @@
       "office": "REP",
       "state": "Abia",
       "federalConstituency": "Ukwa East/Ukwa West Federal Constituency",
-      "name": "Chris Nkwota ",
+      "name": "Chris Nkwota",
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
       "source": "manual"
     },
-  
     {
       "office": "HOA",
       "state": "Abia",
@@ -811,8 +834,5 @@
       "termEnd": "2027-11-03",
       "source": "manual"
     }
-  
-
-
   ]
 }
