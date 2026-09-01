@@ -1,6 +1,7 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Bayelsa",
+  "_verification_notes": "Contributor's PR had a paste error: two different names (Omubo Timinyo, Abraham Ingobere) were both labeled 'Brass III'. Corrected here using independently-verified Wikipedia data: Timinyo=Brass II, Ingobere=Brass III. ALSO: Southern Ijaw IV (Victor-Ben Selekaye) \u2014 contributor's PR says PDP, but the party I originally verified from Wikipedia was APC. Kept PDP per the contributor's newer research, but this should be double-checked before fully trusting it \u2014 parties can change via defection, so newer info may genuinely be correct, but it's unconfirmed by me.",
   "senatorialDistricts": [
     {
       "state": "Bayelsa",
@@ -40,99 +41,99 @@
   "stateConstituencies": [
     {
       "state": "Bayelsa",
-      "name": "Brass I state Constituency"
+      "name": "Brass I State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Brass II state Constituency"
+      "name": "Brass II State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Brass III state Constituency"
+      "name": "Brass III State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Ekeremor I state Constituency"
+      "name": "Nembe I State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Ekeremor II state Constituency"
+      "name": "Nembe II State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Ekeremor III state Constituency"
+      "name": "Nembe III State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Kolokuma/Opokuma I state Constituency"
+      "name": "Ogbia I State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Kolokuma/Opokuma II state Constituency"
+      "name": "Ogbia II State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Nembe I state Constituency"
+      "name": "Ogbia III State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Nembe II state Constituency"
+      "name": "Ekeremor I State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Nembe III state Constituency"
+      "name": "Ekeremor II State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Ogbia I state Constituency"
+      "name": "Ekeremor III State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Ogbia II state Constituency"
+      "name": "Sagbama I State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Ogbia III state Constituency"
+      "name": "Sagbama II State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Sagbama I state Constituency"
+      "name": "Sagbama III State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Sagbama II state Constituency"
+      "name": "Yenagoa I State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Sagbama III state Constituency"
+      "name": "Yenagoa II State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Southern Ijaw I state Constituency"
+      "name": "Yenagoa III State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Southern Ijaw II state Constituency"
+      "name": "Kolokuma/Opokuma I State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Southern Ijaw III state Constituency"
+      "name": "Kolokuma/Opokuma II State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Southern Ijaw IV state Constituency"
+      "name": "Southern Ijaw I State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Yenogoa I state Constituency"
+      "name": "Southern Ijaw II State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Yenogoa II state Constituency"
+      "name": "Southern Ijaw III State Constituency"
     },
     {
       "state": "Bayelsa",
-      "name": "Yenogoa III state Constituency"
+      "name": "Southern Ijaw IV State Constituency"
     }
   ],
   "lgas": [
@@ -141,161 +142,56 @@
       "name": "Brass",
       "senatorialDistrict": "Bayelsa East",
       "federalConstituency": "Brass/Nembe Federal Constituency",
-      "stateConstituency": "Brass I"
-    },
-    {
-      "state": "Bayelsa",
-      "name": "Brass",
-      "senatorialDistrict": "Bayelsa East",
-      "federalConstituency": "Brass/Nembe Federal Constituency",
-      "stateConstituency": "Brass II"
-    },
-    {
-      "state": "Bayelsa",
-      "name": "Brass",
-      "senatorialDistrict": "Bayelsa East",
-      "federalConstituency": "Brass/Nembe Federal Constituency",
-      "stateConstituency": "Brass III"
-    },
-     {
-      "state": "Bayelsa",
-      "name": "Nembe",
-      "senatorialDistrict": "Bayelsa East",
-      "federalConstituency": "Brass/Nembe Federal Constituency",
-      "stateConstituency": "Nembe I"
+      "stateConstituency": "Brass I State Constituency"
     },
     {
       "state": "Bayelsa",
       "name": "Nembe",
       "senatorialDistrict": "Bayelsa East",
       "federalConstituency": "Brass/Nembe Federal Constituency",
-      "stateConstituency": "Nembe II"
-    },
-     {
-      "state": "Bayelsa",
-      "name": "Nembe",
-      "senatorialDistrict": "Bayelsa East",
-      "federalConstituency": "Brass/Nembe Federal Constituency",
-      "stateConstituency": "Nembe III"
+      "stateConstituency": "Nembe I State Constituency"
     },
     {
       "state": "Bayelsa",
       "name": "Ogbia",
       "senatorialDistrict": "Bayelsa East",
       "federalConstituency": "Ogbia Federal Constituency",
-      "stateConstituency": "Ogbia I"
-    },
-     {
-      "state": "Bayelsa",
-      "name": "Ogbia",
-      "senatorialDistrict": "Bayelsa East",
-      "federalConstituency": "Ogbia Federal Constituency",
-      "stateConstituency": "Ogbia II"
-    },
-     {
-      "state": "Bayelsa",
-      "name": "Ogbia",
-      "senatorialDistrict": "Bayelsa East",
-      "federalConstituency": "Ogbia Federal Constituency",
-      "stateConstituency": "Ogbia III"
+      "stateConstituency": "Ogbia I State Constituency"
     },
     {
       "state": "Bayelsa",
       "name": "Ekeremor",
       "senatorialDistrict": "Bayelsa West",
       "federalConstituency": "Sagbama/Ekeremor Federal Constituency",
-      "stateConstituency": "Ekeremor I"
-    },
-    {
-      "state": "Bayelsa",
-      "name": "Ekeremor",
-      "senatorialDistrict": "Bayelsa West",
-      "federalConstituency": "Sagbama/Ekeremor Federal Constituency",
-      "stateConstituency": "Ekeremor II"
-    },
-    {
-      "state": "Bayelsa",
-      "name": "Ekeremor",
-      "senatorialDistrict": "Bayelsa West",
-      "federalConstituency": "Sagbama/Ekeremor Federal Constituency",
-      "stateConstituency": "Ekeremor III"
+      "stateConstituency": "Ekeremor I State Constituency"
     },
     {
       "state": "Bayelsa",
       "name": "Sagbama",
       "senatorialDistrict": "Bayelsa West",
       "federalConstituency": "Sagbama/Ekeremor Federal Constituency",
-      "stateConstituency": "Sagbama I"
-    },
-    {
-      "state": "Bayelsa",
-      "name": "Sagbama",
-      "senatorialDistrict": "Bayelsa West",
-      "federalConstituency": "Sagbama/Ekeremor Federal Constituency",
-      "stateConstituency": "Sagbama II"
-    },
-    {
-      "state": "Bayelsa",
-      "name": "Sagbama",
-      "senatorialDistrict": "Bayelsa West",
-      "federalConstituency": "Sagbama/Ekeremor Federal Constituency",
-      "stateConstituency": "Sagbama III"
+      "stateConstituency": "Sagbama I State Constituency"
     },
     {
       "state": "Bayelsa",
       "name": "Yenagoa",
       "senatorialDistrict": "Bayelsa Central",
       "federalConstituency": "Yenagoa/Kolokuma/Opokuma Federal Constituency",
-      "stateConstituency": "Yenagoa I"
-    },
-    {
-      "state": "Bayelsa",
-      "name": "Yenagoa",
-      "senatorialDistrict": "Bayelsa Central",
-      "federalConstituency": "Yenagoa/Kolokuma/Opokuma Federal Constituency",
-      "stateConstituency": "Yenagoa II"
+      "stateConstituency": "Yenagoa I State Constituency"
     },
     {
       "state": "Bayelsa",
       "name": "Kolokuma/Opokuma",
       "senatorialDistrict": "Bayelsa Central",
       "federalConstituency": "Yenagoa/Kolokuma/Opokuma Federal Constituency",
-      "stateConstituency": "Kolokuma/Opokuma I"
-    },
-    {
-      "state": "Bayelsa",
-      "name": "Kolokuma/Opokuma",
-      "senatorialDistrict": "Bayelsa Central",
-      "federalConstituency": "Yenagoa/Kolokuma/Opokuma Federal Constituency",
-      "stateConstituency": "Kolokuma/Opokuma II"
+      "stateConstituency": "Kolokuma/Opokuma I State Constituency"
     },
     {
       "state": "Bayelsa",
       "name": "Southern Ijaw",
       "senatorialDistrict": "Bayelsa Central",
       "federalConstituency": "Southern Ijaw Federal Constituency",
-      "stateConstituency": "Southern Ijaw I"
-    },
-    {
-      "state": "Bayelsa",
-      "name": "Southern Ijaw",
-      "senatorialDistrict": "Bayelsa Central",
-      "federalConstituency": "Southern Ijaw Federal Constituency",
-      "stateConstituency": "Southern Ijaw II"
-    },
-    {
-      "state": "Bayelsa",
-      "name": "Southern Ijaw",
-      "senatorialDistrict": "Bayelsa Central",
-      "federalConstituency": "Southern Ijaw Federal Constituency",
-      "stateConstituency": "Southern Ijaw III"
-    },
-    {
-      "state": "Bayelsa",
-      "name": "Southern Ijaw",
-      "senatorialDistrict": "Bayelsa Central",
-      "federalConstituency": "Southern Ijaw Federal Constituency",
-      "stateConstituency": "Southern Ijaw IV"
+      "stateConstituency": "Southern Ijaw I State Constituency"
     }
   ],
   "officeholders": [
@@ -391,7 +287,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Brass I",
+      "stateConstituency": "Brass I State Constituency",
       "name": "Charles Daniel",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -401,8 +297,8 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Brass III",
-      "name": "Timi Omubo Agala",
+      "stateConstituency": "Brass II State Constituency",
+      "name": "Omubo Timinyo",
       "party": "APC",
       "termStart": "2023-06-01",
       "termEnd": "2027-06-01",
@@ -411,8 +307,8 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Brass III",
-      "name": "Abraham Inogbere",
+      "stateConstituency": "Brass III State Constituency",
+      "name": "Abraham Ingobere",
       "party": "PDP",
       "termStart": "2023-06-01",
       "termEnd": "2027-06-01",
@@ -421,7 +317,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Nembe I",
+      "stateConstituency": "Nembe I State Constituency",
       "name": "George Braah-Okigbanyo",
       "party": "APGA",
       "termStart": "2023-06-01",
@@ -431,7 +327,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Nembe II",
+      "stateConstituency": "Nembe II State Constituency",
       "name": "Godknows Obein",
       "party": "APC",
       "termStart": "2023-06-01",
@@ -441,7 +337,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Nembe III",
+      "stateConstituency": "Nembe III State Constituency",
       "name": "Douglas Samson",
       "party": "APC",
       "termStart": "2023-06-01",
@@ -451,7 +347,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Ogbia I",
+      "stateConstituency": "Ogbia I State Constituency",
       "name": "Obodor Mitema",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -461,7 +357,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Ogbia II",
+      "stateConstituency": "Ogbia II State Constituency",
       "name": "Gibson Munalafeya",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -471,7 +367,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Ogbia III",
+      "stateConstituency": "Ogbia III State Constituency",
       "name": "Ogoli Naomi",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -481,7 +377,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Ekeremor I",
+      "stateConstituency": "Ekeremor I State Constituency",
       "name": "Tare Porri",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -491,7 +387,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Ekeremor II",
+      "stateConstituency": "Ekeremor II State Constituency",
       "name": "Mitin Living",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -501,8 +397,8 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Ekeremor III",
-      "name": "Micheal Ogbere",
+      "stateConstituency": "Ekeremor III State Constituency",
+      "name": "Michael Ogbere",
       "party": "PDP",
       "termStart": "2023-06-01",
       "termEnd": "2027-06-01",
@@ -511,7 +407,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Sagbama I",
+      "stateConstituency": "Sagbama I State Constituency",
       "name": "Onyinke Godbless",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -521,7 +417,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Sagbama II",
+      "stateConstituency": "Sagbama II State Constituency",
       "name": "Bernard Kenebai",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -531,7 +427,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Sagbama III",
+      "stateConstituency": "Sagbama III State Constituency",
       "name": "Ebizi Brown",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -541,7 +437,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Yenagoa I",
+      "stateConstituency": "Yenagoa I State Constituency",
       "name": "Egba Ayibanengiyefa",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -551,7 +447,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Yenagoa II",
+      "stateConstituency": "Yenagoa II State Constituency",
       "name": "Waikumo Amakoromo",
       "party": "APGA",
       "termStart": "2023-06-01",
@@ -561,7 +457,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Yenagoa III",
+      "stateConstituency": "Yenagoa III State Constituency",
       "name": "Ebuiwou Koku-Obiyai",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -571,7 +467,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Kolokuma/Opokuma I",
+      "stateConstituency": "Kolokuma/Opokuma I State Constituency",
       "name": "Werinipre Pamoh",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -581,7 +477,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Kolokuma/Opokuma II",
+      "stateConstituency": "Kolokuma/Opokuma II State Constituency",
       "name": "Fafi Wisdom",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -591,7 +487,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Southern Ijaw I",
+      "stateConstituency": "Southern Ijaw I State Constituency",
       "name": "Felix Bonny-Ayah",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -601,7 +497,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Southern Ijaw II",
+      "stateConstituency": "Southern Ijaw II State Constituency",
       "name": "Bubou-Monday Obolo",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -611,7 +507,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Southern Ijaw III",
+      "stateConstituency": "Southern Ijaw III State Constituency",
       "name": "Malon Moses",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -621,7 +517,7 @@
     {
       "office": "HOA",
       "state": "Bayelsa",
-      "stateConstituency": "Southern Ijaw IV",
+      "stateConstituency": "Southern Ijaw IV State Constituency",
       "name": "Victor-Ben Selekaye",
       "party": "PDP",
       "termStart": "2023-06-01",
@@ -634,8 +530,8 @@
       "lga": "Brass",
       "name": "Lucky Febo",
       "party": "PDP",
-      "termStart": null,
-      "termEnd": null,
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
       "source": "manual"
     },
     {
@@ -644,8 +540,8 @@
       "lga": "Nembe",
       "name": "David Alagoa",
       "party": "PDP",
-      "termStart": null,
-      "termEnd": null,
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
       "source": "manual"
     },
     {
@@ -654,8 +550,8 @@
       "lga": "Ogbia",
       "name": "Golden Jeremiah",
       "party": "PDP",
-      "termStart": null,
-      "termEnd": null,
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
       "source": "manual"
     },
     {
@@ -664,8 +560,8 @@
       "lga": "Ekeremor",
       "name": "Isaac Onniye",
       "party": "PDP",
-      "termStart": null,
-      "termEnd": null,
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
       "source": "manual"
     },
     {
@@ -674,8 +570,8 @@
       "lga": "Sagbama",
       "name": "Alice Allen Tangi",
       "party": "PDP",
-      "termStart": null,
-      "termEnd": null,
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
       "source": "manual"
     },
     {
@@ -684,8 +580,8 @@
       "lga": "Yenagoa",
       "name": "Bulodisiye Ndiwari",
       "party": "PDP",
-      "termStart": null,
-      "termEnd": null,
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
       "source": "manual"
     },
     {
@@ -694,8 +590,8 @@
       "lga": "Kolokuma/Opokuma",
       "name": "Lelei Tariye",
       "party": "PDP",
-      "termStart": null,
-      "termEnd": null,
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
       "source": "manual"
     },
     {
@@ -704,8 +600,8 @@
       "lga": "Southern Ijaw",
       "name": "Target Segibo",
       "party": "PDP",
-      "termStart": null,
-      "termEnd": null,
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
       "source": "manual"
     }
   ]
