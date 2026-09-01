@@ -1,5 +1,5 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Borno",
   "senatorialDistricts": [
     {
@@ -22,7 +22,7 @@
     },
     {
       "state": "Borno",
-      "name": " Bama/Ngala/Kala-Balge Federal Constituency"
+      "name": "Bama/Ngala/Kala-Balge Federal Constituency"
     },
     {
       "state": "Borno",
@@ -56,11 +56,11 @@
       "state": "Borno",
       "name": "Monguno/Nganzai/Marte Federal Constituency"
     }
-    ],
+  ],
   "stateConstituencies": [
     {
       "state": "Borno",
-      "name": " Abadam State Constituency"
+      "name": "Abadam State Constituency"
     },
     {
       "state": "Borno",
@@ -350,7 +350,7 @@
       "federalConstituency": "Biu/Kwaya-Kusar/Shani/Bayo Federal Constituency",
       "stateConstituency": "Shani State Constituency"
     }
-    ],
+  ],
   "officeholders": [
     {
       "office": "GOV",

@@ -57,3 +57,13 @@ Hey, thanks for the Abia data — merged it, but found a few things that need yo
 3. A couple of naming mismatches between the top-level stateConstituencies list and what's referenced elsewhere in the file: "Umuahia East State Constituency" is used by an LGA and has an HOA rep, but doesn't appear in the top-level list at all. And the top-level list has "Aba North constituency" (lowercase, no "State") while the HOA rep for that seat references "Aba North State Constituency" instead. Can you confirm the correct/final names for these two?
 
 Once you confirm, I'll make the fixes and push. No rush — just wanted to flag before this data goes live since it affects lookups across the file.
+
+
+BORNO
+Hi, thanks for the Borno data — I merged it in and cleaned up some JSON formatting issues on my end. One thing I couldn't fix myself and need your help with: the federalConstituencies list at the top of the file doesn't match what's referenced inside individual LGA entries further down. For example:
+
+Top list says "Dikwa/Mafa/Konduga Federal Constituency", but Dikwa's entry references "Dikwa/Mafa/Ngozala Federal Constituency"
+Top list says "Kaga/Gubio/Magumeri Federal Constituency", but Gubio's entry references "Kaga/Gubio/Bade Federal Constituency"
+Similar mismatches for Guzamala, Konduga, Kukawa, Mafa, Ngala, and Maiduguri
+
+Could you double-check which naming is correct and let me know? I don't want to guess and put wrong constituency names into the dataset. Once confirmed I'll update the file.
