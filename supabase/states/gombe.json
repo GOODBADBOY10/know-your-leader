@@ -1,10 +1,11 @@
 {
-  "_status": "verified",
+  "_status": "placeholder",
   "_state": "Gombe",
+  "_progress_note": "GOV/SEN/REP/HOA are complete and real. CHM (11 needed) left as TBD on purpose: contributor's PR listed 2-3 conflicting candidate names PER LGA, apparently confusing state-constituency-level people (multiple per LGA) with the single LGA Chairman. Need to go back to the contributor and ask which ONE name per LGA is the actual sitting Chairman \u2014 see conversation for the full candidate list. Flip _status to verified once that's resolved.",
   "senatorialDistricts": [
     {
       "state": "Gombe",
-      "name": "Gombe North "
+      "name": "Gombe North"
     },
     {
       "state": "Gombe",
@@ -139,177 +140,85 @@
       "name": "Pero/Chonge State Constituency"
     }
   ],
-  
   "lgas": [
-  {
-    "state": "Gombe",
-    "name": "Akko",
-    "senatorialDistrict": "Gombe Central",
-    "federalConstituency": "Akko Federal Constituency",
-    "stateConstituency": "Akko Central State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Akko",
-    "senatorialDistrict": "Gombe Central",
-    "federalConstituency": "Akko Federal Constituency",
-    "stateConstituency": "Akko North State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Akko",
-    "senatorialDistrict": "Gombe Central",
-    "federalConstituency": "Akko Federal Constituency",
-    "stateConstituency": "Akko West State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Balanga",
-    "senatorialDistrict": "Gombe South",
-    "federalConstituency": "Balanga/Billiri Federal Constituency",
-    "stateConstituency": "Balanga North State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Balanga",
-    "senatorialDistrict": "Gombe South",
-    "federalConstituency": "Balanga/Billiri Federal Constituency",
-    "stateConstituency": "Balanga South State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Billiri",
-    "senatorialDistrict": "Gombe South",
-    "federalConstituency": "Balanga/Billiri Federal Constituency",
-    "stateConstituency": "Billiri East State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Billiri",
-    "senatorialDistrict": "Gombe South",
-    "federalConstituency": "Balanga/Billiri Federal Constituency",
-    "stateConstituency": "Billiri West State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Dukku",
-    "senatorialDistrict": "Gombe North",
-    "federalConstituency": "Dukku/Nafada Federal Constituency",
-    "stateConstituency": "Dukku North State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Dukku",
-    "senatorialDistrict": "Gombe North",
-    "federalConstituency": "Dukku/Nafada Federal Constituency",
-    "stateConstituency": "Dukku South State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Funakaye",
-    "senatorialDistrict": "Gombe North",
-    "federalConstituency": "Gombe/Kwami/Funakaye Federal Constituency",
-    "stateConstituency": "Funakaye North State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Funakaye",
-    "senatorialDistrict": "Gombe North",
-    "federalConstituency": "Gombe/Kwami/Funakaye Federal Constituency",
-    "stateConstituency": "Funakaye South State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Gombe",
-    "senatorialDistrict": "Gombe North",
-    "federalConstituency": "Gombe/Kwami/Funakaye Federal Constituency",
-    "stateConstituency": "Gombe North State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Gombe",
-    "senatorialDistrict": "Gombe North",
-    "federalConstituency": "Gombe/Kwami/Funakaye Federal Constituency",
-    "stateConstituency": "Gombe South State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Kaltungo",
-    "senatorialDistrict": "Gombe South",
-    "federalConstituency": "Kaltungo/Shongom Federal Constituency",
-    "stateConstituency": "Kaltungo East State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Kaltungo",
-    "senatorialDistrict": "Gombe South",
-    "federalConstituency": "Kaltungo/Shongom Federal Constituency",
-    "stateConstituency": "Kaltungo West State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Kwami",
-    "senatorialDistrict": "Gombe North",
-    "federalConstituency": "Gombe/Kwami/Funakaye Federal Constituency",
-    "stateConstituency": "Kwami West State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Kwami",
-    "senatorialDistrict": "Gombe North",
-    "federalConstituency": "Gombe/Kwami/Funakaye Federal Constituency",
-    "stateConstituency": "Kwami East State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Nafada",
-    "senatorialDistrict": "Gombe North",
-    "federalConstituency": "Dukku/Nafada Federal Constituency",
-    "stateConstituency": "Nafada North State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Nafada",
-    "senatorialDistrict": "Gombe North",
-    "federalConstituency": "Dukku/Nafada Federal Constituency",
-    "stateConstituency": "Nafada South State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Shongom",
-    "senatorialDistrict": "Gombe South",
-    "federalConstituency": "Kaltungo/Shongom Federal Constituency",
-    "stateConstituency": "Shongom State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Shongom",
-    "senatorialDistrict": "Gombe South",
-    "federalConstituency": "Kaltungo/Shongom Federal Constituency",
-    "stateConstituency": "Pero/Chonge State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Yamaltu/Deba",
-    "senatorialDistrict": "Gombe Central",
-    "federalConstituency": "Yamaltu/Deba Federal Constituency",
-    "stateConstituency": "Deba State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Yamaltu/Deba",
-    "senatorialDistrict": "Gombe Central",
-    "federalConstituency": "Yamaltu/Deba Federal Constituency",
-    "stateConstituency": "Yamaltu East State Constituency"
-  },
-  {
-    "state": "Gombe",
-    "name": "Yamaltu/Deba",
-    "senatorialDistrict": "Gombe Central",
-    "federalConstituency": "Yamaltu/Deba Federal Constituency",
-    "stateConstituency": "Yamaltu West State Constituency"
-  }
-],
+    {
+      "state": "Gombe",
+      "name": "Akko",
+      "senatorialDistrict": "Gombe Central",
+      "federalConstituency": "Akko Federal Constituency",
+      "stateConstituency": "Akko Central State Constituency"
+    },
+    {
+      "state": "Gombe",
+      "name": "Balanga",
+      "senatorialDistrict": "Gombe South",
+      "federalConstituency": "Balanga/Billiri Federal Constituency",
+      "stateConstituency": "Balanga North State Constituency"
+    },
+    {
+      "state": "Gombe",
+      "name": "Billiri",
+      "senatorialDistrict": "Gombe South",
+      "federalConstituency": "Balanga/Billiri Federal Constituency",
+      "stateConstituency": "Billiri East State Constituency"
+    },
+    {
+      "state": "Gombe",
+      "name": "Dukku",
+      "senatorialDistrict": "Gombe North",
+      "federalConstituency": "Dukku/Nafada Federal Constituency",
+      "stateConstituency": "Dukku North State Constituency"
+    },
+    {
+      "state": "Gombe",
+      "name": "Funakaye",
+      "senatorialDistrict": "Gombe North",
+      "federalConstituency": "Gombe/Kwami/Funakaye Federal Constituency",
+      "stateConstituency": "Funakaye North State Constituency"
+    },
+    {
+      "state": "Gombe",
+      "name": "Gombe",
+      "senatorialDistrict": "Gombe North",
+      "federalConstituency": "Gombe/Kwami/Funakaye Federal Constituency",
+      "stateConstituency": "Gombe North State Constituency"
+    },
+    {
+      "state": "Gombe",
+      "name": "Kaltungo",
+      "senatorialDistrict": "Gombe South",
+      "federalConstituency": "Kaltungo/Shongom Federal Constituency",
+      "stateConstituency": "Kaltungo East State Constituency"
+    },
+    {
+      "state": "Gombe",
+      "name": "Kwami",
+      "senatorialDistrict": "Gombe North",
+      "federalConstituency": "Gombe/Kwami/Funakaye Federal Constituency",
+      "stateConstituency": "Kwami West State Constituency"
+    },
+    {
+      "state": "Gombe",
+      "name": "Nafada",
+      "senatorialDistrict": "Gombe North",
+      "federalConstituency": "Dukku/Nafada Federal Constituency",
+      "stateConstituency": "Nafada North State Constituency"
+    },
+    {
+      "state": "Gombe",
+      "name": "Shongom",
+      "senatorialDistrict": "Gombe South",
+      "federalConstituency": "Kaltungo/Shongom Federal Constituency",
+      "stateConstituency": "Shongom State Constituency"
+    },
+    {
+      "state": "Gombe",
+      "name": "Yamaltu/Deba",
+      "senatorialDistrict": "Gombe Central",
+      "federalConstituency": "Yamaltu/Deba Federal Constituency",
+      "stateConstituency": "Deba State Constituency"
+    }
+  ],
   "officeholders": [
     {
       "office": "GOV",
@@ -318,7 +227,7 @@
       "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "Adewale"
+      "source": "manual"
     },
     {
       "office": "SEN",
@@ -327,38 +236,38 @@
       "name": "Ibrahim Hassan Dankwambo",
       "party": "PDP",
       "termStart": "2023-06-13",
-      "termEnd": "2027-06-  13",
-      "source": "Adewale Samuel" 
+      "termEnd": "2027-06-13",
+      "source": "manual"
     },
-     {
+    {
       "office": "SEN",
       "state": "Gombe",
       "senatorialDistrict": "Gombe South",
       "name": "Anthony Siyako Yaro",
       "party": "PDP",
       "termStart": "2023-06-13",
-      "termEnd": "2027-06-  13",
-      "source": "Adewale Samuel" 
+      "termEnd": "2027-06-13",
+      "source": "manual"
     },
- {
+    {
       "office": "SEN",
       "state": "Gombe",
       "senatorialDistrict": "Gombe Central",
       "name": "Mohammed Danjuma Goje",
       "party": "APC",
       "termStart": "2023-06-13",
-      "termEnd": "2027-06-  13",
-      "source": "Adewale Samuel" 
+      "termEnd": "2027-06-13",
+      "source": "manual"
     },
     {
       "office": "REP",
       "state": "Gombe",
       "federalConstituency": "Balanga/Billiri Federal Constituency",
       "name": "Ali Isa",
-      "party": "  PDP",
+      "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -368,7 +277,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -378,7 +287,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -388,7 +297,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -398,497 +307,367 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
+      "source": "manual"
     },
     {
       "office": "REP",
       "state": "Gombe",
-      "federalConstituency": " Yamaltu/Debaderal Constituency",
+      "federalConstituency": "Yamaltu/Deba Federal Constituency",
       "name": "Yunusa Abubakar",
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
+      "source": "manual"
     },
-     {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Muhammad Abubakar Luggerewo",
-    "party": "APC",
-    "stateConstituency": "Akko Central State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Mohammed A. Musa",
-    "party": "APC",
-    "stateConstituency": "Akko North State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-     "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Abdullahi Abubakar",
-    "party": "APC",
-    "stateConstituency": "Akko West State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-     "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Buba Musa",
-    "party": "APC",
-    "stateConstituency": "Balanga North State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-     "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Maigemi Lamido Isaac",
-    "party": "APC",
-    "stateConstituency": "Balanga South State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-     "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Daniel Yakubu",
-    "party": "PDP",
-    "stateConstituency": "Billiri East State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-     "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Malon Nimrod Yari",
-    "party": "PDP",
-    "stateConstituency": "Billiri West State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-     "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Abdulkarim Nasiru",
-    "party": "APC",
-    "stateConstituency": "Dukku North State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-     "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Umar Adamu A.",
-    "party": "APC",
-    "stateConstituency": "Dukku South State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-     "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Sadam Bello Sale",
-    "party": "APC",
-    "stateConstituency": "Funakaye North State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-     "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Abubakar Dayi Muhammed",
-    "party": "APC",
-    "stateConstituency": "Funakaye South State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Manu Aliyu Baba",
-    "party": "APC",
-    "stateConstituency": "Gombe North State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Mustapha Usman Hassan",
-    "party": "APC",
-    "stateConstituency": "Gombe South State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Ladan Yerima Gaule",
-    "party": "APC",
-    "stateConstituency": "Kaltungo East State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Gabriel Galadima Fushison",
-    "party": "PDP",
-    "stateConstituency": "Kaltungo West State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Haruna Shuaibu Adamu",
-    "party": "APC",
-    "stateConstituency": "Kwami East State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Siddi Buba",
-    "party": "APC",
-    "stateConstituency": "Kwami West State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Muhammed Tahir Dan-Galadima",
-    "party": "APC",
-    "stateConstituency": "Nafada North State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Adamu A. Musa",
-    "party": "APC",
-    "stateConstituency": "Nafada South State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Golkos Gaius Gaji",
-    "party": "APC",
-    "stateConstituency": "Pero/Chonge State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Ayala Zubairu Pilate",
-    "party": "PDP",
-    "stateConstituency": "Shongom State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Adamu Sale Pata",
-    "party": "APC",
-    "stateConstituency": "Yamaltu East State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Manaja Musa Zambuk",
-    "party": "APC",
-    "stateConstituency": "Yamaltu West State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "HOA",
-    "state": "Gombe",
-    "name": "Suleiman Mohammed Kabir",
-    "party": "APC",
-    "stateConstituency": "Deba State Constituency",
-    "termStart": "2023-06-13",
-    "termEnd": "2027-06-13",
-      "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Akko",
-    "name": "Abubakar Usman Barambu",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Akko West",
-    "name": "Garba Yakubu Wali",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Akko North",
-    "name": "Bello Suleiman",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Balanga",
-    "name": "Ibrahim Salisu",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Balanga South",
-    "name": "Ali Philip Jisimah",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Billiri",
-    "name": "Egla Idris",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Billiri West",
-    "name": "Yila Maidawa",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Dukku",
-    "name": "Abubakar Adamu",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Dukku North",
-    "name": "Damina Sardauna",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Funakaye",
-    "name": "Ibrahim Adamu Cheldu",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Funakaye South",
-    "name": "Mijinyawa Mohammed Tilde",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Gombe",
-    "name": "Abdullahi Bappa Garkuwa",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Gombe South",
-    "name": "Auwal Jauro Bappi",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Kaltungo",
-    "name": "Silas B. Pharis",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Kaltungo East",
-    "name": "Barnabas Malle",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Kwami",
-    "name": "Ibrahim Buba Makama",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Kwami West",
-    "name": "Sa’ad Abdulmumin",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Nafada",
-    "name": "Babangida Adamu",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Nafada South",
-    "name": "Kasimu Ahmed Abdullahi",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Shongom",
-    "name": "Modi Shelpidi",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Pero/Shonge",
-    "name": "Sani James Barka",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Yamaltu/Deba",
-    "name": "Yunusa Yakubu",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Yamaltu East",
-    "name": "Musa Alhassan Jagali",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Gombe",
-    "lga": "Yamaltu West",
-    "name": "Mohammed Ahmed Kunji",
-    "party": "APC",
-    "termStart": "2026-06-29",
-    "termEnd": "2030-06-29",
-    "source": "Adewale Samuel"
-  }
-]
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Akko Central State Constituency",
+      "name": "Muhammad Abubakar Luggerewo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Akko North State Constituency",
+      "name": "Mohammed A. Musa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Akko West State Constituency",
+      "name": "Abdullahi Abubakar",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Balanga North State Constituency",
+      "name": "Buba Musa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Balanga South State Constituency",
+      "name": "Maigemi Lamido Isaac",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Billiri East State Constituency",
+      "name": "Daniel Yakubu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Billiri West State Constituency",
+      "name": "Malon Nimrod Yari",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Dukku North State Constituency",
+      "name": "Abdulkarim Nasiru",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Dukku South State Constituency",
+      "name": "Umar Adamu A.",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Funakaye North State Constituency",
+      "name": "Sadam Bello Sale",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Funakaye South State Constituency",
+      "name": "Abubakar Dayi Muhammed",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Gombe North State Constituency",
+      "name": "Manu Aliyu Baba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Gombe South State Constituency",
+      "name": "Mustapha Usman Hassan",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Kaltungo East State Constituency",
+      "name": "Ladan Yerima Gaule",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Kaltungo West State Constituency",
+      "name": "Gabriel Galadima Fushison",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Kwami East State Constituency",
+      "name": "Haruna Shuaibu Adamu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Kwami West State Constituency",
+      "name": "Siddi Buba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Nafada North State Constituency",
+      "name": "Muhammed Tahir Dan-Galadima",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Nafada South State Constituency",
+      "name": "Adamu A. Musa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Pero/Chonge State Constituency",
+      "name": "Golkos Gaius Gaji",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Shongom State Constituency",
+      "name": "Ayala Zubairu Pilate",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Yamaltu East State Constituency",
+      "name": "Adamu Sale Pata",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Yamaltu West State Constituency",
+      "name": "Manaja Musa Zambuk",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Gombe",
+      "stateConstituency": "Deba State Constituency",
+      "name": "Suleiman Mohammed Kabir",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Gombe",
+      "lga": "Akko",
+      "name": "TBD \u2014 not yet verified",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Gombe",
+      "lga": "Balanga",
+      "name": "TBD \u2014 not yet verified",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Gombe",
+      "lga": "Billiri",
+      "name": "TBD \u2014 not yet verified",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Gombe",
+      "lga": "Dukku",
+      "name": "TBD \u2014 not yet verified",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Gombe",
+      "lga": "Funakaye",
+      "name": "TBD \u2014 not yet verified",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Gombe",
+      "lga": "Gombe",
+      "name": "TBD \u2014 not yet verified",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Gombe",
+      "lga": "Kaltungo",
+      "name": "TBD \u2014 not yet verified",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Gombe",
+      "lga": "Kwami",
+      "name": "TBD \u2014 not yet verified",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Gombe",
+      "lga": "Nafada",
+      "name": "TBD \u2014 not yet verified",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Gombe",
+      "lga": "Shongom",
+      "name": "TBD \u2014 not yet verified",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Gombe",
+      "lga": "Yamaltu/Deba",
+      "name": "TBD \u2014 not yet verified",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    }
+  ]
 }
