@@ -85,3 +85,29 @@ Once I hear back on the two seat questions, I'll add them in and mark Anambra do
 
 
 
+
+ENUGU
+Hey, thanks for the Enugu submission — I really like that you marked unverified spots honestly instead of guessing (that's exactly the right instinct for this project). Your geography breakdown (LGAs, senatorial districts, federal/state constituencies) was solid and I've converted it into the project's format.
+
+Two things going forward:
+
+1. **Format** — you used your own JSON structure instead of the shared template. I converted this one myself, but for your next update, please use `supabase/states/_TEMPLATE.json` as the exact shape to follow (flat arrays, each officeholder as one object with an "office" field) — that way it can be merged directly without needing conversion.
+
+2. **What's still missing** (this state has more work left than it looked):
+   - Enugu East's Senator — completely missing
+   - 6 of 8 Reps still needed (only Enugu East/Isi-Uzo and Nkanu East/Nkanu West are filled)
+   - All 24 State Assembly members — none done yet
+   - All 17 LGA Chairmen — none done yet
+
+Also, for Osita Ngwu (Senator, Enugu West) and Paul Nnamchi (Rep, Enugu East/Isi-Uzo) — you left their parties blank. If you can find those, that'd complete what's already there.
+
+No rush, just wanted to be clear on scope before you dig back in. Appreciate the careful, honest work so far.
+
+
+
+KADUNA
+Hey, this Kaduna submission is excellent — genuinely the cleanest one we've had. Governor, all 3 Senators, all 16 Reps, all 23 Chairmen (correctly matched one per LGA), and 34 of 35 Assembly seats are done and merged in.
+
+Only one thing left: no one's found the Assembly member for Saminaka State Constituency yet. Once you track that down, this state is fully complete — send it over and I'll mark it verified.
+
+Great work on this one.
