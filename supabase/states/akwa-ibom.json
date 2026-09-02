@@ -1,82 +1,1104 @@
 {
-  "_status": "placeholder",
+  "_status": "verified_structure_with_officeholder_gaps",
   "_state": "Akwa Ibom",
+
   "senatorialDistricts": [
     {
       "state": "Akwa Ibom",
-      "name": "Akwa Ibom PLACEHOLDER Senatorial District"
+      "name": "Akwa Ibom North-East"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Akwa Ibom North-West"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Akwa Ibom South"
     }
   ],
+
   "federalConstituencies": [
     {
       "state": "Akwa Ibom",
-      "name": "Akwa Ibom PLACEHOLDER Federal Constituency"
+      "name": "Abak/Etim Ekpo/Ika Federal Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Eket/Onna/Esit Eket/Ibeno Federal Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Etinan/Nsit Ibom/Nsit Ubium Federal Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ikono/Ini Federal Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ikot Abasi/Mkpat Enin/Eastern Obolo Federal Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ikot Ekpene/Essien Udim/Obot Akara Federal Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Itu/Ibiono Ibom Federal Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko Federal Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ukanafun/Oruk Anam Federal Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Uyo/Uruan/Nsit Atai/Ibesikpo Asutan Federal Constituency"
     }
   ],
+
   "stateConstituencies": [
     {
       "state": "Akwa Ibom",
-      "name": "Akwa Ibom PLACEHOLDER State Constituency"
+      "name": "Abak State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Eket State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Esit Eket/Ibeno State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Essien Udim State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Etim Ekpo/Ika State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Etinan State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ibesikpo Asutan State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ibiono Ibom State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ikono State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ikot Abasi/Eastern Obolo State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ikot Ekpene/Obot Akara State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ini State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Itu State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Mbo State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Mkpat Enin State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Nsit Atai State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Nsit Ibom State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Nsit Ubium State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Okobo State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Onna State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Oron/Udung Uko State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Oruk Anam State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ukanafun State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Uruan State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Urue Offong/Oruko State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Uyo State Constituency"
     }
   ],
+
   "lgas": [
     {
       "state": "Akwa Ibom",
-      "name": "Akwa Ibom PLACEHOLDER LGA",
-      "senatorialDistrict": "Akwa Ibom PLACEHOLDER Senatorial District",
-      "federalConstituency": "Akwa Ibom PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Akwa Ibom PLACEHOLDER State Constituency"
+      "name": "Abak LGA",
+      "senatorialDistrict": "Akwa Ibom North-West Senatorial District",
+      "federalConstituency": "Abak/Etim Ekpo/Ika Federal Constituency",
+      "stateConstituency": "Abak State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Eastern Obolo LGA",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "federalConstituency": "Ikot Abasi/Mkpat Enin/Eastern Obolo Federal Constituency",
+      "stateConstituency": "Ikot Abasi/Eastern Obolo State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Eket LGA",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "federalConstituency": "Eket/Onna/Esit Eket/Ibeno Federal Constituency",
+      "stateConstituency": "Eket State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Esit Eket LGA",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "federalConstituency": "Eket/Onna/Esit Eket/Ibeno Federal Constituency",
+      "stateConstituency": "Esit Eket/Ibeno State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Essien Udim LGA",
+      "senatorialDistrict": "Akwa Ibom North-West Senatorial District",
+      "federalConstituency": "Ikot Ekpene/Essien Udim/Obot Akara Federal Constituency",
+      "stateConstituency": "Essien Udim State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Etim Ekpo LGA",
+      "senatorialDistrict": "Akwa Ibom North-West Senatorial District",
+      "federalConstituency": "Abak/Etim Ekpo/Ika Federal Constituency",
+      "stateConstituency": "Etim Ekpo/Ika State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Etinan LGA",
+      "senatorialDistrict": "Akwa Ibom North-East Senatorial District",
+      "federalConstituency": "Etinan/Nsit Ibom/Nsit Ubium Federal Constituency",
+      "stateConstituency": "Etinan State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ibeno LGA",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "federalConstituency": "Eket/Onna/Esit Eket/Ibeno Federal Constituency",
+      "stateConstituency": "Esit Eket/Ibeno State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ibesikpo Asutan LGA",
+      "senatorialDistrict": "Akwa Ibom North-East Senatorial District",
+      "federalConstituency": "Uyo/Uruan/Nsit Atai/Ibesikpo Asutan Federal Constituency",
+      "stateConstituency": "Ibesikpo Asutan State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ibiono Ibom LGA",
+      "senatorialDistrict": "Akwa Ibom North-East Senatorial District",
+      "federalConstituency": "Itu/Ibiono Ibom Federal Constituency",
+      "stateConstituency": "Ibiono Ibom State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ika LGA",
+      "senatorialDistrict": "Akwa Ibom North-West Senatorial District",
+      "federalConstituency": "Abak/Etim Ekpo/Ika Federal Constituency",
+      "stateConstituency": "Etim Ekpo/Ika State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ikono LGA",
+      "senatorialDistrict": "Akwa Ibom North-West Senatorial District",
+      "federalConstituency": "Ikono/Ini Federal Constituency",
+      "stateConstituency": "Ikono State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ikot Abasi LGA",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "federalConstituency": "Ikot Abasi/Mkpat Enin/Eastern Obolo Federal Constituency",
+      "stateConstituency": "Ikot Abasi/Eastern Obolo State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ikot Ekpene LGA",
+      "senatorialDistrict": "Akwa Ibom North-West Senatorial District",
+      "federalConstituency": "Ikot Ekpene/Essien Udim/Obot Akara Federal Constituency",
+      "stateConstituency": "Ikot Ekpene/Obot Akara State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ini LGA",
+      "senatorialDistrict": "Akwa Ibom North-West Senatorial District",
+      "federalConstituency": "Ikono/Ini Federal Constituency",
+      "stateConstituency": "Ini State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Itu LGA",
+      "senatorialDistrict": "Akwa Ibom North-East Senatorial District",
+      "federalConstituency": "Itu/Ibiono Ibom Federal Constituency",
+      "stateConstituency": "Itu State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Mbo LGA",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "federalConstituency": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko Federal Constituency",
+      "stateConstituency": "Mbo State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Mkpat Enin LGA",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "federalConstituency": "Ikot Abasi/Mkpat Enin/Eastern Obolo Federal Constituency",
+      "stateConstituency": "Mkpat Enin State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Nsit Atai LGA",
+      "senatorialDistrict": "Akwa Ibom North-East Senatorial District",
+      "federalConstituency": "Uyo/Uruan/Nsit Atai/Ibesikpo Asutan Federal Constituency",
+      "stateConstituency": "Nsit Atai State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Nsit Ibom LGA",
+      "senatorialDistrict": "Akwa Ibom North-East Senatorial District",
+      "federalConstituency": "Etinan/Nsit Ibom/Nsit Ubium Federal Constituency",
+      "stateConstituency": "Nsit Ibom State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Nsit Ubium LGA",
+      "senatorialDistrict": "Akwa Ibom North-East Senatorial District",
+      "federalConstituency": "Etinan/Nsit Ibom/Nsit Ubium Federal Constituency",
+      "stateConstituency": "Nsit Ubium State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Obot Akara LGA",
+      "senatorialDistrict": "Akwa Ibom North-West Senatorial District",
+      "federalConstituency": "Ikot Ekpene/Essien Udim/Obot Akara Federal Constituency",
+      "stateConstituency": "Ikot Ekpene/Obot Akara State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Okobo LGA",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "federalConstituency": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko Federal Constituency",
+      "stateConstituency": "Okobo State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Onna LGA",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "federalConstituency": "Eket/Onna/Esit Eket/Ibeno Federal Constituency",
+      "stateConstituency": "Onna State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Oron LGA",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "federalConstituency": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko Federal Constituency",
+      "stateConstituency": "Oron/Udung Uko State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Oruk Anam LGA",
+      "senatorialDistrict": "Akwa Ibom North-West Senatorial District",
+      "federalConstituency": "Ukanafun/Oruk Anam Federal Constituency",
+      "stateConstituency": "Oruk Anam State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Udung Uko LGA",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "federalConstituency": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko Federal Constituency",
+      "stateConstituency": "Oron/Udung Uko State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Ukanafun LGA",
+      "senatorialDistrict": "Akwa Ibom North-West Senatorial District",
+      "federalConstituency": "Ukanafun/Oruk Anam Federal Constituency",
+      "stateConstituency": "Ukanafun State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Uruan LGA",
+      "senatorialDistrict": "Akwa Ibom North-East Senatorial District",
+      "federalConstituency": "Uyo/Uruan/Nsit Atai/Ibesikpo Asutan Federal Constituency",
+      "stateConstituency": "Uruan State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Urue Offong/Oruko LGA",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "federalConstituency": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko Federal Constituency",
+      "stateConstituency": "Urue Offong/Oruko State Constituency"
+    },
+    {
+      "state": "Akwa Ibom",
+      "name": "Uyo LGA",
+      "senatorialDistrict": "Akwa Ibom North-East Senatorial District",
+      "federalConstituency": "Uyo/Uruan/Nsit Atai/Ibesikpo Asutan Federal Constituency",
+      "stateConstituency": "Uyo State Constituency"
     }
   ],
+
   "officeholders": [
     {
       "office": "GOV",
       "state": "Akwa Ibom",
-      "name": "Bashir Danjuma (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
+      "name": "Pastor Umo Eno",
+      "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "manual"
+      "source": "Akwa Ibom State Government"
     },
     {
       "office": "SEN",
       "state": "Akwa Ibom",
-      "senatorialDistrict": "Akwa Ibom PLACEHOLDER Senatorial District",
-      "name": "Ngozi Chukwuma (PLACEHOLDER \u2014 REPLACE ME)",
+      "senatorialDistrict": "Akwa Ibom North-West Senatorial District",
+      "name": "Godswill Obot Akpabio",
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "National Assembly of Nigeria"
+    },
+    {
+      "office": "SEN",
+      "state": "Akwa Ibom",
+      "senatorialDistrict": "Akwa Ibom North-East Senatorial District",
+      "name": "Bassey Aniekan Etim",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly of Nigeria / 10th National Assembly records"
+    },
+    {
+      "office": "SEN",
+      "state": "Akwa Ibom",
+      "senatorialDistrict": "Akwa Ibom South Senatorial District",
+      "name": "Sampson Ekong",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly of Nigeria"
     },
     {
       "office": "REP",
       "state": "Akwa Ibom",
-      "federalConstituency": "Akwa Ibom PLACEHOLDER Federal Constituency",
-      "name": "Segun Adeyemi (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
+      "federalConstituency": "Abak/Etim Ekpo/Ika Federal Constituency",
+      "name": "Clement Jimbo",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "National Assembly / INEC"
+    },
+    {
+      "office": "REP",
+      "state": "Akwa Ibom",
+      "federalConstituency": "Eket/Onna/Esit Eket/Ibeno Federal Constituency",
+      "name": "Okpolupm Etteh",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly / 10th Assembly records"
+    },
+    {
+      "office": "REP",
+      "state": "Akwa Ibom",
+      "federalConstituency": "Etinan/Nsit Ibom/Nsit Ubium Federal Constituency",
+      "name": "Paul Ekpo",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly / 10th Assembly records"
+    },
+    {
+      "office": "REP",
+      "state": "Akwa Ibom",
+      "federalConstituency": "Ikono/Ini Federal Constituency",
+      "name": "Emmanuel Ukpong-udo",
+      "party": "YPP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly / 10th Assembly records"
+    },
+    {
+      "office": "REP",
+      "state": "Akwa Ibom",
+      "federalConstituency": "Ikot Abasi/Mkpat Enin/Eastern Obolo Federal Constituency",
+      "name": "Uduak Odudoh",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly / 10th Assembly records"
+    },
+    {
+      "office": "REP",
+      "state": "Akwa Ibom",
+      "federalConstituency": "Ikot Ekpene/Essien Udim/Obot Akara Federal Constituency",
+      "name": "Patrick Umoh",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly / 10th Assembly records"
+    },
+    {
+      "office": "REP",
+      "state": "Akwa Ibom",
+      "federalConstituency": "Itu/Ibiono Ibom Federal Constituency",
+      "name": "Ime Okon",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly / 10th Assembly records"
+    },
+    {
+      "office": "REP",
+      "state": "Akwa Ibom",
+      "federalConstituency": "Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko Federal Constituency",
+      "name": "Martins Esin",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly / 10th Assembly records"
+    },
+    {
+      "office": "REP",
+      "state": "Akwa Ibom",
+      "federalConstituency": "Ukanafun/Oruk Anam Federal Constituency",
+      "name": "Unyime Idem",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly / 10th Assembly records"
+    },
+    {
+      "office": "REP",
+      "state": "Akwa Ibom",
+      "federalConstituency": "Uyo/Uruan/Nsit Atai/Ibesikpo Asutan Federal Constituency",
+      "name": "Mark Esset",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly / 10th Assembly records"
     },
     {
       "office": "HOA",
       "state": "Akwa Ibom",
-      "stateConstituency": "Akwa Ibom PLACEHOLDER State Constituency",
-      "name": "Bashir Ibe (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
+      "stateConstituency": "Abak State Constituency",
+      "name": "Rt. Hon. Udeme Otong",  
+      "party": "PDP",
       "termStart": "2023-06-01",
       "termEnd": "2027-06-01",
-      "source": "manual"
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Eket State Constituency",
+      "name": "Hon. Nsidibe Inyang Akata",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Esit Eket/Ibeno State Constituency",
+      "name": "Hon. Udobia Udobia",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Essien Udim State Constituency",
+      "name": "Prince Ukpong Akpabio II",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Etim Ekpo/Ika State Constituency",
+      "name": "Hon. Mfon Frank Idung",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Etinan State Constituency",
+      "name": "Aniefiok Dennis Akpan",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Ibesikpo Asutan State Constituency",
+      "name": "Hon. Ubong Attah",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Ibiono Ibom State Constituency",
+      "name": "Moses Edet Essien",
+      "party": "YPP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Ikono State Constituency",
+      "name": "Hon. Asuquo Nana Udo",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Ikot Abasi/Eastern Obolo State Constituency",
+      "name": "Selina Ukpaetu",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Ikot Ekpene/Obot Akara State Constituency",
+      "name": "Jerry Anson Otu",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Ini State Constituency",
+      "name": "Ernest Edet Udo",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Itu State Constituency",
+      "name": "Kufreabasi Edidem",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Mbo State Constituency",
+      "name": "Rt. Hon. Effiong E. Johnson",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Mkpat Enin State Constituency",
+      "name": "Otuekong Nse Essien",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Nsit Atai State Constituency",
+      "name": "Prince-Aniefiok Attah",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Nsit Ibom State Constituency",
+      "name":  "Hon. Eric Akpan",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Nsit Ubium State Constituency",
+      "name": "Otobong Bob",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Okobo State Constituency",
+      "name": "Bassey Pius Bassey",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Onna State Constituency",
+      "name": "Hon. Sunday Udofot Johnny",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Oron/Udung Uko State Constituency",
+      "name": "Hon. Chief(Mrs.) Kenim Victor Onofiok",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Oruk Anam State Constituency",
+      "name": "Hon. Sampson Idiong",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Ukanafun State Constituency",
+      "name": "Hon. Elder Emem Udom",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Uruan State Constituency",
+      "name": "Hon. Itorobong Etim",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Urue Offong/Oruko State Constituency",
+      "name": null,
+      "party": null,
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    },
+    {
+      "office": "HOA",
+      "state": "Akwa Ibom",
+      "stateConstituency": "Uyo State Constituency",
+      "name": "Hon. Uwemedimo Asuquo",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "Requires current official verification"
+    }
+  ],
+
+  "chairmen": [
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Abak",
+      "name": "Ime Effiong Charles",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
     },
     {
       "office": "CHM",
       "state": "Akwa Ibom",
-      "lga": "Akwa Ibom PLACEHOLDER LGA",
-      "name": "Chioma Danladi (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APC",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "localGovernmentArea": "Eastern Obolo",
+      "name": "Samuel Nteogwuijah",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Eket",
+      "name": "Akaninyene Tommy Ikott",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Esit Eket",
+      "name": "Uduak Ikot",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Essien Udim",
+      "name": "Ntiedo Usoro",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Etim Ekpo",
+      "name": "Gideon Uwa",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Etinan",
+      "name": "Uko Friday Umoh",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Ibeno",
+      "name": "Glory Ekah Effiong",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Ibesikpo Asutan",
+      "name": "Edidiong Inyang",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Ibiono Ibom",
+      "name": "Asuakak Umoh",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Ika",
+      "name": "Jerry Ehiwarior",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Ikono",
+      "name": "Otobong Okon Essien",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Ikot Abasi",
+      "name": "Ime Williamson Essien",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Ikot Ekpene",
+      "name": "Aniefiok Nkom",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKWA Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Ini",
+      "name": "Inibehe Monda Umah",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Itu",
+      "name": "Ubong Willson Ukutt",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Mbo",
+      "name": "Sunday Okon Etim",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Mkpat Enin",
+      "name": "Emmanuel John Inyang",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Nsit Atai",
+      "name": "Prince Anthony Nyong",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Nsit Ibom",
+      "name": "Otobong Aaron",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Nsit Ubium",
+      "name": "Alfred Charles",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Obot Akara",
+      "name": "Simon Dominic Akpan",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Okobo",
+      "name": "George Henshaw",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Onna",
+      "name": "Kufre Okon Umoren",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Oron",
+      "name": "Okon Asukwo Enwerem",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Oruk Anam",
+      "name": "Sun Festus",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Ukanafun",
+      "name": "Prince Uyo Ukpanah",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Uruan",
+      "name": "Iniobo Ekpenyong",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Urue Offong/Oruko",
+      "name": "Uno Etim Uno",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Uyo",
+      "name": "Uwemedimo Udo",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "Akwa Ibom State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Akwa Ibom",
+      "localGovernmentArea": "Udung Uko",
+      "name": "Godwin Okponun",
+      "party": "PDP",
+      "termStart": "2024-10-07",
+      "termEnd": "2027-10-07",
+      "source": "AKISIEC / Akwa Ibom State Government"
     }
   ]
 }
