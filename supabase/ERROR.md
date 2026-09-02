@@ -126,3 +126,19 @@ Hey, thanks for the Kebbi data — merged it, structurally it's solid (21 LGAs a
 4. Small thing: the REP entry for Yusuf Tanko Sununu (Ngaski/Shanga/Yauri) was missing its "source" field in the diff — I filled in "manual" to match the rest of the file, just flagging in case you want to correct it to the actual source.
 
 Once you confirm 1–3 I'll patch and push.
+
+
+
+
+CROSS-RIVER
+Hey, thanks for the Cross River data — merged it, but there's one issue that needs your attention before this is truly done:
+
+1. Big one: the entire House of Assembly (HOA) section is actually Osun data, not Cross River. All 25 HOA entries are labeled "state": "Osun" with Osun constituency names (Ayedaade, Ejigbo, Ife Central, Ilesa East, Osogbo, etc.) — looks like it got pasted in from a different file by mistake. I removed all of it rather than keep wrong-state data in the file, so Cross River currently has zero HOA reps listed. Can you resend the actual Cross River House of Assembly members? I marked the file "_status": "unverified" in the meantime so it's clear this part isn't done.
+
+2. Smaller things while I was in there:
+   - "Calabar Municipal" (used everywhere as the LGA name) vs "Calabar Municipality" (used on the chairman/CHM entry) — different spelling for the same LGA, worth picking one.
+   - Top-level state constituency list has "Yarkur I/II State Constituency" but everywhere else (LGA name, federal constituency) spells it "Yakurr" — likely a typo.
+   - Federal constituency name order is inconsistent in a couple spots: "Yakurr/Abi" in one place vs "Abi/Yakurr" in another, and "Obudu/Bekwarra/Obanliku" vs "Bekwarra/Obudu/Obanliku" — not a big deal, just worth aligning so they match exactly.
+   - There was also a straight duplicate "Abi State Constituency" entry in the list, which I removed.
+
+Once you send the real HOA data I'll add it in and flip the status to verified.
