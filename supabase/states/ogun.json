@@ -1,82 +1,917 @@
 {
-  "_status": "placeholder",
+  "_status": "verified-partial",
   "_state": "Ogun",
+
   "senatorialDistricts": [
     {
       "state": "Ogun",
-      "name": "Ogun PLACEHOLDER Senatorial District"
+      "name": "Ogun Central"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ogun East"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ogun West"
     }
   ],
+
   "federalConstituencies": [
     {
       "state": "Ogun",
-      "name": "Ogun PLACEHOLDER Federal Constituency"
+      "name": "Abeokuta North/Obafemi Owode/Odeda",
+      "senatorialDistrict": "Ogun Central"
+    },
+    {
+      "state": "Ogun",
+      "name": "Abeokuta South",
+      "senatorialDistrict": "Ogun Central"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ifo/Ewekoro",
+      "senatorialDistrict": "Ogun Central"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ado-Odo/Ota",
+      "senatorialDistrict": "Ogun West"
+    },
+    {
+      "state": "Ogun",
+      "name": "Egbado North/Imeko-Afon",
+      "senatorialDistrict": "Ogun West"
+    },
+    {
+      "state": "Ogun",
+      "name": "Egbado South/Ipokia",
+      "senatorialDistrict": "Ogun West"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ijebu North/Ijebu East/Ogun Waterside",
+      "senatorialDistrict": "Ogun East"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ijebu Ode/Odogbolu/Ijebu North East",
+      "senatorialDistrict": "Ogun East"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ikenne/Shagamu/Remo North",
+      "senatorialDistrict": "Ogun East"
     }
   ],
+
   "stateConstituencies": [
     {
       "state": "Ogun",
-      "name": "Ogun PLACEHOLDER State Constituency"
+      "name": "Abeokuta North"
+    },
+    {
+      "state": "Ogun",
+      "name": "Abeokuta South I"
+    },
+    {
+      "state": "Ogun",
+      "name": "Abeokuta South II"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ado-Odo/Ota I"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ado-Odo/Ota II"
+    },
+    {
+      "state": "Ogun",
+      "name": "Egbado North I"
+    },
+    {
+      "state": "Ogun",
+      "name": "Egbado North II"
+    },
+    {
+      "state": "Ogun",
+      "name": "Egbado South"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ewekoro"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ifo I"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ifo II"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ijebu East"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ijebu North I"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ijebu North II"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ijebu North East"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ijebu Ode"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ogun Waterside"
+    },
+    {
+      "state": "Ogun",
+      "name": "Odogbolu"
+    },
+    {
+      "state": "Ogun",
+      "name": "Remo North"
+    },
+    {
+      "state": "Ogun",
+      "name": "Sagamu I"
+    },
+    {
+      "state": "Ogun",
+      "name": "Sagamu II"
+    },
+    {
+      "state": "Ogun",
+      "name": "Obafemi Owode"
+    },
+    {
+      "state": "Ogun",
+      "name": "Odeda"
+    },
+    {
+      "state": "Ogun",
+      "name": "Imeko/Afon"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ipokia"
+    },
+    {
+      "state": "Ogun",
+      "name": "Yewa South"
     }
   ],
+
   "lgas": [
     {
       "state": "Ogun",
-      "name": "Ogun PLACEHOLDER LGA",
-      "senatorialDistrict": "Ogun PLACEHOLDER Senatorial District",
-      "federalConstituency": "Ogun PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Ogun PLACEHOLDER State Constituency"
+      "name": "Abeokuta North",
+      "senatorialDistrict": "Ogun Central",
+      "federalConstituency": "Abeokuta North/Obafemi Owode/Odeda"
+    },
+    {
+      "state": "Ogun",
+      "name": "Abeokuta South",
+      "senatorialDistrict": "Ogun Central",
+      "federalConstituency": "Abeokuta South"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ado-Odo/Ota",
+      "senatorialDistrict": "Ogun West",
+      "federalConstituency": "Ado-Odo/Ota"
+    },
+    {
+      "state": "Ogun",
+      "name": "Egbado North",
+      "senatorialDistrict": "Ogun West",
+      "federalConstituency": "Egbado North/Imeko-Afon"
+    },
+    {
+      "state": "Ogun",
+      "name": "Egbado South",
+      "senatorialDistrict": "Ogun West",
+      "federalConstituency": "Egbado South/Ipokia"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ewekoro",
+      "senatorialDistrict": "Ogun Central",
+      "federalConstituency": "Ifo/Ewekoro"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ifo",
+      "senatorialDistrict": "Ogun Central",
+      "federalConstituency": "Ifo/Ewekoro"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ijebu East",
+      "senatorialDistrict": "Ogun East",
+      "federalConstituency": "Ijebu North/Ijebu East/Ogun Waterside"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ijebu North",
+      "senatorialDistrict": "Ogun East",
+      "federalConstituency": "Ijebu North/Ijebu East/Ogun Waterside"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ijebu North East",
+      "senatorialDistrict": "Ogun East",
+      "federalConstituency": "Ijebu Ode/Odogbolu/Ijebu North East"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ijebu Ode",
+      "senatorialDistrict": "Ogun East",
+      "federalConstituency": "Ijebu Ode/Odogbolu/Ijebu North East"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ikenne",
+      "senatorialDistrict": "Ogun East",
+      "federalConstituency": "Ikenne/Shagamu/Remo North"
+    },
+    {
+      "state": "Ogun",
+      "name": "Imeko Afon",
+      "senatorialDistrict": "Ogun West",
+      "federalConstituency": "Egbado North/Imeko-Afon"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ipokia",
+      "senatorialDistrict": "Ogun West",
+      "federalConstituency": "Egbado South/Ipokia"
+    },
+    {
+      "state": "Ogun",
+      "name": "Obafemi Owode",
+      "senatorialDistrict": "Ogun Central",
+      "federalConstituency": "Abeokuta North/Obafemi Owode/Odeda"
+    },
+    {
+      "state": "Ogun",
+      "name": "Odeda",
+      "senatorialDistrict": "Ogun Central",
+      "federalConstituency": "Abeokuta North/Obafemi Owode/Odeda"
+    },
+    {
+      "state": "Ogun",
+      "name": "Odogbolu",
+      "senatorialDistrict": "Ogun East",
+      "federalConstituency": "Ijebu Ode/Odogbolu/Ijebu North East"
+    },
+    {
+      "state": "Ogun",
+      "name": "Ogun Waterside",
+      "senatorialDistrict": "Ogun East",
+      "federalConstituency": "Ijebu North/Ijebu East/Ogun Waterside"
+    },
+    {
+      "state": "Ogun",
+      "name": "Remo North",
+      "senatorialDistrict": "Ogun East",
+      "federalConstituency": "Ikenne/Shagamu/Remo North"
+    },
+    {
+      "state": "Ogun",
+      "name": "Sagamu",
+      "senatorialDistrict": "Ogun East",
+      "federalConstituency": "Ikenne/Shagamu/Remo North"
     }
   ],
+
   "officeholders": [
     {
       "office": "GOV",
       "state": "Ogun",
-      "name": "Amina Chukwu (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
+      "name": "Dapo Abiodun",
+      "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "manual"
+      "source": "Ogun State Government",
+      "sourceUrl": "https://ogunstate.gov.ng/"
     },
+
     {
       "office": "SEN",
       "state": "Ogun",
-      "senatorialDistrict": "Ogun PLACEHOLDER Senatorial District",
-      "name": "Rahma Aminu (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
+      "senatorialDistrict": "Ogun Central",
+      "name": "Shuaib Afolabi Salisu",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "National Assembly",
+      "sourceUrl": "https://nass.gov.ng/mps/single/670"
+    },
+
+    {
+      "office": "SEN",
+      "state": "Ogun",
+      "senatorialDistrict": "Ogun East",
+      "name": "Gbenga Daniel",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly",
+      "sourceUrl": "https://nass.gov.ng/mps/single/560"
+    },
+
+    {
+      "office": "SEN",
+      "state": "Ogun",
+      "senatorialDistrict": "Ogun West",
+      "name": "Solomon Olamilekan Adeola",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly",
+      "sourceUrl": "https://nass.gov.ng/mps/single/667"
     },
     {
       "office": "REP",
       "state": "Ogun",
-      "federalConstituency": "Ogun PLACEHOLDER Federal Constituency",
-      "name": "Bashir Danladi (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "PDP",
+      "federalConstituency": "Abeokuta North/Obafemi Owode/Odeda",
+      "name": "Olumide Babatunde Osoba",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ogun",
+      "federalConstituency": "Abeokuta South",
+      "name": "Afolabi Afuape Moruf",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ogun",
+      "federalConstituency": "Ado-Odo/Ota",
+      "name": "Olatunji Akanni Akinosi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ogun",
+      "federalConstituency": "Egbado North/Imeko-Afon",
+      "name": "Nasiru Adegboyega Isiaka",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ogun",
+      "federalConstituency": "Egbado South/Ipokia",
+      "name": "Abiodun Isiaq Akinlade",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ogun",
+      "federalConstituency": "Ifo/Ewekoro",
+      "name": "Ibrahim Ayokunle Isiaka",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ogun",
+      "federalConstituency": "Ijebu North/Ijebu East/Ogun Waterside",
+      "name": "Joseph Folorunsho Adegbesan",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ogun",
+      "federalConstituency": "Ijebu Ode/Odogbolu/Ijebu North East",
+      "name": "Adeleke Olufemi Ogunbanwo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ogun",
+      "federalConstituency": "Ikenne/Shagamu/Remo North",
+      "name": "Adesola Ayoola Elegbeji",
+      "party": "APC",
+      "termStart": "2025-08-17",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Abeokuta North",
+      "name": "Tella O. Babatunde",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
     },
     {
       "office": "HOA",
       "state": "Ogun",
-      "stateConstituency": "Ogun PLACEHOLDER State Constituency",
-      "name": "Rahma Adegoke (PLACEHOLDER \u2014 REPLACE ME)",
+      "stateConstituency": "Abeokuta South I",
+      "name": "Lukmon Olajide Atobatele",
       "party": "APC",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Abeokuta South II",
+      "name": "Ayodele Wasiu Sunday",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ado-Odo/Ota I",
+      "name": "Yusuf Sherif Abiodun",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ado-Odo/Ota II",
+      "name": "Lamidi Musefiu Olatunji",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Egbado North I",
+      "name": "Adegoke Olusesi Adeyanju",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Egbado North II",
+      "name": "Haruna Abiodun Wahab",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Egbado South",
+      "name": "Lateefat Bolanle Ajayi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ewekoro",
+      "name": "Yusuf Olawale Amosun",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ifo I",
+      "name": "Olakunle Taiwo Oluomo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ifo II",
+      "name": "Fatiu Folawewo Salami",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ijebu East",
+      "name": "Waliu Ifedolapo Owode",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ijebu North I",
+      "name": "AbdulRasheed Kashamu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ijebu North II",
+      "name": "Kaka Ayodele Odunuga",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ijebu North East",
+      "name": "Oluseun Samuel Adesanya",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ijebu Ode",
+      "name": "Omolola Olanrewaju Bakare",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ikenne",
+      "name": "Babajide Owodunni",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Imeko/Afon",
+      "name": "Jemili Adigun Akingbade",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ipokia/Idiroko",
+      "name": "Adebisi Jacob Oyedele",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Ogun Waterside",
+      "name": "Samusideen Lawal",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Odogbolu",
+      "name": "Lukman Olalekan Adeleye",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Remo North",
+      "name": "Dickson Kolawole Awolaja",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Sagamu I",
+      "name": "Bello Mohammed Oluwadamilare",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Sagamu II",
+      "name": "Adeniran Ademola Adeyinka",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Obafemi Owode",
+      "name": "Damilola Kayode Soneye",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
+    },
+    {
+      "office": "HOA",
+      "state": "Ogun",
+      "stateConstituency": "Odeda",
+      "name": "Oludaisi Olusegun Elemide",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "official"
     },
     {
       "office": "CHM",
       "state": "Ogun",
-      "lga": "Ogun PLACEHOLDER LGA",
-      "name": "Isah Sani (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "lga": "Abeokuta North",
+      "name": "Lanre Oyegbola-Sodipo",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Abeokuta South",
+      "name": "Afeez Balogun",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Ado-Odo/Ota",
+      "name": "Wasiu Lawal",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Egbado North",
+      "name": "Olusola Akinbode",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Egbado South",
+      "name": "Abraham Ogunsola",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Ewekoro",
+      "name": "Sikiru Adesina",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Ifo",
+      "name": "Olalekan Idrees Kusimo",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Ijebu East",
+      "name": "Oluwadamilare Kehinde",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Ijebu North",
+      "name": "Bolaji Odusanya",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Ijebu North East",
+      "name": "Foluso Badejo",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Ijebu Ode",
+      "name": "Damilare Alebiosu",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Ikenne",
+      "name": "Jamiu Asimi",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Imeko-Afon",
+      "name": "Aremu Olorode",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Ipokia",
+      "name": "Avoseh Johnson Akohomeh",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Obafemi Owode",
+      "name": "Adesina Ogunsola",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Odeda",
+      "name": "Folashade Adeyemo",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Odogbolu",
+      "name": "Babatunde Diya",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Ogun Waterside",
+      "name": "Ganiyu Odunnoiki",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Remo North",
+      "name": "Muyiwa Sodade",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Sagamu",
+      "name": "Olasile Odulate",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Yewa North",
+      "name": "Olusola Akinbode",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
+    },
+    {
+      "office": "CHM",
+      "state": "Ogun",
+      "lga": "Yewa South",
+      "name": "Abraham Ogunsola",
+      "party": "APC",
+      "termStart": "2024-11-18",
+      "termEnd": "2027-11-18",
+      "source": "verified"
     }
   ]
 }
