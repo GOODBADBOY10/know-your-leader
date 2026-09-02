@@ -111,3 +111,18 @@ Hey, this Kaduna submission is excellent — genuinely the cleanest one we've ha
 Only one thing left: no one's found the Assembly member for Saminaka State Constituency yet. Once you track that down, this state is fully complete — send it over and I'll mark it verified.
 
 Great work on this one.
+
+
+
+KEBBI
+Hey, thanks for the Kebbi data — merged it, structurally it's solid (21 LGAs all have chairmen, 8 federal constituencies all have reps). A few things to flag though:
+
+1. Spelling split: the federal constituency is "Aleiro/Gwandu/Jega Federal Constituency" and its HOA rep's constituency is listed as "Aleiro State Constituency" — but the LGA itself and everywhere else in the file spells it "Aliero". Which is correct, Aleiro or Aliero? I'll standardize once you confirm.
+
+2. Three state constituencies — Bagudo West, Birnin Kebbi South, and Wasagu/Danko West — have House of Assembly reps listed, but the LGA entries for Bagudo, Birnin Kebbi, and Danko/Wasagu only reference the other half of the pair (Bagudo East, Birnin Kebbi North, Wasagu/Danko East). Since those LGAs clearly split into two state constituencies each, can you send the correct way to link both constituencies to their LGA?
+
+3. The Zuru HOA rep (Rabiu Garba Aiki) has termStart 2026-06-20, while every other HOA entry starts 2023-06-13. Is that a genuine by-election date, or did a placeholder date slip through?
+
+4. Small thing: the REP entry for Yusuf Tanko Sununu (Ngaski/Shanga/Yauri) was missing its "source" field in the diff — I filled in "manual" to match the rest of the file, just flagging in case you want to correct it to the actual source.
+
+Once you confirm 1–3 I'll patch and push.
