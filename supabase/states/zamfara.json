@@ -4,79 +4,724 @@
   "senatorialDistricts": [
     {
       "state": "Zamfara",
-      "name": "Zamfara PLACEHOLDER Senatorial District"
+      "name": "Zamfara North"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Zamfara Central"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Zamfara West"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Zamfara",
-      "name": "Zamfara PLACEHOLDER Federal Constituency"
+      "name": "Kaura Namoda/Birnin Magaji"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Shinkafi/Zurmi"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Gusau/Tsafe"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Bungudu/Maru"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Anka/Talata Mafara"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Bakura/Maradun"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Gummi/Bukkuyum"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Zamfara",
-      "name": "Zamfara PLACEHOLDER State Constituency"
+      "name": "Kaura Namoda North"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Kaura Namoda South"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Birnin Magaji"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Zurmi East"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Zurmi West"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Shinkafi"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Tsafe East"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Tsafe West"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Gusau I"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Gusau II"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Bungudu East"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Bungudu West"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Maru North"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Maru South"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Anka"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Talata Mafara North"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Talata Mafara South"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Bakura"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Maradun I"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Maradun II"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Gummi I"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Gummi II"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Bukkuyum North"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Bukkuyum South"
     }
   ],
   "lgas": [
     {
       "state": "Zamfara",
-      "name": "Zamfara PLACEHOLDER LGA",
-      "senatorialDistrict": "Zamfara PLACEHOLDER Senatorial District",
-      "federalConstituency": "Zamfara PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Zamfara PLACEHOLDER State Constituency"
+      "name": "Anka",
+      "senatorialDistrict": "Zamfara West",
+      "federalConstituency": "Anka/Talata Mafara",
+      "stateConstituency": "Anka"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Bakura",
+      "senatorialDistrict": "Zamfara West",
+      "federalConstituency": "Bakura/Maradun",
+      "stateConstituency": "Bakura"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Birnin Magaji",
+      "senatorialDistrict": "Zamfara North",
+      "federalConstituency": "Kaura Namoda/Birnin Magaji",
+      "stateConstituency": "Birnin Magaji"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Bukkuyum",
+      "senatorialDistrict": "Zamfara West",
+      "federalConstituency": "Gummi/Bukkuyum",
+      "stateConstituency": "Bukkuyum North"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Bungudu",
+      "senatorialDistrict": "Zamfara Central",
+      "federalConstituency": "Bungudu/Maru",
+      "stateConstituency": "Bungudu East"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Gummi",
+      "senatorialDistrict": "Zamfara West",
+      "federalConstituency": "Gummi/Bukkuyum",
+      "stateConstituency": "Gummi I"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Gusau",
+      "senatorialDistrict": "Zamfara Central",
+      "federalConstituency": "Gusau/Tsafe",
+      "stateConstituency": "Gusau I"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Kaura Namoda",
+      "senatorialDistrict": "Zamfara North",
+      "federalConstituency": "Kaura Namoda/Birnin Magaji",
+      "stateConstituency": "Kaura Namoda North"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Maradun",
+      "senatorialDistrict": "Zamfara West",
+      "federalConstituency": "Bakura/Maradun",
+      "stateConstituency": "Maradun I"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Maru",
+      "senatorialDistrict": "Zamfara Central",
+      "federalConstituency": "Bungudu/Maru",
+      "stateConstituency": "Maru North"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Shinkafi",
+      "senatorialDistrict": "Zamfara North",
+      "federalConstituency": "Shinkafi/Zurmi",
+      "stateConstituency": "Shinkafi"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Talata Mafara",
+      "senatorialDistrict": "Zamfara North",
+      "federalConstituency": "Anka/Talata Mafara",
+      "stateConstituency": "Talata Mafara North"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Tsafe",
+      "senatorialDistrict": "Zamfara Central",
+      "federalConstituency": "Gusau/Tsafe",
+      "stateConstituency": "Tsafe East"
+    },
+    {
+      "state": "Zamfara",
+      "name": "Zurmi",
+      "senatorialDistrict": "Zamfara North",
+      "federalConstituency": "Shinkafi/Zurmi",
+      "stateConstituency": "Zurmi East"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Zamfara",
-      "name": "Bashir Nwachukwu (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
+      "name": "Dauda Lawal Dare",
+      "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "manual"
+      "source": "Zamfara State Government"
     },
     {
       "office": "SEN",
       "state": "Zamfara",
-      "senatorialDistrict": "Zamfara PLACEHOLDER Senatorial District",
-      "name": "Emeka Okafor (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
+      "senatorialDistrict": "Zamfara North",
+      "name": "Sahabi Ya'u",
+      "party": "APC",
       "termStart": "2023-06-13",
-      "termEnd": "2027-06-13",
-      "source": "manual"
+      "termEnd": "2027-06-12",
+      "source": "National Assembly / 2026 APC primary"
+    },
+    {
+      "office": "SEN",
+      "state": "Zamfara",
+      "senatorialDistrict": "Zamfara Central",
+      "name": "Ikra Aliyu Bilbis",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "National Assembly / 2026 APC primary"
+    },
+    {
+      "office": "SEN",
+      "state": "Zamfara",
+      "senatorialDistrict": "Zamfara West",
+      "name": "Abdul'aziz Abubakar Yari",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "National Assembly / 2026 APC primary"
     },
     {
       "office": "REP",
       "state": "Zamfara",
-      "federalConstituency": "Zamfara PLACEHOLDER Federal Constituency",
-      "name": "Halima Adeyemi (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "PDP",
+      "federalConstituency": "Kaura Namoda/Birnin Magaji",
+      "name": "Sani Aminu Jaji",
+      "party": "APC",
       "termStart": "2023-06-13",
-      "termEnd": "2027-06-13",
-      "source": "manual"
+      "termEnd": "2027-06-12",
+      "source": "NALTF"
+    },
+    {
+      "office": "REP",
+      "state": "Zamfara",
+      "federalConstituency": "Shinkafi/Zurmi",
+      "name": "Hassan Bello Shinkafi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NALTF"
+    },
+    {
+      "office": "REP",
+      "state": "Zamfara",
+      "federalConstituency": "Gusau/Tsafe",
+      "name": "Amadu Kabiru",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NALTF"
+    },
+    {
+      "office": "REP",
+      "state": "Zamfara",
+      "federalConstituency": "Bungudu/Maru",
+      "name": "Abdulmalik Zubairu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NALTF"
+    },
+    {
+      "office": "REP",
+      "state": "Zamfara",
+      "federalConstituency": "Anka/Talata Mafara",
+      "name": "Mohammed Isa Anka",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NALTF"
+    },
+    {
+      "office": "REP",
+      "state": "Zamfara",
+      "federalConstituency": "Bakura/Maradun",
+      "name": "Ahmad Sani Muhammad",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NALTF"
+    },
+    {
+      "office": "REP",
+      "state": "Zamfara",
+      "federalConstituency": "Gummi/Bukkuyum",
+      "name": "Abubakar Suleiman Gummi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NALTF"
     },
     {
       "office": "HOA",
       "state": "Zamfara",
-      "stateConstituency": "Zamfara PLACEHOLDER State Constituency",
-      "name": "Halima Yusuf (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "stateConstituency": "Gusau I",
+      "name": "Abubakar Aminu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Tsafe West",
+      "name": "Ahmed Amiru",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Maru North",
+      "name": "Alhassan Yusuf Muhammed",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Zurmi East",
+      "name": "Aliyu Manir",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Kaura Namoda South",
+      "name": "Almajir Yahuza",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Kaura Namoda North",
+      "name": "Atiku Nasiru",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Maradun I",
+      "name": "Bawa Musa Musa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Tsafe East",
+      "name": "Bello Basiru",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Bungudu West",
+      "name": "Dahiru Nura",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Birnin Magaji",
+      "name": "Dahiru Sani",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Shinkafi",
+      "name": "Dahiru Sani",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Maru South",
+      "name": "Hashimu Kabiru",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Talata Mafara North",
+      "name": "Ismail Bilyaminu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Zurmi West",
+      "name": "Bilyaminu Ismail Moriki",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Zamfara State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Anka",
+      "name": "Muhammed Ibrahim",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Bukkuyum North",
+      "name": "Musa Faruk",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Maradun II",
+      "name": "Nasir Mukhtar",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Kaura Namoda North",
+      "name": "Samaila Lukman",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Gummi I",
+      "name": "Sani Bashiru",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Bakura",
+      "name": "Sani Habibu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Gummi II",
+      "name": "Yakubu Almajir",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Bungudu East",
+      "name": "Yusuf Aminu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
+    },
+    {
+      "office": "HOA",
+      "state": "Zamfara",
+      "stateConstituency": "Talata Mafara South",
+      "name": "Yusuf Buhari",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "NigeriaPolls"
     },
     {
       "office": "CHM",
       "state": "Zamfara",
-      "lga": "Zamfara PLACEHOLDER LGA",
-      "name": "Chukwuemeka Chukwuma (PLACEHOLDER \u2014 REPLACE ME)",
+      "lga": "Anka",
+      "name": "Bashar Musa Anka",
       "party": "PDP",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Bakura",
+      "name": "Saidu Danbala",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Birnin Magaji",
+      "name": "Abduhadi Ahmad",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Bukkuyum",
+      "name": "Umar Faruk",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Bungudu",
+      "name": "Nura Umar",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Gummi",
+      "name": "Aminu Nuhu Falale",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Gusau",
+      "name": "Abubakar Imam",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Kaura Namoda",
+      "name": "Mannir Mu'azu Haidara",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Maradun",
+      "name": "Sanusi Ahmed Dosara",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Maru",
+      "name": "Bello Muhammad Jabaka",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Shinkafi",
+      "name": "Ibrahim Musa",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Talata Mafara",
+      "name": "Yahaya Yari",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Tsafe",
+      "name": "Garba Shehu",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Zamfara",
+      "lga": "Zurmi",
+      "name": "Samaila Husaini Moriki",
+      "party": "PDP",
+      "termStart": "2024-11-17",
+      "termEnd": "2027-11-17",
+      "source": "ZASIEC / Zamfara State Government"
     }
   ]
 }
