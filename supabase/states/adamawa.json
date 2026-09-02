@@ -2,35 +2,44 @@
   "_status": "verified",
   "_state": "Adamawa",
   "senatorialDistricts": [
-    { 
-      "state": "Adamawa", "name": "Adamawa North" 
-    },
-
     {
-       "state": "Adamawa", "name": "Adamawa Central" 
+      "state": "Adamawa",
+      "name": "Adamawa North"
     },
     {
-       "state": "Adamawa", "name": "Adamawa South"
-   }
+      "state": "Adamawa",
+      "name": "Adamawa Central"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Adamawa South"
+    }
   ],
   "federalConstituencies": [
     {
-       "state": "Adamawa",
-        "name": "Demsa/Numan/Lamurde Federal Constituency" 
+      "state": "Adamawa",
+      "name": "Demsa/Numan/Lamurde Federal Constituency"
     },
-    { "state": "Adamawa",
-     "name": "Fufore/Song Federal Constituency"
-     },
+    {
+      "state": "Adamawa",
+      "name": "Fufore/Song Federal Constituency"
+    },
     {
       "state": "Adamawa",
       "name": "Gombi/Hong Federal Constituency"
     },
-    { "state": "Adamawa", "name": "Guyuk/Shelleng Federal Constituency" },
+    {
+      "state": "Adamawa",
+      "name": "Guyuk/Shelleng Federal Constituency"
+    },
     {
       "state": "Adamawa",
       "name": "Jada/Ganye/Mayo-Belwa/Toungo Federal Constituency"
     },
-    { "state": "Adamawa", "name": "Madagali/Michika Federal Constituency" },
+    {
+      "state": "Adamawa",
+      "name": "Madagali/Michika Federal Constituency"
+    },
     {
       "state": "Adamawa",
       "name": "Mubi North/Mubi South/Maiha Federal Constituency"
@@ -42,75 +51,105 @@
   ],
   "stateConstituencies": [
     {
-       "state": "Adamawa",
-     "name": "Demsa State Constituency"
-     },
-    {
-       "state": "Adamawa",
-     "name": "Fufore/Gurin State Constituency" 
+      "state": "Adamawa",
+      "name": "Demsa State Constituency"
     },
     {
-       "state": "Adamawa",
-     "name": "Verre State Constituency"
-     },
-    {
-       "state": "Adamawa",
-     "name": "Ganye State Constituency"
-     },
-    { 
-      "state": "Adamawa", 
-      "name": "Girei State Constituency" 
+      "state": "Adamawa",
+      "name": "Fufore/Gurin State Constituency"
     },
     {
-       "state": "Adamawa",
-        "name": "Gombi State Constituency"
-       },
+      "state": "Adamawa",
+      "name": "Verre State Constituency"
+    },
     {
-       "state": "Adamawa", 
-       "name": "Guyuk State Constituency"
-       },
+      "state": "Adamawa",
+      "name": "Ganye State Constituency"
+    },
     {
-       "state": "Adamawa", 
-       "name": "Hong State Constituency"
-       },
+      "state": "Adamawa",
+      "name": "Girei State Constituency"
+    },
     {
-       "state": "Adamawa",
-     "name": "Jada/Mbulo State Constituency"
-     },
+      "state": "Adamawa",
+      "name": "Gombi State Constituency"
+    },
     {
-       "state": "Adamawa",
-        "name": "Leko/Koma State Constituency"
-       },
+      "state": "Adamawa",
+      "name": "Guyuk State Constituency"
+    },
     {
-       "state": "Adamawa", 
-       "name": "Lamurde State Constituency"
-       },
-    { 
-      "state": "Adamawa", 
+      "state": "Adamawa",
+      "name": "Hong State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Jada/Mbulo State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Leko/Koma State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Lamurde State Constituency"
+    },
+    {
+      "state": "Adamawa",
       "name": "Madagali State Constituency"
-     },
+    },
     {
-       "state": "Adamawa", 
-       "name": "Maiha State Constituency"
-       },
+      "state": "Adamawa",
+      "name": "Maiha State Constituency"
+    },
     {
-       "state": "Adamawa", 
-       "name": "Mayo-Belwa State Constituency" 
-      },
+      "state": "Adamawa",
+      "name": "Mayo-Belwa State Constituency"
+    },
     {
-       "state": "Adamawa",
-        "name": "Nassarawo/Binyeri State Constituency"
-       },
-    { "state": "Adamawa", "name": "Michika State Constituency" },
-    { "state": "Adamawa", "name": "Mubi North State Constituency" },
-    { "state": "Adamawa", "name": "Mubi South State Constituency" },
-    { "state": "Adamawa", "name": "Numan State Constituency" },
-    { "state": "Adamawa", "name": "Shelleng State Constituency" },
-    { "state": "Adamawa", "name": "Song State Constituency" },
-    { "state": "Adamawa", "name": "Toungo State Constituency" },
-    { "state": "Adamawa", "name": "Uba Gaya State Constituency" },
-    { "state": "Adamawa", "name": "Yola North State Constituency" },
-    { "state": "Adamawa", "name": "Yola South State Constituency" }
+      "state": "Adamawa",
+      "name": "Nassarawo/Binyeri State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Michika State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Mubi North State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Mubi South State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Numan State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Shelleng State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Song State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Toungo State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Uba Gaya State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Yola North State Constituency"
+    },
+    {
+      "state": "Adamawa",
+      "name": "Yola South State Constituency"
+    }
   ],
   "lgas": [
     {
@@ -269,7 +308,7 @@
       "party": "PDP",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "solomon"
+      "source": "manual"
     },
     {
       "office": "SEN",
@@ -279,7 +318,7 @@
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "solomon"
+      "source": "manual"
     },
     {
       "office": "SEN",
@@ -289,7 +328,7 @@
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "solomon"
+      "source": "manual"
     },
     {
       "office": "SEN",
@@ -299,7 +338,7 @@
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "solomon"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -309,7 +348,7 @@
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "solomon"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -319,7 +358,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "solomon"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -329,7 +368,7 @@
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "solomon"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -339,7 +378,7 @@
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "solomon"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -349,7 +388,7 @@
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "solomon"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -359,7 +398,7 @@
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "solomon"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -369,7 +408,7 @@
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "https://inecnigeria.org/election-results/"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -379,57 +418,467 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "https://nass.gov.ng/"
+      "source": "manual"
     },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Demsa State Constituency", "name":"Kate Raymond Mamuno", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Fufore/Gurin State Constituency", "name":"Umar Ismaila", "party":"APC", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Verre State Constituency", "name":"Kefas Hammajabu", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Ganye State Constituency", "name":"Abdulmalik M. Jauro", "party":"APC", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Girei State Constituency", "name":"Abdullahi Abubakar", "party":"APC", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Gombi State Constituency", "name":"Japheth Kefas", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Guyuk State Constituency", "name":"Sunday Peter", "party":"APC", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Hong State Constituency", "name":"Bathiya Wesley", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Jada/Mbulo State Constituency", "name":"Mohammed Buba", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Leko/Koma State Constituency", "name":"Bulus Geoffrey", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Lamurde State Constituency", "name":"Bauna P. Myandasa", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Madagali State Constituency", "name":"Haruna J. J.", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Maiha State Constituency", "name":"Ahmed Jingi Belel", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Mayo-Belwa State Constituency", "name":"Ibrahim Musa Italiya", "party":"APC", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Nassarawo/Binyeri State Constituency", "name":"Njidda Babangida Moh'd", "party":"APC", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Michika State Constituency", "name":"Moses Yerima Zah", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Mubi North State Constituency", "name":"Paul Samuel Vimtim", "party":"APC", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Mubi South State Constituency", "name":"Yohanna Sahabo Jauro", "party":"APC", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Numan State Constituency", "name":"Pwamwakeno Mackondo", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Shelleng State Constituency", "name":"Kantamo Bulus", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Song State Constituency", "name":"Emmanuel Kefas", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Toungo State Constituency", "name":"Kefas Kevin", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Uba Gaya State Constituency", "name":"Hyellapaburi John", "party":"PDP", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Yola North State Constituency", "name":"Suleiman Umar Alkali", "party":"APC", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-    { "office":"HOA", "state":"Adamawa", "stateConstituency":"Yola South State Constituency", "name":"Kabiru Mijinyawa", "party":"APC", "termStart":"2023-06-13", "termEnd":"2027-06-13", "source":"https://adamawastate.gov.ng/our-representatives/" },
-
-    { "office":"CHM", "state":"Adamawa", "lga":"Demsa", "name":"Akham Jaloh", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Fufore", "name":"Shuaibu Babas", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Ganye", "name":"Farouk Mohammed", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Girei", "name":"Adamu Umaru Dala", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Gombi", "name":"Mark Ishaya", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Guyuk", "name":"Kassah D. Shalom", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Hong", "name":"Inuwa Usman", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Jada", "name":"Salihu Mahmud Sa’o", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Lamurde", "name":"Bulus Daniel", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Madagali", "name":"Simon Musa Shashi", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Maiha", "name":"Abubakar Mustapha", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Mayo-Belwa", "name":"Umar Nashong", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Michika", "name":"Dan Biyu Paul Tumba", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Mubi North", "name":"Musa Hassan", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Mubi South", "name":"Hamidu A. Jingi", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Numan", "name":"Innocent Koto", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Shelleng", "name":"Abubakar Musa Abba", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Song", "name":"Idris Yahaya", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Toungo", "name":"Sulaiman Gangkuba", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Yola North", "name":"Jibril Ibrahim Jimeta", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" },
-    { "office":"CHM", "state":"Adamawa", "lga":"Yola South", "name":"Salihu Usman Malkohi", "party":"PDP", "termStart":"2026-06-16", "termEnd":"2029-06-16", "source":"https://theguildng.com/adamawa-gov-loses-21-lgs-to-pdp-swears-in-chairmen/" }
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Demsa State Constituency",
+      "name": "Kate Raymond Mamuno",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Fufore/Gurin State Constituency",
+      "name": "Umar Ismaila",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Verre State Constituency",
+      "name": "Kefas Hammajabu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Ganye State Constituency",
+      "name": "Abdulmalik M. Jauro",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Girei State Constituency",
+      "name": "Abdullahi Abubakar",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Gombi State Constituency",
+      "name": "Japheth Kefas",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Guyuk State Constituency",
+      "name": "Sunday Peter",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Hong State Constituency",
+      "name": "Bathiya Wesley",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Jada/Mbulo State Constituency",
+      "name": "Mohammed Buba",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Leko/Koma State Constituency",
+      "name": "Bulus Geoffrey",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Lamurde State Constituency",
+      "name": "Bauna P. Myandasa",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Madagali State Constituency",
+      "name": "Haruna J. J.",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Maiha State Constituency",
+      "name": "Ahmed Jingi Belel",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Mayo-Belwa State Constituency",
+      "name": "Ibrahim Musa Italiya",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Nassarawo/Binyeri State Constituency",
+      "name": "Njidda Babangida Moh'd",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Michika State Constituency",
+      "name": "Moses Yerima Zah",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Mubi North State Constituency",
+      "name": "Paul Samuel Vimtim",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Mubi South State Constituency",
+      "name": "Yohanna Sahabo Jauro",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Numan State Constituency",
+      "name": "Pwamwakeno Mackondo",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Shelleng State Constituency",
+      "name": "Kantamo Bulus",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Song State Constituency",
+      "name": "Emmanuel Kefas",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Toungo State Constituency",
+      "name": "Kefas Kevin",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Uba Gaya State Constituency",
+      "name": "Hyellapaburi John",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Yola North State Constituency",
+      "name": "Suleiman Umar Alkali",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Adamawa",
+      "stateConstituency": "Yola South State Constituency",
+      "name": "Kabiru Mijinyawa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Demsa",
+      "name": "Akham Jaloh",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Fufore",
+      "name": "Shuaibu Babas",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Ganye",
+      "name": "Farouk Mohammed",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Girei",
+      "name": "Adamu Umaru Dala",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Gombi",
+      "name": "Mark Ishaya",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Guyuk",
+      "name": "Kassah D. Shalom",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Hong",
+      "name": "Inuwa Usman",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Jada",
+      "name": "Salihu Mahmud Sa'o",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Lamurde",
+      "name": "Bulus Daniel",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Madagali",
+      "name": "Simon Musa Shashi",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Maiha",
+      "name": "Abubakar Mustapha",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Mayo-Belwa",
+      "name": "Umar Nashong",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Michika",
+      "name": "Dan Biyu Paul Tumba",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Mubi North",
+      "name": "Musa Hassan",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Mubi South",
+      "name": "Hamidu A. Jingi",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Numan",
+      "name": "Innocent Koto",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Shelleng",
+      "name": "Abubakar Musa Abba",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Song",
+      "name": "Idris Yahaya",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Toungo",
+      "name": "Sulaiman Gangkuba",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Yola North",
+      "name": "Jibril Ibrahim Jimeta",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Adamawa",
+      "lga": "Yola South",
+      "name": "Salihu Usman Malkohi",
+      "party": "PDP",
+      "termStart": "2026-06-16",
+      "termEnd": "2029-06-16",
+      "source": "manual"
+    }
   ]
 }

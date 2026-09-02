@@ -1,18 +1,19 @@
 {
-  "_status": "complete",
+  "_status": "verified",
   "_state": "Kebbi",
+  "_verification_notes": "Complete: GOV, all 3 SEN, all 8 REP, all 24 HOA, all 21 CHM (correctly one per real LGA). No 'source' field bug this time \u2014 contributor used 'manual' correctly throughout. One item worth noting: Zuru's Assembly member has a 2026-06-20 term start (much later than the 2023-06-13 everyone else has) \u2014 kept as submitted since this plausibly reflects a genuine by-election replacing an earlier member, not an error.",
   "senatorialDistricts": [
     {
       "state": "Kebbi",
-      "name": "Kebbi North"
+      "name": "Kebbi North Senatorial District"
     },
     {
       "state": "Kebbi",
-      "name": "Kebbi Central"
+      "name": "Kebbi Central Senatorial District"
     },
     {
       "state": "Kebbi",
-      "name": "Kebbi South"
+      "name": "Kebbi South Senatorial District"
     }
   ],
   "federalConstituencies": [
@@ -419,7 +420,7 @@
     {
       "office": "HOA",
       "state": "Kebbi",
-      "stateConstituency": "Aleiro State Constituency",
+      "stateConstituency": "Aliero State Constituency",
       "name": "Buhari Muhammad Aliero",
       "party": "PDP",
       "termStart": "2023-06-13",
