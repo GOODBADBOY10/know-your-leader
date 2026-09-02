@@ -1,7 +1,6 @@
 {
-  "_status": "verified-partial",
+  "_status": "verified",
   "_state": "Ogun",
-
   "senatorialDistricts": [
     {
       "state": "Ogun",
@@ -16,7 +15,6 @@
       "name": "Ogun West"
     }
   ],
-
   "federalConstituencies": [
     {
       "state": "Ogun",
@@ -40,12 +38,12 @@
     },
     {
       "state": "Ogun",
-      "name": "Egbado North/Imeko-Afon",
+      "name": "Yewa North/Imeko-Afon",
       "senatorialDistrict": "Ogun West"
     },
     {
       "state": "Ogun",
-      "name": "Egbado South/Ipokia",
+      "name": "Yewa South/Ipokia",
       "senatorialDistrict": "Ogun West"
     },
     {
@@ -64,7 +62,6 @@
       "senatorialDistrict": "Ogun East"
     }
   ],
-
   "stateConstituencies": [
     {
       "state": "Ogun",
@@ -88,15 +85,15 @@
     },
     {
       "state": "Ogun",
-      "name": "Egbado North I"
+      "name": "Yewa North I"
     },
     {
       "state": "Ogun",
-      "name": "Egbado North II"
+      "name": "Yewa North II"
     },
     {
       "state": "Ogun",
-      "name": "Egbado South"
+      "name": "Yewa South"
     },
     {
       "state": "Ogun",
@@ -168,10 +165,9 @@
     },
     {
       "state": "Ogun",
-      "name": "Yewa South"
+      "name": "Ikenne"
     }
   ],
-
   "lgas": [
     {
       "state": "Ogun",
@@ -193,15 +189,15 @@
     },
     {
       "state": "Ogun",
-      "name": "Egbado North",
+      "name": "Yewa North",
       "senatorialDistrict": "Ogun West",
-      "federalConstituency": "Egbado North/Imeko-Afon"
+      "federalConstituency": "Yewa North/Imeko-Afon"
     },
     {
       "state": "Ogun",
-      "name": "Egbado South",
+      "name": "Yewa South",
       "senatorialDistrict": "Ogun West",
-      "federalConstituency": "Egbado South/Ipokia"
+      "federalConstituency": "Yewa South/Ipokia"
     },
     {
       "state": "Ogun",
@@ -249,13 +245,13 @@
       "state": "Ogun",
       "name": "Imeko Afon",
       "senatorialDistrict": "Ogun West",
-      "federalConstituency": "Egbado North/Imeko-Afon"
+      "federalConstituency": "Yewa North/Imeko-Afon"
     },
     {
       "state": "Ogun",
       "name": "Ipokia",
       "senatorialDistrict": "Ogun West",
-      "federalConstituency": "Egbado South/Ipokia"
+      "federalConstituency": "Yewa South/Ipokia"
     },
     {
       "state": "Ogun",
@@ -294,7 +290,6 @@
       "federalConstituency": "Ikenne/Shagamu/Remo North"
     }
   ],
-
   "officeholders": [
     {
       "office": "GOV",
@@ -306,7 +301,6 @@
       "source": "Ogun State Government",
       "sourceUrl": "https://ogunstate.gov.ng/"
     },
-
     {
       "office": "SEN",
       "state": "Ogun",
@@ -318,7 +312,6 @@
       "source": "National Assembly",
       "sourceUrl": "https://nass.gov.ng/mps/single/670"
     },
-
     {
       "office": "SEN",
       "state": "Ogun",
@@ -330,7 +323,6 @@
       "source": "National Assembly",
       "sourceUrl": "https://nass.gov.ng/mps/single/560"
     },
-
     {
       "office": "SEN",
       "state": "Ogun",
@@ -375,7 +367,7 @@
     {
       "office": "REP",
       "state": "Ogun",
-      "federalConstituency": "Egbado North/Imeko-Afon",
+      "federalConstituency": "Yewa North/Imeko-Afon",
       "name": "Nasiru Adegboyega Isiaka",
       "party": "APC",
       "termStart": "2023-06-13",
@@ -385,7 +377,7 @@
     {
       "office": "REP",
       "state": "Ogun",
-      "federalConstituency": "Egbado South/Ipokia",
+      "federalConstituency": "Yewa South/Ipokia",
       "name": "Abiodun Isiaq Akinlade",
       "party": "APC",
       "termStart": "2023-06-13",
@@ -432,7 +424,6 @@
       "termEnd": "2027-06-13",
       "source": "verified"
     },
-
     {
       "office": "HOA",
       "state": "Ogun",
@@ -486,7 +477,7 @@
     {
       "office": "HOA",
       "state": "Ogun",
-      "stateConstituency": "Egbado North I",
+      "stateConstituency": "Yewa North I",
       "name": "Adegoke Olusesi Adeyanju",
       "party": "APC",
       "termStart": "2023-06-13",
@@ -496,7 +487,7 @@
     {
       "office": "HOA",
       "state": "Ogun",
-      "stateConstituency": "Egbado North II",
+      "stateConstituency": "Yewa North II",
       "name": "Haruna Abiodun Wahab",
       "party": "APC",
       "termStart": "2023-06-13",
@@ -506,7 +497,7 @@
     {
       "office": "HOA",
       "state": "Ogun",
-      "stateConstituency": "Egbado South",
+      "stateConstituency": "Yewa South",
       "name": "Lateefat Bolanle Ajayi",
       "party": "APC",
       "termStart": "2023-06-13",
@@ -597,11 +588,11 @@
       "office": "HOA",
       "state": "Ogun",
       "stateConstituency": "Ikenne",
-      "name": "Babajide Owodunni",
+      "name": "Olakunle Sobukanla",
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "verified"
+      "source": "Court of Appeal ruling CA/IB/EP/SHA/OG/23/2023 (Vanguard, Nov 2023); confirmed current as of Apr 2026 (Guardian NG)"
     },
     {
       "office": "HOA",
@@ -616,7 +607,7 @@
     {
       "office": "HOA",
       "state": "Ogun",
-      "stateConstituency": "Ipokia/Idiroko",
+      "stateConstituency": "Ipokia",
       "name": "Adebisi Jacob Oyedele",
       "party": "APC",
       "termStart": "2023-06-13",
@@ -718,26 +709,6 @@
       "state": "Ogun",
       "lga": "Ado-Odo/Ota",
       "name": "Wasiu Lawal",
-      "party": "APC",
-      "termStart": "2024-11-18",
-      "termEnd": "2027-11-18",
-      "source": "verified"
-    },
-    {
-      "office": "CHM",
-      "state": "Ogun",
-      "lga": "Egbado North",
-      "name": "Olusola Akinbode",
-      "party": "APC",
-      "termStart": "2024-11-18",
-      "termEnd": "2027-11-18",
-      "source": "verified"
-    },
-    {
-      "office": "CHM",
-      "state": "Ogun",
-      "lga": "Egbado South",
-      "name": "Abraham Ogunsola",
       "party": "APC",
       "termStart": "2024-11-18",
       "termEnd": "2027-11-18",
