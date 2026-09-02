@@ -1,48 +1,412 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Kogi",
+  "_note": "Verified 2026-09-01. Split LGAs have one representative state-constituency pointer because the import schema permits only one; all 25 constituencies and members are included.",
+  "_sources": [
+    "https://kogistate.gov.ng/structure/",
+    "https://nass.gov.ng/mps/single/568",
+    "https://liveresults.civichive.org/state/kogi?year=2023",
+    "https://www.thecable.ng/apc-wins-22-of-25-kogi-assembly-seats/",
+    "https://www.channelstv.com/2024/10/20/apc-sweeps-21-chairmanship-239-councillorship-seats-in-kogi-lg-polls/"
+  ],
   "senatorialDistricts": [
     {
       "state": "Kogi",
-      "name": "Kogi PLACEHOLDER Senatorial District"
+      "name": "Kogi Central"
+    },
+    {
+      "state": "Kogi",
+      "name": "Kogi East"
+    },
+    {
+      "state": "Kogi",
+      "name": "Kogi West"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Kogi",
-      "name": "Kogi PLACEHOLDER Federal Constituency"
+      "name": "Adavi/Okehi Federal Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ajaokuta Federal Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ankpa/Omala/Olamaboro Federal Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Bassa/Dekina Federal Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Idah/Ibaji/Igalamela-Odolu/Ofu Federal Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ijumu/Kabba-Bunu Federal Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Kogi/Lokoja Federal Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Okene/Ogori-Magongo Federal Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Yagba East/Yagba West/Mopamuro Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Kogi",
-      "name": "Kogi PLACEHOLDER State Constituency"
+      "name": "Adavi State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ajaokuta State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ankpa I State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ankpa II State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Bassa State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Dekina/Biraidu State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Dekina/Okura State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ibaji State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Idah State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Igalamela-Odolu State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ijumu State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Kabba/Bunu State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Kogi/Koton Karfe State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Lokoja I State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Lokoja II State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Mopamuro State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ofu State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ogori/Magongo State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Okehi State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Okene I State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Okene II State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Olamaboro State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Omala State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Yagba East State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Yagba West State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Kogi",
-      "name": "Kogi PLACEHOLDER LGA",
-      "senatorialDistrict": "Kogi PLACEHOLDER Senatorial District",
-      "federalConstituency": "Kogi PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Kogi PLACEHOLDER State Constituency"
+      "name": "Adavi",
+      "senatorialDistrict": "Kogi Central",
+      "federalConstituency": "Adavi/Okehi Federal Constituency",
+      "stateConstituency": "Adavi State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ajaokuta",
+      "senatorialDistrict": "Kogi Central",
+      "federalConstituency": "Ajaokuta Federal Constituency",
+      "stateConstituency": "Ajaokuta State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ankpa",
+      "senatorialDistrict": "Kogi East",
+      "federalConstituency": "Ankpa/Omala/Olamaboro Federal Constituency",
+      "stateConstituency": "Ankpa I State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Bassa",
+      "senatorialDistrict": "Kogi East",
+      "federalConstituency": "Bassa/Dekina Federal Constituency",
+      "stateConstituency": "Bassa State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Dekina",
+      "senatorialDistrict": "Kogi East",
+      "federalConstituency": "Bassa/Dekina Federal Constituency",
+      "stateConstituency": "Dekina/Biraidu State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ibaji",
+      "senatorialDistrict": "Kogi East",
+      "federalConstituency": "Idah/Ibaji/Igalamela-Odolu/Ofu Federal Constituency",
+      "stateConstituency": "Ibaji State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Idah",
+      "senatorialDistrict": "Kogi East",
+      "federalConstituency": "Idah/Ibaji/Igalamela-Odolu/Ofu Federal Constituency",
+      "stateConstituency": "Idah State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Igalamela-Odolu",
+      "senatorialDistrict": "Kogi East",
+      "federalConstituency": "Idah/Ibaji/Igalamela-Odolu/Ofu Federal Constituency",
+      "stateConstituency": "Igalamela-Odolu State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ijumu",
+      "senatorialDistrict": "Kogi West",
+      "federalConstituency": "Ijumu/Kabba-Bunu Federal Constituency",
+      "stateConstituency": "Ijumu State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Kabba/Bunu",
+      "senatorialDistrict": "Kogi West",
+      "federalConstituency": "Ijumu/Kabba-Bunu Federal Constituency",
+      "stateConstituency": "Kabba/Bunu State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Kogi",
+      "senatorialDistrict": "Kogi West",
+      "federalConstituency": "Kogi/Lokoja Federal Constituency",
+      "stateConstituency": "Kogi/Koton Karfe State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Lokoja",
+      "senatorialDistrict": "Kogi West",
+      "federalConstituency": "Kogi/Lokoja Federal Constituency",
+      "stateConstituency": "Lokoja I State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Mopamuro",
+      "senatorialDistrict": "Kogi West",
+      "federalConstituency": "Yagba East/Yagba West/Mopamuro Federal Constituency",
+      "stateConstituency": "Mopamuro State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ofu",
+      "senatorialDistrict": "Kogi East",
+      "federalConstituency": "Idah/Ibaji/Igalamela-Odolu/Ofu Federal Constituency",
+      "stateConstituency": "Ofu State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Ogori/Magongo",
+      "senatorialDistrict": "Kogi Central",
+      "federalConstituency": "Okene/Ogori-Magongo Federal Constituency",
+      "stateConstituency": "Ogori/Magongo State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Okehi",
+      "senatorialDistrict": "Kogi Central",
+      "federalConstituency": "Adavi/Okehi Federal Constituency",
+      "stateConstituency": "Okehi State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Okene",
+      "senatorialDistrict": "Kogi Central",
+      "federalConstituency": "Okene/Ogori-Magongo Federal Constituency",
+      "stateConstituency": "Okene I State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Olamaboro",
+      "senatorialDistrict": "Kogi East",
+      "federalConstituency": "Ankpa/Omala/Olamaboro Federal Constituency",
+      "stateConstituency": "Olamaboro State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Omala",
+      "senatorialDistrict": "Kogi East",
+      "federalConstituency": "Ankpa/Omala/Olamaboro Federal Constituency",
+      "stateConstituency": "Omala State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Yagba East",
+      "senatorialDistrict": "Kogi West",
+      "federalConstituency": "Yagba East/Yagba West/Mopamuro Federal Constituency",
+      "stateConstituency": "Yagba East State Constituency"
+    },
+    {
+      "state": "Kogi",
+      "name": "Yagba West",
+      "senatorialDistrict": "Kogi West",
+      "federalConstituency": "Yagba East/Yagba West/Mopamuro Federal Constituency",
+      "stateConstituency": "Yagba West State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Kogi",
-      "name": "Halima Sadiq (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
-      "termStart": "2023-05-29",
-      "termEnd": "2027-05-29",
+      "name": "Ahmed Usman Ododo",
+      "party": "APC",
+      "termStart": "2024-01-27",
+      "termEnd": "2028-01-27",
       "source": "manual"
     },
     {
       "office": "SEN",
       "state": "Kogi",
-      "senatorialDistrict": "Kogi PLACEHOLDER Senatorial District",
-      "name": "Folake Uche (PLACEHOLDER \u2014 REPLACE ME)",
+      "senatorialDistrict": "Kogi Central",
+      "name": "Natasha Akpoti-Uduaghan",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Kogi",
+      "senatorialDistrict": "Kogi East",
+      "name": "Jibrin Isah Echocho",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Kogi",
+      "senatorialDistrict": "Kogi West",
+      "name": "Sunday Steve Karimi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kogi",
+      "federalConstituency": "Adavi/Okehi Federal Constituency",
+      "name": "Abdulmaleek Abdulraheem Danga",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kogi",
+      "federalConstituency": "Ajaokuta Federal Constituency",
+      "name": "Sanni Egidi Abdulraheem",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kogi",
+      "federalConstituency": "Ankpa/Omala/Olamaboro Federal Constituency",
+      "name": "Abdullahi Ibrahim Ali",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kogi",
+      "federalConstituency": "Bassa/Dekina Federal Constituency",
+      "name": "Paul Gowon Haruna",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kogi",
+      "federalConstituency": "Idah/Ibaji/Igalamela-Odolu/Ofu Federal Constituency",
+      "name": "David Idris Zacharias",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kogi",
+      "federalConstituency": "Ijumu/Kabba-Bunu Federal Constituency",
+      "name": "Salman Idris",
       "party": "ADC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
@@ -51,9 +415,29 @@
     {
       "office": "REP",
       "state": "Kogi",
-      "federalConstituency": "Kogi PLACEHOLDER Federal Constituency",
-      "name": "Chinedu Uche (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
+      "federalConstituency": "Kogi/Lokoja Federal Constituency",
+      "name": "Danladi Suleiman Aguye",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kogi",
+      "federalConstituency": "Okene/Ogori-Magongo Federal Constituency",
+      "name": "Muhammed Tijani Ozigi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kogi",
+      "federalConstituency": "Yagba East/Yagba West/Mopamuro Federal Constituency",
+      "name": "Leke Joseph Abejide",
+      "party": "ADC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
       "source": "manual"
@@ -61,21 +445,461 @@
     {
       "office": "HOA",
       "state": "Kogi",
-      "stateConstituency": "Kogi PLACEHOLDER State Constituency",
-      "name": "Suleiman Okafor (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
+      "stateConstituency": "Adavi State Constituency",
+      "name": "Asema Baba Haruna",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Ajaokuta State Constituency",
+      "name": "Abu Onoru-Oiza Jibrin",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Ankpa I State Constituency",
+      "name": "Akus Lawal",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Ankpa II State Constituency",
+      "name": "Ibrahim Abbas",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Bassa State Constituency",
+      "name": "Daku Sunday",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Dekina/Biraidu State Constituency",
+      "name": "Ochidi Usman Shehu",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Dekina/Okura State Constituency",
+      "name": "Paul Enema",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Ibaji State Constituency",
+      "name": "Comfort Ojoma Nwuchiola",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Idah State Constituency",
+      "name": "Usman Halidu Adejoh",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Igalamela-Odolu State Constituency",
+      "name": "Enefola Major",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Ijumu State Constituency",
+      "name": "Ishaya Omotayo Adeleye",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Kabba/Bunu State Constituency",
+      "name": "Bello Oluwaseyi Victor",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Kogi/Koton Karfe State Constituency",
+      "name": "Idrees Aliyu",
+      "party": "PDP",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Lokoja I State Constituency",
+      "name": "Bin-Ebaiya Shehu Tijjani",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Lokoja II State Constituency",
+      "name": "Aliyu Umar Yusuf",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Mopamuro State Constituency",
+      "name": "Jacob Sam Olawumi",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Ofu State Constituency",
+      "name": "Amodu Seidu Shehu",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Ogori/Magongo State Constituency",
+      "name": "Ogunmola Bode Gemini",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Okehi State Constituency",
+      "name": "Otokiti Alhassan Zakariya",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Okene I State Constituency",
+      "name": "Suleiman Abdulrazak",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Okene II State Constituency",
+      "name": "Yusuf Zakari Eneve",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Olamaboro State Constituency",
+      "name": "Ujah Alewo Anthony",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Omala State Constituency",
+      "name": "Yahaya Umar",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Yagba East State Constituency",
+      "name": "Obaro Emmanuel",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kogi",
+      "stateConstituency": "Yagba West State Constituency",
+      "name": "Idowu Ibikunle",
+      "party": "APC",
+      "termStart": "2023-06-06",
+      "termEnd": "2027-06-06",
       "source": "manual"
     },
     {
       "office": "CHM",
       "state": "Kogi",
-      "lga": "Kogi PLACEHOLDER LGA",
-      "name": "Zainab Ogunleye (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
+      "lga": "Adavi",
+      "name": "Rasheed Bashiru Okatengwu",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Ajaokuta",
+      "name": "Haruna Ogidi Aliyu",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Ankpa",
+      "name": "Adamu Yahaya Mohammed",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Bassa",
+      "name": "Theophilus Daruwana Adama",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Dekina",
+      "name": "John Urah Ikani",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Ibaji",
+      "name": "Emmanuel Ugeh Onuche",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Idah",
+      "name": "Amade Egwude Ochijenu",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Igalamela-Odolu",
+      "name": "Cosmas Attabor Ilemona",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Ijumu",
+      "name": "Ibrahim Haruna",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Kabba/Bunu",
+      "name": "Zacchaeus Dare Michael",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Kogi",
+      "name": "Musa Abdulmalik",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Lokoja",
+      "name": "Abdullahi Adamu",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Mopamuro",
+      "name": "Ademola Bello",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Ofu",
+      "name": "Hassan Atawodi",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Ogori/Magongo",
+      "name": "Rosemary Ohyezu",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Okehi",
+      "name": "Monday Amoke Ody",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Okene",
+      "name": "Eneni Ahmed Nuhu",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Olamaboro",
+      "name": "Williams Ameh O",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Omala",
+      "name": "Edubook Ameh Mark",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Yagba East",
+      "name": "Dare Joshua Venza",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kogi",
+      "lga": "Yagba West",
+      "name": "Tosun Olokun",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
       "source": "manual"
     }
   ]
