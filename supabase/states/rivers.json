@@ -1,39 +1,373 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Rivers",
   "senatorialDistricts": [
     {
       "state": "Rivers",
-      "name": "Rivers PLACEHOLDER Senatorial District"
+      "name": "Rivers East"
+    },
+    {
+      "state": "Rivers",
+      "name": "Rivers South East"
+    },
+    {
+      "state": "Rivers",
+      "name": "Rivers West"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Rivers",
-      "name": "Rivers PLACEHOLDER Federal Constituency"
+      "name": "Abua/Odual/Ahoada East Federal Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ahoada West/Ogba/Egbema/Ndoni Federal Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Akuku Toru/Asari Toru Federal Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Andoni/Opobo/Nkoro Federal Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Degema/Bonny Federal Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Eleme/Oyigbo/Tai Federal Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Etche/Omuma Federal Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ikwerre/Emohua Federal Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Khana/Gokana Federal Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Obio/Akpor Federal Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Okrika/Ogu/Bolo Federal Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Port Harcourt I Federal Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Port Harcourt II Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Rivers",
-      "name": "Rivers PLACEHOLDER State Constituency"
+      "name": "Abua/Odual State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ahoada East I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ahoada East II State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ahoada West State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Akuku Toru I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Akuku Toru II State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Andoni State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Asari Toru I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Asari Toru II State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Bonny State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Degema State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Eleme State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Emohua State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Etche I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Etche II State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Gokana State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ikwerre State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Khana I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Khana II State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Obio/Akpor I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Obio/Akpor II State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ogba/Egbema/Ndoni I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ogba/Egbema/Ndoni II State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ogu/Bolo State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Okrika State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Omuma State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Opobo/Nkoro State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Oyigbo State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Port Harcourt I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Port Harcourt II State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Port Harcourt III State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Tai State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Rivers",
-      "name": "Rivers PLACEHOLDER LGA",
-      "senatorialDistrict": "Rivers PLACEHOLDER Senatorial District",
-      "federalConstituency": "Rivers PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Rivers PLACEHOLDER State Constituency"
+      "name": "Abua/Odual",
+      "senatorialDistrict": "Rivers West",
+      "federalConstituency": "Abua/Odual/Ahoada East Federal Constituency",
+      "stateConstituency": "Abua/Odual State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ahoada East",
+      "senatorialDistrict": "Rivers West",
+      "federalConstituency": "Abua/Odual/Ahoada East Federal Constituency",
+      "stateConstituency": "Ahoada East I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ahoada West",
+      "senatorialDistrict": "Rivers West",
+      "federalConstituency": "Ahoada West/Ogba/Egbema/Ndoni Federal Constituency",
+      "stateConstituency": "Ahoada West State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Akuku Toru",
+      "senatorialDistrict": "Rivers West",
+      "federalConstituency": "Akuku Toru/Asari Toru Federal Constituency",
+      "stateConstituency": "Akuku Toru I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Andoni",
+      "senatorialDistrict": "Rivers South East",
+      "federalConstituency": "Andoni/Opobo/Nkoro Federal Constituency",
+      "stateConstituency": "Andoni State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Asari Toru",
+      "senatorialDistrict": "Rivers West",
+      "federalConstituency": "Akuku Toru/Asari Toru Federal Constituency",
+      "stateConstituency": "Asari Toru I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Bonny",
+      "senatorialDistrict": "Rivers West",
+      "federalConstituency": "Degema/Bonny Federal Constituency",
+      "stateConstituency": "Bonny State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Degema",
+      "senatorialDistrict": "Rivers West",
+      "federalConstituency": "Degema/Bonny Federal Constituency",
+      "stateConstituency": "Degema State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Eleme",
+      "senatorialDistrict": "Rivers South East",
+      "federalConstituency": "Eleme/Oyigbo/Tai Federal Constituency",
+      "stateConstituency": "Eleme State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Emohua",
+      "senatorialDistrict": "Rivers East",
+      "federalConstituency": "Ikwerre/Emohua Federal Constituency",
+      "stateConstituency": "Emohua State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Etche",
+      "senatorialDistrict": "Rivers East",
+      "federalConstituency": "Etche/Omuma Federal Constituency",
+      "stateConstituency": "Etche I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Gokana",
+      "senatorialDistrict": "Rivers South East",
+      "federalConstituency": "Khana/Gokana Federal Constituency",
+      "stateConstituency": "Gokana State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ikwerre",
+      "senatorialDistrict": "Rivers East",
+      "federalConstituency": "Ikwerre/Emohua Federal Constituency",
+      "stateConstituency": "Ikwerre State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Khana",
+      "senatorialDistrict": "Rivers South East",
+      "federalConstituency": "Khana/Gokana Federal Constituency",
+      "stateConstituency": "Khana I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Obio/Akpor",
+      "senatorialDistrict": "Rivers East",
+      "federalConstituency": "Obio/Akpor Federal Constituency",
+      "stateConstituency": "Obio/Akpor I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ogba/Egbema/Ndoni",
+      "senatorialDistrict": "Rivers West",
+      "federalConstituency": "Ahoada West/Ogba/Egbema/Ndoni Federal Constituency",
+      "stateConstituency": "Ogba/Egbema/Ndoni I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Ogu/Bolo",
+      "senatorialDistrict": "Rivers East",
+      "federalConstituency": "Okrika/Ogu/Bolo Federal Constituency",
+      "stateConstituency": "Ogu/Bolo State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Okrika",
+      "senatorialDistrict": "Rivers East",
+      "federalConstituency": "Okrika/Ogu/Bolo Federal Constituency",
+      "stateConstituency": "Okrika State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Omuma",
+      "senatorialDistrict": "Rivers East",
+      "federalConstituency": "Etche/Omuma Federal Constituency",
+      "stateConstituency": "Omuma State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Opobo/Nkoro",
+      "senatorialDistrict": "Rivers South East",
+      "federalConstituency": "Andoni/Opobo/Nkoro Federal Constituency",
+      "stateConstituency": "Opobo/Nkoro State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Oyigbo",
+      "senatorialDistrict": "Rivers South East",
+      "federalConstituency": "Eleme/Oyigbo/Tai Federal Constituency",
+      "stateConstituency": "Oyigbo State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Port Harcourt",
+      "senatorialDistrict": "Rivers East",
+      "federalConstituency": "Port Harcourt I Federal Constituency",
+      "stateConstituency": "Port Harcourt I State Constituency"
+    },
+    {
+      "state": "Rivers",
+      "name": "Tai",
+      "senatorialDistrict": "Rivers South East",
+      "federalConstituency": "Eleme/Oyigbo/Tai Federal Constituency",
+      "stateConstituency": "Tai State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Rivers",
-      "name": "Halima Suleiman (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "PDP",
+      "name": "Siminalayi Fubara",
+      "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
       "source": "manual"
@@ -41,9 +375,39 @@
     {
       "office": "SEN",
       "state": "Rivers",
-      "senatorialDistrict": "Rivers PLACEHOLDER Senatorial District",
-      "name": "Maryam Nweke (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
+      "senatorialDistrict": "Rivers East",
+      "name": "Allwell Onyesoh",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Rivers",
+      "senatorialDistrict": "Rivers West",
+      "name": "Ipalibo Banigo",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Rivers",
+      "senatorialDistrict": "Rivers South East",
+      "name": "Vacant — Barinada Mpigi died in February 2026",
+      "party": null,
+      "termStart": null,
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Rivers",
+      "federalConstituency": "Abua/Odual/Ahoada East Federal Constituency",
+      "name": "Solomon Bob",
+      "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
       "source": "manual"
@@ -51,9 +415,119 @@
     {
       "office": "REP",
       "state": "Rivers",
-      "federalConstituency": "Rivers PLACEHOLDER Federal Constituency",
-      "name": "Ibrahim Nwachukwu (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
+      "federalConstituency": "Ahoada West/Ogba/Egbema/Ndoni Federal Constituency",
+      "name": "Victor Obuzor",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Rivers",
+      "federalConstituency": "Akuku Toru/Asari Toru Federal Constituency",
+      "name": "Boma Goodhead",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Rivers",
+      "federalConstituency": "Andoni/Opobo/Nkoro Federal Constituency",
+      "name": "Awaji-Inombek Abiante",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Rivers",
+      "federalConstituency": "Degema/Bonny Federal Constituency",
+      "name": "Cyril Godwin Hart",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Rivers",
+      "federalConstituency": "Eleme/Oyigbo/Tai Federal Constituency",
+      "name": "Felix Uche Nwaeke",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Rivers",
+      "federalConstituency": "Etche/Omuma Federal Constituency",
+      "name": "Kelechi Nwogu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Rivers",
+      "federalConstituency": "Ikwerre/Emohua Federal Constituency",
+      "name": "Boniface Sunday Emerengwa",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Rivers",
+      "federalConstituency": "Khana/Gokana Federal Constituency",
+      "name": "Dumnamene Robinson Deekor",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Rivers",
+      "federalConstituency": "Obio/Akpor Federal Constituency",
+      "name": "Kingsley Ogundu Chinda",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Rivers",
+      "federalConstituency": "Okrika/Ogu/Bolo Federal Constituency",
+      "name": "Anderson Allison Igbiks",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Rivers",
+      "federalConstituency": "Port Harcourt I Federal Constituency",
+      "name": "Umezuruike Manuchim",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Rivers",
+      "federalConstituency": "Port Harcourt II Federal Constituency",
+      "name": "Blessing Chigeru Amadi",
+      "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
       "source": "manual"
@@ -61,21 +535,551 @@
     {
       "office": "HOA",
       "state": "Rivers",
-      "stateConstituency": "Rivers PLACEHOLDER State Constituency",
-      "name": "Ibrahim Okonkwo (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
+      "stateConstituency": "Abua/Odual State Constituency",
+      "name": "John Dominic Iderima",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Ahoada East I State Constituency",
+      "name": "Tony Williams Queen Uwuma",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Ahoada East II State Constituency",
+      "name": "Vacant",
+      "party": null,
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Ahoada West State Constituency",
+      "name": "Vacant",
+      "party": null,
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Akuku Toru I State Constituency",
+      "name": "Major M. Jack",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Akuku Toru II State Constituency",
+      "name": "Lolo Isaiah Opuende",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Andoni State Constituency",
+      "name": "Ofiks Kagbang Christopher",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Asari Toru I State Constituency",
+      "name": "Tekenari Granville Wellington",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Asari Toru II State Constituency",
+      "name": "Enemi Alabo George",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Bonny State Constituency",
+      "name": "Vacant",
+      "party": null,
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Degema State Constituency",
+      "name": "Peter Enemeneya Abbey",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Eleme State Constituency",
+      "name": "Igwe Obey Aforji",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Emohua State Constituency",
+      "name": "Emeji Justina",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Etche I State Constituency",
+      "name": "Onwuka Ignatius Obenachi",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Etche II State Constituency",
+      "name": "Chimezie Christian Nwankwo",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Gokana State Constituency",
+      "name": "Dumle Maol",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Ikwerre State Constituency",
+      "name": "Prince Lemchi Nyeche",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Khana I State Constituency",
+      "name": "Barile Nwakoh",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Khana II State Constituency",
+      "name": "Vacant",
+      "party": null,
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Obio/Akpor I State Constituency",
+      "name": "Martin Chike Amaewhule",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Obio/Akpor II State Constituency",
+      "name": "Emilia Lucky Amadi",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Ogba/Egbema/Ndoni I State Constituency",
+      "name": "Nwabochi Frankline Uchenna",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Ogba/Egbema/Ndoni II State Constituency",
+      "name": "Nkemjika Ijeoma Ezekwe",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Ogu/Bolo State Constituency",
+      "name": "Davids Okobiriari Arnold",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Okrika State Constituency",
+      "name": "Linda Koroma Somiari-Stewart",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Omuma State Constituency",
+      "name": "Nwankwo Sylvanus Enyinna",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Opobo/Nkoro State Constituency",
+      "name": "Vacant",
+      "party": null,
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Oyigbo State Constituency",
+      "name": "Oforji Gerald",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Port Harcourt I State Constituency",
+      "name": "Solomon Wami",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Port Harcourt II State Constituency",
+      "name": "Tonye Smart Adoki",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Port Harcourt III State Constituency",
+      "name": "Azeru Opara",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Rivers",
+      "stateConstituency": "Tai State Constituency",
+      "name": "Ngbar Bernard Baridamue",
+      "party": "PDP",
+      "termStart": "2023-06-05",
+      "termEnd": "2027-06-05",
       "source": "manual"
     },
     {
       "office": "CHM",
       "state": "Rivers",
-      "lga": "Rivers PLACEHOLDER LGA",
-      "name": "Ekaete Nwosu (PLACEHOLDER \u2014 REPLACE ME)",
+      "lga": "Abua/Odual",
+      "name": "Ofori Owolabi",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Ahoada East",
+      "name": "Solomon Achoma",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Ahoada West",
+      "name": "Eugene Epelle",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Akuku Toru",
+      "name": "Bob Fubara",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Andoni",
+      "name": "Lucky Promise",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Asari Toru",
+      "name": "George Onegiyeofori",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Bonny",
+      "name": "Abinye Blessing Pepple",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Degema",
+      "name": "Michael John Williams",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Eleme",
+      "name": "Obarilomate Ollor",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Emohua",
+      "name": "Chidi Lloyd",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Etche",
+      "name": "Njoku Boniface",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Gokana",
+      "name": "Dekor Confidence",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Ikwerre",
+      "name": "Charles Wobodo",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Khana",
+      "name": "Bariere Thomas",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Obio/Akpor",
+      "name": "Gift Worlu",
       "party": "PDP",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Ogba/Egbema/Ndoni",
+      "name": "Shedrach Ogbogu",
+      "party": "PDP",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Ogu/Bolo",
+      "name": "Vincent Nemioboka",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Okrika",
+      "name": "Akuro Tobin",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Omuma",
+      "name": "Obasi Uchechwuku",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Opobo/Nkoro",
+      "name": "James A. James",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Oyigbo",
+      "name": "Okechukwu Akara",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Port Harcourt",
+      "name": "Allwell Ihunda",
+      "party": "PDP",
+      "termStart": "2025-09-01",
+      "termEnd": null,
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Rivers",
+      "lga": "Tai",
+      "name": "Mbakpone Okpe",
+      "party": "APC",
+      "termStart": "2025-09-01",
+      "termEnd": null,
       "source": "manual"
     }
   ]
