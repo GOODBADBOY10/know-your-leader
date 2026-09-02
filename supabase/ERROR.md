@@ -16,6 +16,7 @@ An entry labeled "Anambra Central" (Emeka Egbuonu, APGA) doesn't match any real 
 
 
 
+
 BAUCHI
 Hey, thanks for the Bauchi data — I merged it but found a few issues while cleaning up the JSON that I think need your eyes since they're data calls, not just formatting:
 
@@ -67,3 +68,20 @@ Top list says "Kaga/Gubio/Magumeri Federal Constituency", but Gubio's entry refe
 Similar mismatches for Guzamala, Konduga, Kukawa, Mafa, Ngala, and Maiduguri
 
 Could you double-check which naming is correct and let me know? I don't want to guess and put wrong constituency names into the dataset. Once confirmed I'll update the file.
+
+
+ANAMBRA
+Hey, thanks for the Anambra PR — genuinely one of the best submissions so far. Governor, all 3 Senators, all 11 Reps, and all 21 Chairmen (correctly one per LGA) are solid and already merged in.
+
+Two small things need clearing up before I mark the state fully verified:
+
+1. Oyi's state assembly seat has two different names attached — Innocent Ojike (APGA) and Charles Chinedu Obimma (YPP). Oyi only has one seat, so these can't both be right. Which one is the actual sitting member?
+
+2. There's an entry for "Anambra Central" with Emeka Egbuonu (APGA) as an Assembly member, but Anambra Central isn't a state constituency — it's one of the 3 senatorial districts. All 30 real assembly seats are already accounted for without this entry, so I think it might be a duplicate or mislabeled. Do you know which actual constituency Emeka Egbuonu represents, if any?
+
+Also, small note: a few of your Senators/Reps show "NDC" as their party where they were historically known under other parties (e.g. Victor Umeh, usually APGA). That's plausible given the wave of defections this year, but I haven't independently reverified it — if you have a source confirming the current party for those, that'd help lock it in.
+
+Once I hear back on the two seat questions, I'll add them in and mark Anambra done. Great work overall.
+
+
+

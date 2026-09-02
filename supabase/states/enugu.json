@@ -1,469 +1,323 @@
 {
-  "state": {
-    "name": "Enugu",
-    "country": "Nigeria",
-    "capital": "Enugu",
-    "lgaCount": 17,
-    "senatorialDistrictCount": 3,
-    "federalConstituencyCount": 8,
-    "stateConstituencyCount": 24
-  },
-
+  "_status": "placeholder",
+  "_state": "Enugu",
+  "_progress_note": "Converted from a differently-structured submission (contributor used their own JSON schema, not the project template) \u2014 geography is now in the correct format and looks solid (17 LGAs, 3 senatorial districts, 8 federal constituencies, 24 state constituencies, all internally consistent). Officeholder data is MOSTLY MISSING, not just formatting-broken: only 1 Governor, 2 of 3 Senators (Enugu East missing entirely), 2 of 8 Reps found. Zero Assembly members (0/24) and zero Chairmen (0/17) \u2014 contributor explicitly flagged these as 'not populated, needs verification' rather than guessing, which is exactly the right instinct, but means this state needs substantially more research before it's close to done. Governor's party corrected to APC (current) \u2014 Wikipedia shows he defected from PDP in 2025, after the original PDP win in 2023.",
   "senatorialDistricts": [
     {
-      "name": "Enugu East",
       "state": "Enugu",
-      "lgas": [
-        "Enugu East",
-        "Enugu North",
-        "Enugu South",
-        "Isi-Uzo",
-        "Nkanu East",
-        "Nkanu West"
-      ]
+      "name": "Enugu East"
     },
     {
-      "name": "Enugu West",
       "state": "Enugu",
-      "lgas": [
-        "Aninri",
-        "Awgu",
-        "Ezeagu",
-        "Oji River",
-        "Udi"
-      ]
+      "name": "Enugu West"
     },
     {
-      "name": "Enugu North",
       "state": "Enugu",
-      "lgas": [
-        "Igbo-Etiti",
-        "Igbo-Eze North",
-        "Igbo-Eze South",
-        "Uzo-Uwani",
-        "Udenu",
-        "Nsukka"
-      ]
+      "name": "Enugu North"
     }
   ],
-
   "federalConstituencies": [
     {
-      "name": "Aninri/Awgu/Oji River",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu West",
-      "lgas": [
-        "Aninri",
-        "Awgu",
-        "Oji River"
-      ]
+      "name": "Aninri/Awgu/Oji River Federal Constituency"
     },
     {
-      "name": "Enugu East/Isi-Uzo",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu East",
-      "lgas": [
-        "Enugu East",
-        "Isi-Uzo"
-      ]
+      "name": "Enugu East/Isi-Uzo Federal Constituency"
     },
     {
-      "name": "Enugu North/Enugu South",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu East",
-      "lgas": [
-        "Enugu North",
-        "Enugu South"
-      ]
+      "name": "Enugu North/Enugu South Federal Constituency"
     },
     {
-      "name": "Ezeagu/Udi",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu West",
-      "lgas": [
-        "Ezeagu",
-        "Udi"
-      ]
+      "name": "Ezeagu/Udi Federal Constituency"
     },
     {
-      "name": "Igbo-Etiti/Uzo-Uwani",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu North",
-      "lgas": [
-        "Igbo-Etiti",
-        "Uzo-Uwani"
-      ]
+      "name": "Igbo-Etiti/Uzo-Uwani Federal Constituency"
     },
     {
-      "name": "Igbo-Eze North/Udenu",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu North",
-      "lgas": [
-        "Igbo-Eze North",
-        "Udenu"
-      ]
+      "name": "Igbo-Eze North/Udenu Federal Constituency"
     },
     {
-      "name": "Nkanu East/Nkanu West",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu East",
-      "lgas": [
-        "Nkanu East",
-        "Nkanu West"
-      ]
+      "name": "Nkanu East/Nkanu West Federal Constituency"
     },
     {
-      "name": "Nsukka/Igbo-Eze South",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu North",
-      "lgas": [
-        "Nsukka",
-        "Igbo-Eze South"
-      ]
+      "name": "Nsukka/Igbo-Eze South Federal Constituency"
     }
   ],
-
   "stateConstituencies": [
     {
-      "name": "Aninri",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu West",
-      "federalConstituency": "Aninri/Awgu/Oji River"
+      "name": "Aninri State Constituency"
     },
     {
-      "name": "Awgu North",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu West",
-      "federalConstituency": "Aninri/Awgu/Oji River"
+      "name": "Awgu North State Constituency"
     },
     {
-      "name": "Awgu South",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu West",
-      "federalConstituency": "Aninri/Awgu/Oji River"
+      "name": "Awgu South State Constituency"
     },
     {
-      "name": "Enugu East I",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Enugu East/Isi-Uzo"
+      "name": "Enugu East I State Constituency"
     },
     {
-      "name": "Enugu East II",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Enugu East/Isi-Uzo"
+      "name": "Enugu East II State Constituency"
     },
     {
-      "name": "Enugu North",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Enugu North/Enugu South"
+      "name": "Enugu North State Constituency"
     },
     {
-      "name": "Enugu South I",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Enugu North/Enugu South"
+      "name": "Enugu South I State Constituency"
     },
     {
-      "name": "Enugu South II",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Enugu North/Enugu South"
+      "name": "Enugu South II State Constituency"
     },
     {
-      "name": "Ezeagu",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu West",
-      "federalConstituency": "Ezeagu/Udi"
+      "name": "Ezeagu State Constituency"
     },
     {
-      "name": "Igbo-Etiti East",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Igbo-Etiti/Uzo-Uwani"
+      "name": "Igbo-Etiti East State Constituency"
     },
     {
-      "name": "Igbo-Etiti West",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Igbo-Etiti/Uzo-Uwani"
+      "name": "Igbo-Etiti West State Constituency"
     },
     {
-      "name": "Igbo-Eze North I",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Igbo-Eze North/Udenu"
+      "name": "Igbo-Eze North I State Constituency"
     },
     {
-      "name": "Igbo-Eze North II",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Igbo-Eze North/Udenu"
+      "name": "Igbo-Eze North II State Constituency"
     },
     {
-      "name": "Igbo-Eze South",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Nsukka/Igbo-Eze South"
+      "name": "Igbo-Eze South State Constituency"
     },
     {
-      "name": "Isi-Uzo",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Enugu East/Isi-Uzo"
+      "name": "Isi-Uzo State Constituency"
     },
     {
-      "name": "Nkanu East",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Nkanu East/Nkanu West"
+      "name": "Nkanu East State Constituency"
     },
     {
-      "name": "Nkanu West",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Nkanu East/Nkanu West"
+      "name": "Nkanu West State Constituency"
     },
     {
-      "name": "Nsukka East",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Nsukka/Igbo-Eze South"
+      "name": "Nsukka East State Constituency"
     },
     {
-      "name": "Nsukka West",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Nsukka/Igbo-Eze South"
+      "name": "Nsukka West State Constituency"
     },
     {
-      "name": "Oji River",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu West",
-      "federalConstituency": "Aninri/Awgu/Oji River"
+      "name": "Oji River State Constituency"
     },
     {
-      "name": "Udenu",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Igbo-Eze North/Udenu"
+      "name": "Udenu State Constituency"
     },
     {
-      "name": "Udi North",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu West",
-      "federalConstituency": "Ezeagu/Udi"
+      "name": "Udi North State Constituency"
     },
     {
-      "name": "Udi South",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu West",
-      "federalConstituency": "Ezeagu/Udi"
+      "name": "Udi South State Constituency"
     },
     {
-      "name": "Uzo-Uwani",
       "state": "Enugu",
-      "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Igbo-Etiti/Uzo-Uwani"
+      "name": "Uzo-Uwani State Constituency"
     }
   ],
-
   "lgas": [
     {
+      "state": "Enugu",
       "name": "Aninri",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu West",
-      "federalConstituency": "Aninri/Awgu/Oji River"
+      "federalConstituency": "Aninri/Awgu/Oji River Federal Constituency",
+      "stateConstituency": "Aninri State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Awgu",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu West",
-      "federalConstituency": "Aninri/Awgu/Oji River"
+      "federalConstituency": "Aninri/Awgu/Oji River Federal Constituency",
+      "stateConstituency": "Awgu North State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Enugu East",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Enugu East/Isi-Uzo"
+      "federalConstituency": "Enugu East/Isi-Uzo Federal Constituency",
+      "stateConstituency": "Enugu East I State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Enugu North",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Enugu North/Enugu South"
+      "federalConstituency": "Enugu North/Enugu South Federal Constituency",
+      "stateConstituency": "Enugu North State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Enugu South",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Enugu North/Enugu South"
+      "federalConstituency": "Enugu North/Enugu South Federal Constituency",
+      "stateConstituency": "Enugu South I State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Ezeagu",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu West",
-      "federalConstituency": "Ezeagu/Udi"
+      "federalConstituency": "Ezeagu/Udi Federal Constituency",
+      "stateConstituency": "Ezeagu State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Igbo-Etiti",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Igbo-Etiti/Uzo-Uwani"
+      "federalConstituency": "Igbo-Etiti/Uzo-Uwani Federal Constituency",
+      "stateConstituency": "Igbo-Etiti East State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Igbo-Eze North",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Igbo-Eze North/Udenu"
+      "federalConstituency": "Igbo-Eze North/Udenu Federal Constituency",
+      "stateConstituency": "Igbo-Eze North I State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Igbo-Eze South",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Nsukka/Igbo-Eze South"
+      "federalConstituency": "Nsukka/Igbo-Eze South Federal Constituency",
+      "stateConstituency": "Igbo-Eze South State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Isi-Uzo",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Enugu East/Isi-Uzo"
+      "federalConstituency": "Enugu East/Isi-Uzo Federal Constituency",
+      "stateConstituency": "Isi-Uzo State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Nkanu East",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Nkanu East/Nkanu West"
+      "federalConstituency": "Nkanu East/Nkanu West Federal Constituency",
+      "stateConstituency": "Nkanu East State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Nkanu West",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu East",
-      "federalConstituency": "Nkanu East/Nkanu West"
+      "federalConstituency": "Nkanu East/Nkanu West Federal Constituency",
+      "stateConstituency": "Nkanu West State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Nsukka",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Nsukka/Igbo-Eze South"
+      "federalConstituency": "Nsukka/Igbo-Eze South Federal Constituency",
+      "stateConstituency": "Nsukka East State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Oji River",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu West",
-      "federalConstituency": "Aninri/Awgu/Oji River"
+      "federalConstituency": "Aninri/Awgu/Oji River Federal Constituency",
+      "stateConstituency": "Oji River State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Udenu",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Igbo-Eze North/Udenu"
+      "federalConstituency": "Igbo-Eze North/Udenu Federal Constituency",
+      "stateConstituency": "Udenu State Constituency"
     },
     {
+      "state": "Enugu",
       "name": "Udi",
-      "state": "Enugu",
       "senatorialDistrict": "Enugu West",
-      "federalConstituency": "Ezeagu/Udi"
+      "federalConstituency": "Ezeagu/Udi Federal Constituency",
+      "stateConstituency": "Udi North State Constituency"
     },
     {
-      "name": "Uzo-Uwani",
       "state": "Enugu",
+      "name": "Uzo-Uwani",
       "senatorialDistrict": "Enugu North",
-      "federalConstituency": "Igbo-Etiti/Uzo-Uwani"
+      "federalConstituency": "Igbo-Etiti/Uzo-Uwani Federal Constituency",
+      "stateConstituency": "Uzo-Uwani State Constituency"
     }
   ],
-
-  "officeholders": {
-    "governor": {
-      "name": null,
+  "officeholders": [
+    {
+      "office": "GOV",
+      "state": "Enugu",
+      "name": "Peter Ndubuisi Mbah",
+      "party": "APC",
+      "termStart": "2023-05-29",
+      "termEnd": "2027-05-29",
+      "source": "wikidata"
+    },
+    {
+      "office": "SEN",
+      "state": "Enugu",
+      "senatorialDistrict": "Enugu North",
+      "name": "Okechukwu Ezea",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Enugu",
+      "senatorialDistrict": "Enugu West",
+      "name": "Osita Ngwu",
       "party": null,
-      "status": "verify_current_officeholder_before_display"
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
     },
-    "senators": [
-      {
-        "senatorialDistrict": "Enugu East",
-        "name": null,
-        "party": null,
-        "status": "verify_current_officeholder_before_display"
-      },
-      {
-        "senatorialDistrict": "Enugu North",
-        "name": "Okechukwu Ezea",
-        "party": "LP",
-        "status": "National Assembly profile"
-      },
-      {
-        "senatorialDistrict": "Enugu West",
-        "name": "Osita Ngwu",
-        "party": null,
-        "status": "National Assembly source confirms representation"
-      }
-    ],
-    "houseOfRepresentatives": [
-      {
-        "federalConstituency": "Aninri/Awgu/Oji River",
-        "name": null,
-        "party": null,
-        "status": "verify_current_officeholder_before_display"
-      },
-      {
-        "federalConstituency": "Enugu East/Isi-Uzo",
-        "name": "Paul Nnamchi",
-        "party": null,
-        "status": "National Assembly profile/current legislative record"
-      },
-      {
-        "federalConstituency": "Enugu North/Enugu South",
-        "name": null,
-        "party": null,
-        "status": "verify_current_officeholder_before_display"
-      },
-      {
-        "federalConstituency": "Ezeagu/Udi",
-        "name": null,
-        "party": null,
-        "status": "verify_current_officeholder_before_display"
-      },
-      {
-        "federalConstituency": "Igbo-Etiti/Uzo-Uwani",
-        "name": null,
-        "party": null,
-        "status": "verify_current_officeholder_before_display"
-      },
-      {
-        "federalConstituency": "Igbo-Eze North/Udenu",
-        "name": null,
-        "party": null,
-        "status": "verify_current_officeholder_before_display"
-      },
-      {
-        "federalConstituency": "Nkanu East/Nkanu West",
-        "name": "Nnolim Nnaji",
-        "party": "PDP",
-        "status": "National Assembly profile"
-      },
-      {
-        "federalConstituency": "Nsukka/Igbo-Eze South",
-        "name": null,
-        "party": null,
-        "status": "verify_current_officeholder_before_display"
-      }
-    ],
-    "stateHouseOfAssembly": {
-      "status": "current_members_not_populated",
-      "reason": "Officeholder records should be verified against the current Enugu State House of Assembly before publication."
+    {
+      "office": "REP",
+      "state": "Enugu",
+      "federalConstituency": "Enugu East/Isi-Uzo Federal Constituency",
+      "name": "Paul Nnamchi",
+      "party": null,
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
     },
-    "localGovernmentChairmen": {
-      "status": "current_members_not_populated",
-      "reason": "Current LGA chairmen should be verified against an authoritative current source before publication."
+    {
+      "office": "REP",
+      "state": "Enugu",
+      "federalConstituency": "Nkanu East/Nkanu West Federal Constituency",
+      "name": "Nnolim Nnaji",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
     }
-  },
-
-  "sources": {
-    "electoralStructure": "INEC",
-    "nationalAssemblyMembers": "National Assembly of Nigeria",
-    "lastStructureVerification": "2026-09-01"
-  }
+  ]
 }
