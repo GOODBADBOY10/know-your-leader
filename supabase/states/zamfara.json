@@ -1,5 +1,5 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Zamfara",
   "senatorialDistricts": [
     {
@@ -518,16 +518,6 @@
       "state": "Zamfara",
       "stateConstituency": "Maradun II",
       "name": "Nasir Mukhtar",
-      "party": "APC",
-      "termStart": "2023-06-13",
-      "termEnd": "2027-06-12",
-      "source": "NigeriaPolls"
-    },
-    {
-      "office": "HOA",
-      "state": "Zamfara",
-      "stateConstituency": "Kaura Namoda North",
-      "name": "Samaila Lukman",
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-12",
