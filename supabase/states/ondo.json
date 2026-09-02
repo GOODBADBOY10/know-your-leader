@@ -325,7 +325,6 @@
       "termEnd": "2027-05-29",
       "source": "Ondo State Government"
     },
-
     {
       "office": "SEN",
       "state": "Ondo",
@@ -356,7 +355,6 @@
       "termEnd": "2027-06-13",
       "source": "National Assembly"
     },
-
     {
       "office": "REP",
       "state": "Ondo",
@@ -447,7 +445,6 @@
       "termEnd": "2027-06-13",
       "source": "verified"
     },
-
     {
       "office": "HOA",
       "state": "Ondo",
@@ -688,7 +685,16 @@
       "termEnd": "2027-06-13",
       "source": "Ondo State Government"
     },
-
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Ifedore State Constituency",
+      "name": "Bamidele Oleyelogun",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Wikipedia (Ondo State House of Assembly); Speaker of the 9th Assembly"
+    },
     {
       "office": "CHM",
       "state": "Ondo",
