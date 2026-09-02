@@ -1,82 +1,534 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Yobe",
   "senatorialDistricts": [
     {
       "state": "Yobe",
-      "name": "Yobe PLACEHOLDER Senatorial District"
+      "name": "Yobe East Senatorial District"
+    },
+    {
+      "state": "Yobe",
+      "name": "Yobe North Senatorial District"
+    },
+    {
+      "state": "Yobe",
+      "name": "Yobe South Senatorial District"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Yobe",
-      "name": "Yobe PLACEHOLDER Federal Constituency"
+      "name": "Bade/Jakusko Federal Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Bursari/Geidam/Yunusari Federal Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Damaturu/Gujba/Gulani/Tarmuwa Federal Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Fika/Fune Federal Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Machina/Nguru/Yusufari/Karasuwa Federal Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Nangere/Potiskum Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Yobe",
-      "name": "Yobe PLACEHOLDER State Constituency"
+      "name": "Bade East State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Bade West State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Bursari State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Damagum State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Damaturu I State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Damaturu II State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Fika State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Geidam North State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Geidam South State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Goya/Ngeji State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Gujba State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Gulani State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Jajere State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Jakusko State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Karasuwa State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Mamudo State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Machina State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Nangere State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Nguru I State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Nguru II State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Potiskum Central State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Tarmuwa State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Yunusari State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Yusufari State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Yobe",
-      "name": "Yobe PLACEHOLDER LGA",
-      "senatorialDistrict": "Yobe PLACEHOLDER Senatorial District",
-      "federalConstituency": "Yobe PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Yobe PLACEHOLDER State Constituency"
+      "name": "Bade LGA",
+      "senatorialDistrict": "Yobe North Senatorial District",
+      "federalConstituency": "Bade/Jakusko Federal Constituency",
+      "stateConstituency": "Bade East State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Bursari LGA",
+      "senatorialDistrict": "Yobe East Senatorial District",
+      "federalConstituency": "Bursari/Geidam/Yunusari Federal Constituency",
+      "stateConstituency": "Bursari State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Damaturu LGA",
+      "senatorialDistrict": "Yobe South Senatorial District",
+      "federalConstituency": "Damaturu/Gujba/Gulani/Tarmuwa Federal Constituency",
+      "stateConstituency": "Damaturu I State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Fika LGA",
+      "senatorialDistrict": "Yobe South Senatorial District",
+      "federalConstituency": "Fika/Fune Federal Constituency",
+      "stateConstituency": "Fika State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Fune LGA",
+      "senatorialDistrict": "Yobe South Senatorial District",
+      "federalConstituency": "Fika/Fune Federal Constituency",
+      "stateConstituency": "Goya/Ngeji State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Geidam LGA",
+      "senatorialDistrict": "Yobe East Senatorial District",
+      "federalConstituency": "Bursari/Geidam/Yunusari Federal Constituency",
+      "stateConstituency": "Geidam North State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Gujba LGA",
+      "senatorialDistrict": "Yobe East Senatorial District",
+      "federalConstituency": "Damaturu/Gujba/Gulani/Tarmuwa Federal Constituency",
+      "stateConstituency": "Gujba State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Gulani LGA",
+      "senatorialDistrict": "Yobe East Senatorial District",
+      "federalConstituency": "Damaturu/Gujba/Gulani/Tarmuwa Federal Constituency",
+      "stateConstituency": "Gulani State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Jakusko LGA",
+      "senatorialDistrict": "Yobe North Senatorial District",
+      "federalConstituency": "Bade/Jakusko Federal Constituency",
+      "stateConstituency": "Jakusko State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Karasuwa LGA",
+      "senatorialDistrict": "Yobe North Senatorial District",
+      "federalConstituency": "Machina/Nguru/Yusufari/Karasuwa Federal Constituency",
+      "stateConstituency": "Karasuwa State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Machina LGA",
+      "senatorialDistrict": "Yobe North Senatorial District",
+      "federalConstituency": "Machina/Nguru/Yusufari/Karasuwa Federal Constituency",
+      "stateConstituency": "Machina State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Nangere LGA",
+      "senatorialDistrict": "Yobe South Senatorial District",
+      "federalConstituency": "Nangere/Potiskum Federal Constituency",
+      "stateConstituency": "Nangere State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Nguru LGA",
+      "senatorialDistrict": "Yobe North Senatorial District",
+      "federalConstituency": "Machina/Nguru/Yusufari/Karasuwa Federal Constituency",
+      "stateConstituency": "Nguru I State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Potiskum LGA",
+      "senatorialDistrict": "Yobe South Senatorial District",
+      "federalConstituency": "Nangere/Potiskum Federal Constituency",
+      "stateConstituency": "Potiskum Central State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Tarmuwa LGA",
+      "senatorialDistrict": "Yobe East Senatorial District",
+      "federalConstituency": "Damaturu/Gujba/Gulani/Tarmuwa Federal Constituency",
+      "stateConstituency": "Tarmuwa State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Yunusari LGA",
+      "senatorialDistrict": "Yobe East Senatorial District",
+      "federalConstituency": "Bursari/Geidam/Yunusari Federal Constituency",
+      "stateConstituency": "Yunusari State Constituency"
+    },
+    {
+      "state": "Yobe",
+      "name": "Yusufari LGA",
+      "senatorialDistrict": "Yobe North Senatorial District",
+      "federalConstituency": "Machina/Nguru/Yusufari/Karasuwa Federal Constituency",
+      "stateConstituency": "Yusufari State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Yobe",
-      "name": "Ifeoma Balogun (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
+      "name": "Mai Mala Buni",
+      "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "manual"
+      "source": "Adewale Samuel"
     },
     {
       "office": "SEN",
       "state": "Yobe",
-      "senatorialDistrict": "Yobe PLACEHOLDER Senatorial District",
-      "name": "Umar Sadiq (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
+      "senatorialDistrict": "Yobe East Senatorial District",
+      "name": "Ibrahim Gaidam",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "SEN",
+      "state": "Yobe",
+      "senatorialDistrict": "Yobe North Senatorial District",
+      "name": "Ahmad Ibrahim Lawan",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "SEN",
+      "state": "Yobe",
+      "senatorialDistrict": "Yobe South Senatorial District",
+      "name": "Ibrahim Mohammed Bomai",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adewale Samuel"
     },
     {
       "office": "REP",
       "state": "Yobe",
-      "federalConstituency": "Yobe PLACEHOLDER Federal Constituency",
-      "name": "Aisha Ogunleye (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
+      "federalConstituency": "Bade/Jakusko Federal Constituency",
+      "name": "Hassan Kaikaku Jakduwa",
+      "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "Adewale Samuel"
     },
     {
-      "office": "HOA",
+      "office": "REP",
       "state": "Yobe",
-      "stateConstituency": "Yobe PLACEHOLDER State Constituency",
-      "name": "Rahma Ibe (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "federalConstituency": "Bursari/Geidam/Yunusari Federal Constituency",
+      "name": "Lawan Shettima Ali",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "REP",
+      "state": "Yobe",
+      "federalConstituency": "Damaturu/Gujba/Gulani/Tarmuwa Federal Constituency",
+      "name": "Khadija Bukar Abba Ibrahim",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "REP",
+      "state": "Yobe",
+      "federalConstituency": "Fika/Fune Federal Constituency",
+      "name": "Mohammad Buba Jajere",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "REP",
+      "state": "Yobe",
+      "federalConstituency": "Machina/Nguru/Yusufari/Karasuwa Federal Constituency",
+      "name": "Tijjani Zannah Zakariya",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "REP",
+      "state": "Yobe",
+      "federalConstituency": "Nangere/Potiskum Federal Constituency",
+      "name": "Fatima Talba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adewale Samuel"
     },
     {
       "office": "CHM",
       "state": "Yobe",
-      "lga": "Yobe PLACEHOLDER LGA",
-      "name": "Ibrahim Nwosu (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "PDP",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "lga": "Bade LGA",
+      "name": "Ibrahim Babagana Yurema",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Bursari LGA",
+      "name": "Lawan Bukar",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Damaturu LGA",
+      "name": "Bukar Adamu",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Fika LGA",
+      "name": "Audu Bukar Gadaka",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Fune LGA",
+      "name": "Baba Goni Mustapha",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Geidam LGA",
+      "name": "Mohd Musa",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Gujba LGA",
+      "name": "Dala Mala",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Gulani LGA",
+      "name": "Dayyabu Muhammad Ilu Njibulwa",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Jakusko LGA",
+      "name": "Alhaji Umaru Aguwa",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Karasuwa LGA",
+      "name": "Umara Muhammed Bukart",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Machina LGA",
+      "name": "Idrissa Mai Bukar",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Nangere LGA",
+      "name": "Samaila Musa",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Nguru LGA",
+      "name": "Muhd M Ahmed Mairami",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Potiskum LGA",
+      "name": "Salisu Muktari",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Tarmuwa LGA",
+      "name": "Muhammad Lamido Musa",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Yunusari LGA",
+      "name": "Yunusa Umar",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Yobe",
+      "lga": "Yusufari LGA",
+      "name": "Abba Bunu",
+      "party": "APC",
+      "termStart": "2024-06-10",
+      "termEnd": "2027-06-10",
+      "source": "Adewale Samuel"
     }
   ]
 }
