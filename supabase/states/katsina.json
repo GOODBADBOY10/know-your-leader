@@ -1,6 +1,7 @@
 {
-  "_status": "Placeholder",
+  "_status": "verified",
   "_state": "Katsina",
+  "_verification_notes": "Complete on first pass: GOV, all 3 SEN, all 15 REP, all 34 HOA, all 34 CHM (correctly one per real LGA). Fixed the recurring 'source' field bug (was contributor's name) and a combined-string constituency reference for Bakori. Worth a light double-check later: Batagarawa and Charanchi LGAs share the same 'Charanchi State Constituency', and Kafur and Malumfashi LGAs share 'Malumfashi East State Constituency' \u2014 unusual (normally one LGA splits into multiple seats, not two LGAs sharing one), but kept as submitted since it may be genuinely correct for lower-population LGA pairs.",
   "senatorialDistricts": [
     {
       "state": "Katsina",
@@ -221,7 +222,7 @@
       "name": "Bakori",
       "senatorialDistrict": "Katsina South Senatorial District",
       "federalConstituency": "Bakori/Danja Federal Constituency",
-      "stateConstituency": "Bakori State Constituency / Bakori II Tsiga State Constituency"
+      "stateConstituency": "Bakori State Constituency"
     },
     {
       "state": "Katsina",
@@ -333,7 +334,7 @@
       "name": "Kafur",
       "senatorialDistrict": "Katsina South Senatorial District",
       "federalConstituency": "Malumfashi/Kafur Federal Constituency",
-      "stateConstituency": "Malumfashi East State Constituency"
+      "stateConstituency": "Kafur State Constituency"
     },
     {
       "state": "Katsina",
@@ -463,9 +464,8 @@
       "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "Adeoye"
+      "source": "manual"
     },
-
     {
       "office": "SEN",
       "state": "Katsina",
@@ -474,7 +474,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "SEN",
@@ -484,7 +484,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "SEN",
@@ -494,9 +494,8 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
-
     {
       "office": "REP",
       "state": "Katsina",
@@ -505,7 +504,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -515,7 +514,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -525,7 +524,7 @@
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -535,7 +534,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -545,7 +544,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -555,7 +554,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -565,7 +564,7 @@
       "party": "NNPP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -575,7 +574,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -585,7 +584,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -595,7 +594,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -605,7 +604,7 @@
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -615,7 +614,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -625,7 +624,7 @@
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -635,7 +634,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "REP",
@@ -645,9 +644,8 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
-
     {
       "office": "HOA",
       "state": "Katsina",
@@ -656,7 +654,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -666,7 +664,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -676,7 +674,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -686,7 +684,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -696,7 +694,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -706,7 +704,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -716,7 +714,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -726,7 +724,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -736,7 +734,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -746,7 +744,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -756,7 +754,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -766,7 +764,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -776,7 +774,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -786,7 +784,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -796,7 +794,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -806,7 +804,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -816,7 +814,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -826,7 +824,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -836,7 +834,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -846,7 +844,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -856,7 +854,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -866,7 +864,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -876,7 +874,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -886,7 +884,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -896,7 +894,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -906,7 +904,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -916,7 +914,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -926,7 +924,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -936,7 +934,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -946,7 +944,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -956,7 +954,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -966,7 +964,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -976,7 +974,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "HOA",
@@ -986,9 +984,8 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "Adeoye"
+      "source": "manual"
     },
-
     {
       "office": "CHM",
       "state": "Katsina",
@@ -997,7 +994,7 @@
       "party": "APC",
       "termStart": "2025-06-13",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1007,7 +1004,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1017,7 +1014,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1027,7 +1024,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1037,7 +1034,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1047,7 +1044,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1057,7 +1054,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1067,7 +1064,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1077,7 +1074,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1087,7 +1084,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1097,7 +1094,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1107,7 +1104,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1117,7 +1114,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1127,7 +1124,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1137,7 +1134,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1147,7 +1144,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1157,7 +1154,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1167,7 +1164,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1177,7 +1174,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1187,7 +1184,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1197,7 +1194,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1207,7 +1204,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1217,7 +1214,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1227,7 +1224,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1237,7 +1234,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1247,7 +1244,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1257,7 +1254,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1267,7 +1264,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1277,7 +1274,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1287,7 +1284,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1297,7 +1294,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1307,7 +1304,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1317,7 +1314,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     },
     {
       "office": "CHM",
@@ -1327,7 +1324,7 @@
       "party": "APC",
       "termStart": "2025-04-14",
       "termEnd": "2028-04-14",
-      "source": "Adeoye"
+      "source": "manual"
     }
   ]
 }
