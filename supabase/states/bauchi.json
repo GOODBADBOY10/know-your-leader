@@ -1,82 +1,1013 @@
 {
-  "_status": "placeholder",
-  "_state": "Bauchi",
   "senatorialDistricts": [
     {
       "state": "Bauchi",
-      "name": "Bauchi PLACEHOLDER Senatorial District"
+      "name": "Bauchi North"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Bauchi Central"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Bauchi South"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Bauchi",
-      "name": "Bauchi PLACEHOLDER Federal Constituency"
+      "name": "Alkaleri/kirfi federal constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Bauchi federal constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Tafawa Balewa/Bogoro/Dass federal constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Dorozo/Ganjuwa federal constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Gamawa federal constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Jama'are/Itas-Gadau federal constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Katagum federal constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Misau/Dambam federal constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Ning/Warji federal constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Shira/Glade federal constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Toro federal constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Zaki federal constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Bauchi",
-      "name": "Bauchi PLACEHOLDER State Constituency"
+      "name": "Alkaleri/Pali State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Alkaleri/kirfi State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Azare State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Bauchi State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Bogoro State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Burra State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Chiroma State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "ADambam/Dagauda/Jalam State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Darazo State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Dass State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Disina State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Duguri/Gwana State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Gamawa State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Ganjuwa East State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Ganjuwa west State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Giade State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Hardawa State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Itas/Gadau State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Jama'are State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Katagum State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "kirfi State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Lame State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Lere/Bula State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Madara/Chinade State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Ningi Central State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Pali State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Sade State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Sakwa State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Shira State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Toro/Jama'a State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Warji State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Zaki State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Zungur/Galambi State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Bauchi",
-      "name": "Bauchi PLACEHOLDER LGA",
-      "senatorialDistrict": "Bauchi PLACEHOLDER Senatorial District",
-      "federalConstituency": "Bauchi PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Bauchi PLACEHOLDER State Constituency"
+      "name": "Alkaleri",
+      "senatorialDistrict": "Bauchi south Senatorial District",
+      "federalConstituency": "Alkaleri/Kirfi Federal Constituency",
+      "stateConstituency": "Alkaleri State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Bauchi",
+      "senatorialDistrict": "Bauchi south Senatorial District",
+      "federalConstituency": "Bauchi Federal Constituency",
+      "stateConstituency": "Bauchi/Makama/Wuri State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Bogoro",
+      "senatorialDistrict": "Bauchi south Senatorial District",
+      "federalConstituency": "Bogoro/Dass/Tafawa Balewa Federal Constituency",
+      "stateConstituency": "Bogoro State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Dambam",
+      "senatorialDistrict": "Bauchi Central Senatorial District",
+      "federalConstituency": "Misau/Dambam Federal Constituency",
+      "stateConstituency": "Dambam/ Yalwan Darazo State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Darazo",
+      "senatorialDistrict": "Bauchi Central Senatorial District",
+      "federalConstituency": "Darazo/Ganjuwa Federal Constituency",
+      "stateConstituency": "Darazo State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Dass",
+      "senatorialDistrict": "Bauchi South Senatorial District",
+      "federalConstituency": "Bogoro/Dass/Tafawa Balewa Federal Constituency",
+      "stateConstituency": "Dass State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Gamawa",
+      "senatorialDistrict": "Bauchi North Senatorial District",
+      "federalConstituency": "Gamawa Federal Constituency",
+      "stateConstituency": "Gamawa State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Ganjuwa",
+      "senatorialDistrict": "Bauchi Central Senatorial District",
+      "federalConstituency": "Darazo/Ganjuwa Federal Constituency",
+      "stateConstituency": "Ganjuwa State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Giade",
+      "senatorialDistrict": "Bauchi North Senatorial District",
+      "federalConstituency": "Shira/Giade Federal Constituency",
+      "stateConstituency": "Giade State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Itas/Gadau",
+      "senatorialDistrict": "Bauchi North Senatorial District",
+      "federalConstituency": "Jama'are/Itas-Gadau Federal Constituency",
+      "stateConstituency": "Itas/Gadau State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Jama'are",
+      "senatorialDistrict": "Bauchi North Senatorial District",
+      "federalConstituency": "Jama'are/Itas-Gadau Federal Constituency",
+      "stateConstituency": "Jama'are State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Katagum",
+      "senatorialDistrict": "Bauchi North Senatorial District",
+      "federalConstituency": "Katagum Federal Constituency",
+      "stateConstituency": "katagum/Azare State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Kirfi",
+      "senatorialDistrict": "Bauchi south Senatorial District",
+      "federalConstituency": "Alkaleri/Kirfi Federal Constituency",
+      "stateConstituency": "Kirfi State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Misau",
+      "senatorialDistrict": "Bauchi Central Senatorial District",
+      "federalConstituency": "Misau/Dambam Federal Constituency",
+      "stateConstituency": "Misau State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Ningi",
+      "senatorialDistrict": "Bauchi Central Senatorial District",
+      "federalConstituency": "Ningi/Warji Federal Constituency",
+      "stateConstituency": "Ningi central/Burra State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Shira",
+      "senatorialDistrict": "Bauchi North Senatorial District",
+      "federalConstituency": "Shira/Giade Federal Constituency",
+      "stateConstituency": "shira State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Tafawa Balewa",
+      "senatorialDistrict": "Bauchi south Senatorial District",
+      "federalConstituency": "Bogoro/Dass/Tafawa Balewa Federal Constituency",
+      "stateConstituency": "Tafawa Balewa State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Toro",
+      "senatorialDistrict": "Bauchi south Senatorial District",
+      "federalConstituency": "Toro Federal Constituency",
+      "stateConstituency": "Toro/AMA/Zaranda State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Warji",
+      "senatorialDistrict": "Bauchi Central Senatorial District",
+      "federalConstituency": "Ningi/Warji Federal Constituency",
+      "stateConstituency": "warji State Constituency"
+    },
+    {
+      "state": "Bauchi",
+      "name": "Zaki",
+      "senatorialDistrict": "Bauchi North Senatorial District",
+      "federalConstituency": "Zaki Federal Constituency",
+      "stateConstituency": "Zaki State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Bauchi",
-      "name": "Gloria Adeyemi (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APC",
+      "name": "Bala Abdulkadir Mohammed",
+      "party": "PDP",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "manual"
+      "source": "Adeoye"
     },
     {
       "office": "SEN",
       "state": "Bauchi",
-      "senatorialDistrict": "Bauchi PLACEHOLDER Senatorial District",
-      "name": "Ngozi Okonkwo (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
+      "senatorialDistrict": "Bauchi Central Senatorial District",
+      "name": "Abdul Ahmed Ningi",
+      "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "Adeoye"
+    },
+    {
+      "office": "SEN",
+      "state": "Bauchi",
+      "senatorialDistrict": "Bauchi North Senatorial District",
+      "name": "Samaila Dahuwa Kaila",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
+    },
+    {
+      "office": "SEN",
+      "state": "Bauchi",
+      "senatorialDistrict": "Bauchi South Senatorial District",
+      "name": "Shehu Buba Umar",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
     },
     {
       "office": "REP",
       "state": "Bauchi",
-      "federalConstituency": "Bauchi PLACEHOLDER Federal Constituency",
-      "name": "Kelechi Adebayo (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
+      "federalConstituency": "Alkaleri/Kirfi Federal Constituency",
+      "name": "Kabiru Yusuf Alhaji",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "Adeoye"
+    },
+    {
+      "office": "REP",
+      "state": "Bauchi",
+      "federalConstituency": "Bauchi Federal Constituency",
+      "name": "Aliyu Aminu Garu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
+    },
+    {
+      "office": "REP",
+      "state": "Bauchi",
+      "federalConstituency": "Bogoro/Dass/Tafawa Balewa Federal Constituency",
+      "name": "Leko Jafaru Gambo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
+    },
+    {
+      "office": "REP",
+      "state": "Bauchi",
+      "federalConstituency": "Toro Federal Constituency",
+      "name": "Dabo Ismaila Haruna",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
+    },
+    {
+      "office": "REP",
+      "state": "Bauchi",
+      "federalConstituency": "Ningi/Warji Federal Constituency",
+      "name": "Hashimu Adamu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
+    },
+    {
+      "office": "REP",
+      "state": "Bauchi",
+      "federalConstituency": "Darazo/Ganjuwa Federal Constituency",
+      "name": "Mansur Manu Soro",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
+    },
+    {
+      "office": "REP",
+      "state": "Bauchi",
+      "federalConstituency": "Misau/Dambam Federal Constituency",
+      "name": "Aliyu Bappa Misau",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
+    },
+    {
+      "office": "REP",
+      "state": "Bauchi",
+      "federalConstituency": "Zaki Federal Constituency",
+      "name": "Muhammed Dan Abba Shehu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
+    },
+    {
+      "office": "REP",
+      "state": "Bauchi",
+      "federalConstituency": "Gamawa Federal Constituency",
+      "name": "Adamu Ibrahim Gamawa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
+    },
+    {
+      "office": "REP",
+      "state": "Bauchi",
+      "federalConstituency": "Jama'are/Itas-Gadau Federal Constituency",
+      "name": "Rabilu Bala",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
+    },
+    {
+      "office": "REP",
+      "state": "Bauchi",
+      "federalConstituency": "Shira/Giade Federal Constituency",
+      "name": "Sani Ibrahim Tanko",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
+    },
+    {
+      "office": "REP",
+      "state": "Bauchi",
+      "federalConstituency": "Katagum Federal Constituency",
+      "name": "Auwalu Abdu Gwalabe",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Adeoye"
     },
     {
       "office": "HOA",
       "state": "Bauchi",
-      "stateConstituency": "Bauchi PLACEHOLDER State Constituency",
-      "name": "Ifeoma Sadiq (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "stateConstituency": "Bauchi",
+      "name": "Jamilu Umaru Dahiru",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Dass",
+      "name": "Abdullahi Ahmed",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Bogoro",
+      "name": "Musa Wakili Nakwada",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Ningi",
+      "name": "Abubakar Yahaya Suleiman",
+      "party": "PDP",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Burra",
+      "name": "Ibrahim Tanko Burra",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Giade",
+      "name": "Abubakar Adamu Salihu",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Shira",
+      "name": "Auwal Hassan",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Jama'are",
+      "name": "Mubarak Haruna",
+      "party": "NNPP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Jama'a/Toro",
+      "name": "Hamza Sa'id",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Lame",
+      "name": "Abdu Bala Rishi",
+      "party": "APC",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Lere/Bula",
+      "name": "Abdulrashid Adamu Muazu",
+      "party": "APC",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Duguri/Gwana",
+      "name": "Abdullahi Dan Bala",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Kirfi",
+      "name": "Habibu Umar",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Zungur/Galambi",
+      "name": "Yusuf Sa'idu Ahmed",
+      "party": "PDP",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Ganjuwa East",
+      "name": "Daiyabu Ladan Muhammad",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Ganjuwa West",
+      "name": "Garba Adamu Kawu",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Sade",
+      "name": "Lawan Dauda",
+      "party": "APC",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Darazo",
+      "name": "Sa'idu Suleiman Darazo",
+      "party": "APC",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Pali",
+      "name": "Aminu Garba",
+      "party": "APC",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Azare/Madangala",
+      "name": "Zakariyya Saleh",
+      "party": "APC",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Madara/Chinade",
+      "name": "Nasiru Ahmed Ala",
+      "party": "PDP",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Katagum",
+      "name": "Muhammad Bello Maiwa",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Sakwa",
+      "name": "Muhammad Wanzam",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Disina",
+      "name": "Hodi Sale Jibir",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Udubo",
+      "name": "Ahmed Muhammad Lele",
+      "party": "APC",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Gamawa",
+      "name": "Bello Sarkin Jadori",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Itas/Gadau",
+      "name": "Yusuf Abdullahi Itas",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Chiroma",
+      "name": "Ahmed Maikudi Yahaya",
+      "party": "APC",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Dambam/Dagauda/Jalam",
+      "name": "Ahmed Muhammad Garba",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Toro/Jama'a",
+      "name": "Hamza Sa'id",
+      "party": "PDP",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
+    },
+    {
+      "office": "HOA",
+      "state": "Bauchi",
+      "stateConstituency": "Warji",
+      "name": "Garba Lawan",
+      "party": "APC",
+      "termStart": "2023-06-20",
+      "termEnd": "2027-06-20",
+      "source": "Adeoye"
     },
     {
       "office": "CHM",
       "state": "Bauchi",
-      "lga": "Bauchi PLACEHOLDER LGA",
-      "name": "Ekaete Nwachukwu (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "PDP",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "lga": "Alkaleri",
+      "name": "Bappah Aliyu Mohammed",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Bauchi",
+      "name": "Umar Mohammed Aliyu",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Bogoro",
+      "name": "Zakka Luka Magaji",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Dambam",
+      "name": "Iliya Isah",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Darazo",
+      "name": "Ya'u Samaila Sade",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Dass",
+      "name": "Mohammed Abubakar Jibo",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Gamawa",
+      "name": "Ali Babayo",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Ganjuwa",
+      "name": "Mohammed Idris M.",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Giade",
+      "name": "Mustapha Alhaji Musa",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Itas/Gadau",
+      "name": "Dankawuwa Ya'u",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Jama'are",
+      "name": "Inuwa Abdullahi",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Katagum",
+      "name": "Yusuf Babayo Zaki",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Kirfi",
+      "name": "Garba Musa",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Misau",
+      "name": "Salisu Hussaini",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Ningi",
+      "name": "Yahuza Adamu Haruna",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Shira",
+      "name": "Saleh Hodi Jibir",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Tafawa Balewa",
+      "name": "Sama'ila Wakili Lere",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Toro",
+      "name": "Abubakar Ibrahim Dembo",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Warji",
+      "name": "Habibu Idris Usman",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
+    },
+    {
+      "office": "CHM",
+      "state": "Bauchi",
+      "lga": "Zaki",
+      "name": "Mas'ud Aliyu",
+      "party": "APM",
+      "termStart": "2026-08-18",
+      "termEnd": "2030-08-18",
+      "source": "Adeoye"
     }
   ]
 }

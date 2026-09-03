@@ -1,39 +1,280 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Abia",
+  "_verification_notes": "Fixed: two LGAs were mislabeled 'Abia North'/'Abia South' (those are senatorial district names) \u2014 corrected to the real LGA names 'Aba North'/'Aba South' (the Chairman section already had this right, confirming it was a one-section slip, not a research error). Standardized federal constituency naming (was inconsistent/duplicated across sections) and added 'Umuahia East State Constituency', which had a real Assembly member but was missing from the declared list. Complete: GOV, all 3 SEN, all 8 REP, all 24 HOA, all 17 CHM.",
   "senatorialDistricts": [
     {
       "state": "Abia",
-      "name": "Abia PLACEHOLDER Senatorial District"
+      "name": "Abia North Senatorial District"
+    },
+    {
+      "state": "Abia",
+      "name": "Abia Central Senatorial District"
+    },
+    {
+      "state": "Abia",
+      "name": "Abia South Senatorial District"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Abia",
-      "name": "Abia PLACEHOLDER Federal Constituency"
+      "name": "Aba North/Aba South Federal Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Arochukwu/Ohafia Federal Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Bende Federal Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ikwuano/Umuahia North/Umuahia South Federal Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Isiala Ngwa North/Isiala Ngwa South Federal Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Isuikwuato/Umunneochi Federal Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Obingwa/Osisioma/Ugwunagbo Federal Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ukwa East/Ukwa West Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Abia",
-      "name": "Abia PLACEHOLDER State Constituency"
+      "name": "Aba North State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Aba South State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Aba Central State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Arochukwu State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Bende North State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Bende South State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ikwuano State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Isiala Ngwa North State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Isiala Ngwa South State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Isuikwuato State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ohafia North State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ohafia South State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Osisioma Ngwa North State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Osisioma Ngwa South State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Obingwa East State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Obingwa West State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ugwunagbo State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ukwa East State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ukwa West State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Umuahia North State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Umuahia South State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Umuahia Central State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Umuahia East State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Umunneochi State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Abia",
-      "name": "Abia PLACEHOLDER LGA",
-      "senatorialDistrict": "Abia PLACEHOLDER Senatorial District",
-      "federalConstituency": "Abia PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Abia PLACEHOLDER State Constituency"
+      "name": "Aba North",
+      "senatorialDistrict": "Abia South Senatorial District",
+      "federalConstituency": "Aba North/Aba South Federal Constituency",
+      "stateConstituency": "Aba North State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Aba South",
+      "senatorialDistrict": "Abia South Senatorial District",
+      "federalConstituency": "Aba North/Aba South Federal Constituency",
+      "stateConstituency": "Aba South State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Arochukwu",
+      "senatorialDistrict": "Abia North Senatorial District",
+      "federalConstituency": "Arochukwu/Ohafia Federal Constituency",
+      "stateConstituency": "Arochukwu State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Bende",
+      "senatorialDistrict": "Abia North Senatorial District",
+      "federalConstituency": "Bende Federal Constituency",
+      "stateConstituency": "Bende North State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ikwuano",
+      "senatorialDistrict": "Abia Central Senatorial District",
+      "federalConstituency": "Ikwuano/Umuahia North/Umuahia South Federal Constituency",
+      "stateConstituency": "Ikwuano State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Isiala Ngwa North",
+      "senatorialDistrict": "Abia Central Senatorial District",
+      "federalConstituency": "Isiala Ngwa North/Isiala Ngwa South Federal Constituency",
+      "stateConstituency": "Isiala Ngwa North State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Isiala Ngwa South",
+      "senatorialDistrict": "Abia Central Senatorial District",
+      "federalConstituency": "Isiala Ngwa North/Isiala Ngwa South Federal Constituency",
+      "stateConstituency": "Isiala Ngwa South State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Isuikwuato",
+      "senatorialDistrict": "Abia North Senatorial District",
+      "federalConstituency": "Isuikwuato/Umunneochi Federal Constituency",
+      "stateConstituency": "Isuikwuato State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Obingwa",
+      "senatorialDistrict": "Abia South Senatorial District",
+      "federalConstituency": "Obingwa/Osisioma/Ugwunagbo Federal Constituency",
+      "stateConstituency": "Obingwa East State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ohafia",
+      "senatorialDistrict": "Abia North Senatorial District",
+      "federalConstituency": "Arochukwu/Ohafia Federal Constituency",
+      "stateConstituency": "Ohafia North State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Osisioma Ngwa",
+      "senatorialDistrict": "Abia South Senatorial District",
+      "federalConstituency": "Obingwa/Osisioma/Ugwunagbo Federal Constituency",
+      "stateConstituency": "Osisioma Ngwa North State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ugwunagbo",
+      "senatorialDistrict": "Abia South Senatorial District",
+      "federalConstituency": "Obingwa/Osisioma/Ugwunagbo Federal Constituency",
+      "stateConstituency": "Ugwunagbo State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ukwa East",
+      "senatorialDistrict": "Abia South Senatorial District",
+      "federalConstituency": "Ukwa East/Ukwa West Federal Constituency",
+      "stateConstituency": "Ukwa East State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Ukwa West",
+      "senatorialDistrict": "Abia South Senatorial District",
+      "federalConstituency": "Ukwa East/Ukwa West Federal Constituency",
+      "stateConstituency": "Ukwa West State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Umuahia North",
+      "senatorialDistrict": "Abia Central Senatorial District",
+      "federalConstituency": "Ikwuano/Umuahia North/Umuahia South Federal Constituency",
+      "stateConstituency": "Umuahia North State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Umuahia South",
+      "senatorialDistrict": "Abia Central Senatorial District",
+      "federalConstituency": "Ikwuano/Umuahia North/Umuahia South Federal Constituency",
+      "stateConstituency": "Umuahia South State Constituency"
+    },
+    {
+      "state": "Abia",
+      "name": "Umunneochi",
+      "senatorialDistrict": "Abia North Senatorial District",
+      "federalConstituency": "Isuikwuato/Umunneochi Federal Constituency",
+      "stateConstituency": "Umunneochi State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Abia",
-      "name": "Zainab Bello (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
+      "name": "Dr. Alex Chioma Otti, OFR",
+      "party": "LP",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
       "source": "manual"
@@ -41,9 +282,39 @@
     {
       "office": "SEN",
       "state": "Abia",
-      "senatorialDistrict": "Abia PLACEHOLDER Senatorial District",
-      "name": "Aliyu Balogun (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
+      "senatorialDistrict": "Abia South Senatorial District",
+      "name": "Enyinnaya Abaribe",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Abia",
+      "senatorialDistrict": "Abia North Senatorial District",
+      "name": "Orji Uzor Kalu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Abia",
+      "senatorialDistrict": "Abia Central Senatorial District",
+      "name": "Augustine Akobundu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Abia",
+      "federalConstituency": "Aba North/Aba South Federal Constituency",
+      "name": "Alexander Mascot Ikwechegh",
+      "party": "LP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
       "source": "manual"
@@ -51,9 +322,69 @@
     {
       "office": "REP",
       "state": "Abia",
-      "federalConstituency": "Abia PLACEHOLDER Federal Constituency",
-      "name": "Ngozi Suleiman (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
+      "federalConstituency": "Arochukwu/Ohafia Federal Constituency",
+      "name": "Ibe Okwara Oji",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Abia",
+      "federalConstituency": "Bende Federal Constituency",
+      "name": "Benjamin Kalu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Abia",
+      "federalConstituency": "Ikwuano/Umuahia North/Umuahia South Federal Constituency",
+      "name": "Obi Aguocha",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Abia",
+      "federalConstituency": "Isiala Ngwa North/Isiala Ngwa South Federal Constituency",
+      "name": "Darlington Nwokocha",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Abia",
+      "federalConstituency": "Isuikwuato/Umunneochi Federal Constituency",
+      "name": "Amobi Ogah",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Abia",
+      "federalConstituency": "Obingwa/Osisioma/Ugwunagbo Federal Constituency",
+      "name": "Solomon Adaelu",
+      "party": "APGA",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Abia",
+      "federalConstituency": "Ukwa East/Ukwa West Federal Constituency",
+      "name": "Chris Nkwota",
+      "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
       "source": "manual"
@@ -61,21 +392,411 @@
     {
       "office": "HOA",
       "state": "Abia",
-      "stateConstituency": "Abia PLACEHOLDER State Constituency",
-      "name": "Emeka Abdullahi (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
+      "stateConstituency": "Arochukwu State Constituency",
+      "name": "Uchenna Okoro",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Aba South State Constituency",
+      "name": "Emma Emeruwa",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Aba North State Constituency",
+      "name": "Destiny Nwangwu",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Aba Central State Constituency",
+      "name": "Ucheonye Stephen",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Bende North State Constituency",
+      "name": "Nnamdi Ibekwe",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Bende South State Constituency",
+      "name": "Emmanuel Ndubuisi",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Ikwuano State Constituency",
+      "name": "Boniface Isienyi",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Isiala Ngwa North State Constituency",
+      "name": "Ugochukwu Iheonunekwu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Isiala Ngwa South State Constituency",
+      "name": "Rowland Ceaser",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Ohafia North State Constituency",
+      "name": "Mandela Obasi",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Ohafia South State Constituency",
+      "name": "Nwoke Kalu Mba",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Isuikwuato State Constituency",
+      "name": "Lucky Johnson",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Obingwa East State Constituency",
+      "name": "Solomon Akpulonu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Obingwa West State Constituency",
+      "name": "Erondu Uchenna Erondu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Ugwunagbo State Constituency",
+      "name": "Chijioke Uruakpa",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Ukwa East State Constituency",
+      "name": "Lewis Obianyi",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Ukwa West State Constituency",
+      "name": "Godwin Adiele",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Osisioma Ngwa North State Constituency",
+      "name": "Nwogu Iheanacho",
+      "party": "YPP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Osisioma Ngwa South State Constituency",
+      "name": "Fyne Ahuama",
+      "party": "YPP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Umuahia Central State Constituency",
+      "name": "Chinasa Anthony",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Umuahia East State Constituency",
+      "name": "Austin Okezie Meregini",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Umuahia North State Constituency",
+      "name": "Anderson Akaliro",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Umuahia South State Constituency",
+      "name": "Emeka Jacob Obioma",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Abia",
+      "stateConstituency": "Umunneochi State Constituency",
+      "name": "Ume Mathias",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
       "source": "manual"
     },
     {
       "office": "CHM",
       "state": "Abia",
-      "lga": "Abia PLACEHOLDER LGA",
-      "name": "Ngozi Adegoke (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "PDP",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
+      "lga": "Aba North",
+      "name": "Timothy Iheke",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Aba South",
+      "name": "Anyanwu Obilor",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Arochukwu",
+      "name": "Okereke Ezearo",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Bende",
+      "name": "Uwabunkeonye Bassey",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Ikwuano",
+      "name": "Anthony Nwaubani",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Isiala Ngwa North",
+      "name": "Innocent Uruakpa",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Isiala Ngwa South",
+      "name": "Nnadozie Nwaogwugwu",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Isuikwuato",
+      "name": "Chinedu Ekeke",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Obingwa",
+      "name": "Maxwell Nwadike",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Ohafia",
+      "name": "Eleanya Oju-Kalu",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Osisioma Ngwa",
+      "name": "Chidi Christian Agu",
+      "party": "YPP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Ugwunagbo",
+      "name": "Ihenacho Chiemela Nwagbara",
+      "party": "YPP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Ukwa East",
+      "name": "Chibunna Akara",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Ukwa West",
+      "name": "Dike Nwankwo",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Umuahia North",
+      "name": "Smart Ihuoma",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Umuahia South",
+      "name": "Chinwendu Enwereuzo",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Abia",
+      "lga": "Umunneochi",
+      "name": "Sunday Afuruike",
+      "party": "ZLP",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-03",
       "source": "manual"
     }
   ]

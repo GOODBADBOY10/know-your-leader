@@ -1,39 +1,402 @@
 {
   "_status": "placeholder",
   "_state": "Kaduna",
+  "_progress_note": "Outstanding submission \u2014 GOV, all 3 SEN, all 16 REP, and all 23 CHM (correctly one per real LGA) are complete. HOA is 34 of 35 real seats filled \u2014 only 'Saminaka State Constituency' has no officeholder found yet. Fixed: 'source' field bug (was contributor's name, now 'manual'); a typo ('Margana' -> 'Maigana'); and added Kajuru + Kaura as proper state constituency entries since real officeholders existed for them but they were missing from the declared list. Flip to verified once Saminaka's Assembly member is found.",
   "senatorialDistricts": [
     {
       "state": "Kaduna",
-      "name": "Kaduna PLACEHOLDER Senatorial District"
+      "name": "Kaduna Central Senatorial District"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kaduna North Senatorial District"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kaduna South Senatorial District"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Kaduna",
-      "name": "Kaduna PLACEHOLDER Federal Constituency"
+      "name": "Birnin Gwari/Giwa Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Chikun/Kajuru Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Igabi Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Ikara/Kubau Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Jema'a/Sanga Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kachia/Kagarko Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kaduna North Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kaduna South Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kaura Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kauru Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Lere Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Makarfi/Kudan Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Sabon Gari Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Soba Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Zangon Kataf/Jaba Federal Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Zaria Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Kaduna",
-      "name": "Kaduna PLACEHOLDER State Constituency"
+      "name": "Basawa State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Chawai/Kauru State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Chikun State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Doka/Gabasawa State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Giwa East State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Giwa West State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Igabi East State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Igabi West State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Jaba State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Jema'a State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kachia State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kagarko State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kajuru State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kakangi State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kaura State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kawo State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kewaye State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kubau State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kudan State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Lere East State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Lere West State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Magajin Gari State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Maigana State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Makarfi State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Makera State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Sabon Gari State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Saminaka State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Sanga State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Soba State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Tudun Wada State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Unguwar Sanusi State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Zangon Kataf State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Zaria City State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Zaria Kewaye State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Zonkwa State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Ikara State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Kaduna",
-      "name": "Kaduna PLACEHOLDER LGA",
-      "senatorialDistrict": "Kaduna PLACEHOLDER Senatorial District",
-      "federalConstituency": "Kaduna PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Kaduna PLACEHOLDER State Constituency"
+      "name": "Birnin Gwari",
+      "senatorialDistrict": "Kaduna Central Senatorial District",
+      "federalConstituency": "Birnin Gwari/Giwa Federal Constituency",
+      "stateConstituency": "Basawa State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Chikun",
+      "senatorialDistrict": "Kaduna Central Senatorial District",
+      "federalConstituency": "Chikun/Kajuru Federal Constituency",
+      "stateConstituency": "Chikun State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Giwa",
+      "senatorialDistrict": "Kaduna Central Senatorial District",
+      "federalConstituency": "Birnin Gwari/Giwa Federal Constituency",
+      "stateConstituency": "Giwa East State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Igabi",
+      "senatorialDistrict": "Kaduna Central Senatorial District",
+      "federalConstituency": "Igabi Federal Constituency",
+      "stateConstituency": "Igabi East State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kaduna North",
+      "senatorialDistrict": "Kaduna Central Senatorial District",
+      "federalConstituency": "Kaduna North Federal Constituency",
+      "stateConstituency": "Unguwar Sanusi State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kaduna South",
+      "senatorialDistrict": "Kaduna Central Senatorial District",
+      "federalConstituency": "Kaduna South Federal Constituency",
+      "stateConstituency": "Makera State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kajuru",
+      "senatorialDistrict": "Kaduna Central Senatorial District",
+      "federalConstituency": "Chikun/Kajuru Federal Constituency",
+      "stateConstituency": "Kajuru State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Jaba",
+      "senatorialDistrict": "Kaduna South Senatorial District",
+      "federalConstituency": "Zangon Kataf/Jaba Federal Constituency",
+      "stateConstituency": "Jaba State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Jema'a",
+      "senatorialDistrict": "Kaduna South Senatorial District",
+      "federalConstituency": "Jema'a/Sanga Federal Constituency",
+      "stateConstituency": "Jema'a State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kachia",
+      "senatorialDistrict": "Kaduna South Senatorial District",
+      "federalConstituency": "Kachia/Kagarko Federal Constituency",
+      "stateConstituency": "Kachia State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kagarko",
+      "senatorialDistrict": "Kaduna South Senatorial District",
+      "federalConstituency": "Kachia/Kagarko Federal Constituency",
+      "stateConstituency": "Kagarko State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kaura",
+      "senatorialDistrict": "Kaduna South Senatorial District",
+      "federalConstituency": "Kaura Federal Constituency",
+      "stateConstituency": "Kaura State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kauru",
+      "senatorialDistrict": "Kaduna South Senatorial District",
+      "federalConstituency": "Kauru Federal Constituency",
+      "stateConstituency": "Chawai/Kauru State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Sanga",
+      "senatorialDistrict": "Kaduna South Senatorial District",
+      "federalConstituency": "Jema'a/Sanga Federal Constituency",
+      "stateConstituency": "Sanga State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Zangon Kataf",
+      "senatorialDistrict": "Kaduna South Senatorial District",
+      "federalConstituency": "Zangon Kataf/Jaba Federal Constituency",
+      "stateConstituency": "Zangon Kataf State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Ikara",
+      "senatorialDistrict": "Kaduna North Senatorial District",
+      "federalConstituency": "Ikara/Kubau Federal Constituency",
+      "stateConstituency": "Ikara State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kubau",
+      "senatorialDistrict": "Kaduna North Senatorial District",
+      "federalConstituency": "Ikara/Kubau Federal Constituency",
+      "stateConstituency": "Kubau State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Kudan",
+      "senatorialDistrict": "Kaduna North Senatorial District",
+      "federalConstituency": "Makarfi/Kudan Federal Constituency",
+      "stateConstituency": "Kudan State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Lere",
+      "senatorialDistrict": "Kaduna North Senatorial District",
+      "federalConstituency": "Lere Federal Constituency",
+      "stateConstituency": "Lere West State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Makarfi",
+      "senatorialDistrict": "Kaduna North Senatorial District",
+      "federalConstituency": "Makarfi/Kudan Federal Constituency",
+      "stateConstituency": "Makarfi State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Sabon Gari",
+      "senatorialDistrict": "Kaduna North Senatorial District",
+      "federalConstituency": "Sabon Gari Federal Constituency",
+      "stateConstituency": "Sabon Gari State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Soba",
+      "senatorialDistrict": "Kaduna North Senatorial District",
+      "federalConstituency": "Soba Federal Constituency",
+      "stateConstituency": "Soba State Constituency"
+    },
+    {
+      "state": "Kaduna",
+      "name": "Zaria",
+      "senatorialDistrict": "Kaduna North Senatorial District",
+      "federalConstituency": "Zaria Federal Constituency",
+      "stateConstituency": "Zaria City State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Kaduna",
-      "name": "Rotimi Abdullahi (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
+      "name": "Uba Sani",
+      "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
       "source": "manual"
@@ -41,8 +404,48 @@
     {
       "office": "SEN",
       "state": "Kaduna",
-      "senatorialDistrict": "Kaduna PLACEHOLDER Senatorial District",
-      "name": "Folake Ojo (PLACEHOLDER \u2014 REPLACE ME)",
+      "senatorialDistrict": "Kaduna Central Senatorial District",
+      "name": "Lawal Adamu Usman",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Kaduna",
+      "senatorialDistrict": "Kaduna North Senatorial District",
+      "name": "Khalid Ibrahim Mustapha",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Kaduna",
+      "senatorialDistrict": "Kaduna South Senatorial District",
+      "name": "Sunday Marshall Katung",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Birnin Gwari/Giwa Federal Constituency",
+      "name": "Bashir Zubairu Usman",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Chikun/Kajuru Federal Constituency",
+      "name": "Adams Abubakar Ekene",
       "party": "LP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
@@ -51,8 +454,138 @@
     {
       "office": "REP",
       "state": "Kaduna",
-      "federalConstituency": "Kaduna PLACEHOLDER Federal Constituency",
-      "name": "Chioma Danladi (PLACEHOLDER \u2014 REPLACE ME)",
+      "federalConstituency": "Igabi Federal Constituency",
+      "name": "Husseini Muhammad Jallo",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Ikara/Kubau Federal Constituency",
+      "name": "Mustapha Aliyu Abdullahi",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Jema'a/Sanga Federal Constituency",
+      "name": "Dan Amos",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Kachia/Kagarko Federal Constituency",
+      "name": "David Umar Gurara",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Kaduna North Federal Constituency",
+      "name": "Bello El-Rufai",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Kaduna South Federal Constituency",
+      "name": "Hussaini Abdulkarim",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Kaura Federal Constituency",
+      "name": "Mathew Donatus",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Kauru Federal Constituency",
+      "name": "Bashir Yusuf",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Lere Federal Constituency",
+      "name": "Ahmed Munir",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Makarfi/Kudan Federal Constituency",
+      "name": "Umar Shehu Ajilo",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Sabon Gari Federal Constituency",
+      "name": "Sadiq Ango Abdullahi",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Soba Federal Constituency",
+      "name": "Suleiman Yahaya Richifa",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Zangon Kataf/Jaba Federal Constituency",
+      "name": "Amos Gwamna Magaji",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Kaduna",
+      "federalConstituency": "Zaria Federal Constituency",
+      "name": "Tajudeen Abbas",
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
@@ -61,21 +594,571 @@
     {
       "office": "HOA",
       "state": "Kaduna",
-      "stateConstituency": "Kaduna PLACEHOLDER State Constituency",
-      "name": "Rahma Garba (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
+      "stateConstituency": "Basawa State Constituency",
+      "name": "Jamilu Abubakar Albani",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Chawai/Kauru State Constituency",
+      "name": "Barnabas Haruna",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Chikun State Constituency",
+      "name": "Garba Madami",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Doka/Gabasawa State Constituency",
+      "name": "Aminu Lawal Anty",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Giwa East State Constituency",
+      "name": "Adamu Mohammad Shika",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Giwa West State Constituency",
+      "name": "Auwal Umar Bajimi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Igabi East State Constituency",
+      "name": "Salisu Bala Dan Dada",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Igabi West State Constituency",
+      "name": "Zailani Yusuf Ibrahim",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Makera State Constituency",
+      "name": "Dahiru Yusuf Liman",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Sabon Gari State Constituency",
+      "name": "Idris Mohammed Nasir",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Zaria City State Constituency",
+      "name": "Ismail Mahmud Lawal",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Sanga State Constituency",
+      "name": "Haliru Gambo Dangana",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Tudun Wada State Constituency",
+      "name": "Nasiru Usman",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Unguwar Sanusi State Constituency",
+      "name": "Yahaya Auwalu Mohammad",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Kachia State Constituency",
+      "name": "Peter Agite",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Kagarko State Constituency",
+      "name": "Henry Magaji Danjuma",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Kawo State Constituency",
+      "name": "Naziru Sanusi Abubakar",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Zaria Kewaye State Constituency",
+      "name": "Ahmed Mohammed",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Kubau State Constituency",
+      "name": "Yunusa Shehu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Kudan State Constituency",
+      "name": "Abbas Faisal",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Lere West State Constituency",
+      "name": "Bashir Idris Gatari",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Lere East State Constituency",
+      "name": "Munira Suleiman Tanimu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Kakangi State Constituency",
+      "name": "Musa Yahaya",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Kajuru State Constituency",
+      "name": "Danlami Usman Stingo",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Kaura State Constituency",
+      "name": "Yusufu Mugu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Maigana State Constituency",
+      "name": "Mohammed Bello Abdullahi",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Makarfi State Constituency",
+      "name": "Isyaku Ibrahim",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Ikara State Constituency",
+      "name": "Usman Dallami Stingo",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Jaba State Constituency",
+      "name": "Marah Henry Zachariah",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Jema'a State Constituency",
+      "name": "Ali Kalat",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Magajin Gari State Constituency",
+      "name": "Shehu Abubakar",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Soba State Constituency",
+      "name": "Suleiman Magaji",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Zangon Kataf State Constituency",
+      "name": "Samuel Kambai Kozah",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Kaduna",
+      "stateConstituency": "Zonkwa State Constituency",
+      "name": "Emmanuel Kantiok Bako",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
       "source": "manual"
     },
     {
       "office": "CHM",
       "state": "Kaduna",
-      "lga": "Kaduna PLACEHOLDER LGA",
-      "name": "Funke Musa (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
+      "lga": "Birnin Gwari",
+      "name": "Salisu Isah",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Chikun",
+      "name": "Salasi Nuhu Musa",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Giwa",
+      "name": "Ahmad Sama'ila",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Igabi",
+      "name": "Sani Abdul",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Ikara",
+      "name": "Bashir Mamman Dogon-Koli",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Jaba",
+      "name": "Larai Sylvia Ishaku",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Jema'a",
+      "name": "Peter Tanko Dogara",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Kachia",
+      "name": "Manzo Daniel Maigari",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Kaduna North",
+      "name": "Muhammad Gambo",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Kaduna South",
+      "name": "Rayyan Husseini",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Kagarko",
+      "name": "Muhuyiddeen Abdullahi Umar",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Kajuru",
+      "name": "Dauda Madaki",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Kaura",
+      "name": "Sankyai Obadiah Sanko",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Kauru",
+      "name": "Bashir Yanko Dawaki",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Kubau",
+      "name": "Musa Saleh",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Kudan",
+      "name": "Dauda Iliya Abba",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Lere",
+      "name": "Jafaru Ahmed",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Makarfi",
+      "name": "Garba Mohammad Sabon Gari",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Sabon Gari",
+      "name": "Muhammad Jamilu Abubakar",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Sanga",
+      "name": "Anton Usman",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Soba",
+      "name": "Muhammad Lawal Shehu",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Zangon Kataf",
+      "name": "Joseph Bege Gaiya",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Kaduna",
+      "lga": "Zaria",
+      "name": "Jamil Ahmad Muhammad",
+      "party": "APC",
+      "termStart": "2024-10-19",
+      "termEnd": "2027-10-19",
       "source": "manual"
     }
   ]

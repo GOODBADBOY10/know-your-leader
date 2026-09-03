@@ -1,82 +1,972 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Imo",
   "senatorialDistricts": [
     {
       "state": "Imo",
-      "name": "Imo PLACEHOLDER Senatorial District"
+      "name": "Imo East Senatorial District"
+    },
+    {
+      "state": "Imo",
+      "name": "Imo North Senatorial District"
+    },
+    {
+      "state": "Imo",
+      "name": "Imo West Senatorial District"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Imo",
-      "name": "Imo PLACEHOLDER Federal Constituency"
+      "name": "Aboh Mbaise/Ngor Okpala Federal Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ahiazu Mbaise/Ezinihitte Federal Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ehime Mbano/Ihitte Uboma/Obowo Federal Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ideato North/Ideato South Federal Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ikeduru/Mbaitoli Federal Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Isiala Mbano/Okigwe/Onuimo Federal Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Isu/Njaba/Nkwerre/Nwangele Federal Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Oguta/Ohaji-Egbema/Oru West Federal Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Oru East/Orsu/Orlu Federal Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Owerri Municipal/Owerri North/Owerri West Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Imo",
-      "name": "Imo PLACEHOLDER State Constituency"
+      "name": "Aboh Mbaise State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ahiazu Mbaise State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ehime Mbano State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ezinihitte Mbaise State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ideato North State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ideato South State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ihitte Uboma State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ikeduru State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Isiala Mbano State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Isu State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Mbaitoli State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ngor Okpala State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Njaba State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Nkwerre State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Nwangele State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Obowo State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Oguta State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ohaji/Egbema State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Okigwe State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Onuimo State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Orlu State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Orsu State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Oru East State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Oru West State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Owerri Municipal State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Owerri North State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Owerri West State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Imo",
-      "name": "Imo PLACEHOLDER LGA",
-      "senatorialDistrict": "Imo PLACEHOLDER Senatorial District",
-      "federalConstituency": "Imo PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Imo PLACEHOLDER State Constituency"
+      "name": "Aboh Mbaise LGA",
+      "senatorialDistrict": "Imo East Senatorial District",
+      "federalConstituency": "Aboh Mbaise/Ngor Okpala Federal Constituency",
+      "stateConstituency": "Aboh Mbaise State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ahiazu Mbaise LGA",
+      "senatorialDistrict": "Imo East Senatorial District",
+      "federalConstituency": "Ahiazu Mbaise/Ezinihitte Federal Constituency",
+      "stateConstituency": "Ahiazu Mbaise State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ehime Mbano LGA",
+      "senatorialDistrict": "Imo North Senatorial District",
+      "federalConstituency": "Ehime Mbano/Ihitte Uboma/Obowo Federal Constituency",
+      "stateConstituency": "Ehime Mbano State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ezinihitte Mbaise LGA",
+      "senatorialDistrict": "Imo East Senatorial District",
+      "federalConstituency": "Ahiazu Mbaise/Ezinihitte Federal Constituency",
+      "stateConstituency": "Ezinihitte Mbaise State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ideato North LGA",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "federalConstituency": "Ideato North/Ideato South Federal Constituency",
+      "stateConstituency": "Ideato North State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ideato South LGA",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "federalConstituency": "Ideato North/Ideato South Federal Constituency",
+      "stateConstituency": "Ideato South State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ihitte Uboma LGA",
+      "senatorialDistrict": "Imo North Senatorial District",
+      "federalConstituency": "Ehime Mbano/Ihitte Uboma/Obowo Federal Constituency",
+      "stateConstituency": "Ihitte Uboma State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ikeduru LGA",
+      "senatorialDistrict": "Imo East Senatorial District",
+      "federalConstituency": "Ikeduru/Mbaitoli Federal Constituency",
+      "stateConstituency": "Ikeduru State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Isiala Mbano LGA",
+      "senatorialDistrict": "Imo North Senatorial District",
+      "federalConstituency": "Isiala Mbano/Okigwe/Onuimo Federal Constituency",
+      "stateConstituency": "Isiala Mbano State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Isu LGA",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "federalConstituency": "Isu/Njaba/Nkwerre/Nwangele Federal Constituency",
+      "stateConstituency": "Isu State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Mbaitoli LGA",
+      "senatorialDistrict": "Imo East Senatorial District",
+      "federalConstituency": "Ikeduru/Mbaitoli Federal Constituency",
+      "stateConstituency": "Mbaitoli State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ngor Okpala LGA",
+      "senatorialDistrict": "Imo East Senatorial District",
+      "federalConstituency": "Aboh Mbaise/Ngor Okpala Federal Constituency",
+      "stateConstituency": "Ngor Okpala State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Njaba LGA",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "federalConstituency": "Isu/Njaba/Nkwerre/Nwangele Federal Constituency",
+      "stateConstituency": "Njaba State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Nkwerre LGA",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "federalConstituency": "Isu/Njaba/Nkwerre/Nwangele Federal Constituency",
+      "stateConstituency": "Nkwerre State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Nwangele LGA",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "federalConstituency": "Isu/Njaba/Nkwerre/Nwangele Federal Constituency",
+      "stateConstituency": "Nwangele State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Obowo LGA",
+      "senatorialDistrict": "Imo North Senatorial District",
+      "federalConstituency": "Ehime Mbano/Ihitte Uboma/Obowo Federal Constituency",
+      "stateConstituency": "Obowo State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Oguta LGA",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "federalConstituency": "Oguta/Ohaji-Egbema/Oru West Federal Constituency",
+      "stateConstituency": "Oguta State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Ohaji/Egbema LGA",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "federalConstituency": "Oguta/Ohaji-Egbema/Oru West Federal Constituency",
+      "stateConstituency": "Ohaji/Egbema State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Okigwe LGA",
+      "senatorialDistrict": "Imo North Senatorial District",
+      "federalConstituency": "Isiala Mbano/Okigwe/Onuimo Federal Constituency",
+      "stateConstituency": "Okigwe State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Onuimo LGA",
+      "senatorialDistrict": "Imo North Senatorial District",
+      "federalConstituency": "Isiala Mbano/Okigwe/Onuimo Federal Constituency",
+      "stateConstituency": "Onuimo State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Orlu LGA",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "federalConstituency": "Oru East/Orsu/Orlu Federal Constituency",
+      "stateConstituency": "Orlu State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Orsu LGA",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "federalConstituency": "Oru East/Orsu/Orlu Federal Constituency",
+      "stateConstituency": "Orsu State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Oru East LGA",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "federalConstituency": "Oru East/Orsu/Orlu Federal Constituency",
+      "stateConstituency": "Oru East State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Oru West LGA",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "federalConstituency": "Oguta/Ohaji-Egbema/Oru West Federal Constituency",
+      "stateConstituency": "Oru West State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Owerri Municipal LGA",
+      "senatorialDistrict": "Imo East Senatorial District",
+      "federalConstituency": "Owerri Municipal/Owerri North/Owerri West Federal Constituency",
+      "stateConstituency": "Owerri Municipal State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Owerri North LGA",
+      "senatorialDistrict": "Imo East Senatorial District",
+      "federalConstituency": "Owerri Municipal/Owerri North/Owerri West Federal Constituency",
+      "stateConstituency": "Owerri North State Constituency"
+    },
+    {
+      "state": "Imo",
+      "name": "Owerri West LGA",
+      "senatorialDistrict": "Imo East Senatorial District",
+      "federalConstituency": "Owerri Municipal/Owerri North/Owerri West Federal Constituency",
+      "stateConstituency": "Owerri West State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Imo",
-      "name": "Ifeoma Danladi (PLACEHOLDER \u2014 REPLACE ME)",
+      "name": "Hope Uzodimma",
       "party": "APC",
-      "termStart": "2023-05-29",
-      "termEnd": "2027-05-29",
-      "source": "manual"
+      "termStart": "2020-01-15",
+      "termEnd": "2028-01-14",
+      "source": "verified"
     },
     {
       "office": "SEN",
       "state": "Imo",
-      "senatorialDistrict": "Imo PLACEHOLDER Senatorial District",
-      "name": "Obinna Balogun (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
+      "senatorialDistrict": "Imo East Senatorial District",
+      "name": "Ezenwa Francis Onyewuchi",
+      "party": "LP",
       "termStart": "2023-06-13",
-      "termEnd": "2027-06-13",
-      "source": "manual"
+      "termEnd": "2027-06-12",
+      "source": "verified"
+    },
+    {
+      "office": "SEN",
+      "state": "Imo",
+      "senatorialDistrict": "Imo North Senatorial District",
+      "name": "Patrick Chiwuba Ndubueze",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "verified"
+    },
+    {
+      "office": "SEN",
+      "state": "Imo",
+      "senatorialDistrict": "Imo West Senatorial District",
+      "name": "Osita Bonaventure Izunaso",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "verified"
     },
     {
       "office": "REP",
       "state": "Imo",
-      "federalConstituency": "Imo PLACEHOLDER Federal Constituency",
-      "name": "Chukwuemeka Nnamdi (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
+      "federalConstituency": "Aboh Mbaise/Ngor Okpala Federal Constituency",
+      "name": "Matthew Nwogu",
+      "party": "APC",
       "termStart": "2023-06-13",
-      "termEnd": "2027-06-13",
-      "source": "manual"
+      "termEnd": "2027-06-12",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Imo",
+      "federalConstituency": "Ahiazu Mbaise/Ezinihitte Federal Constituency",
+      "name": "Emeka Chinedu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Imo",
+      "federalConstituency": "Ehime Mbano/Ihitte Uboma/Obowo Federal Constituency",
+      "name": "Okeke Onwuegbuchulam",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Imo",
+      "federalConstituency": "Ideato North/Ideato South Federal Constituency",
+      "name": "Ikenga Ugochinyere",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Imo",
+      "federalConstituency": "Ikeduru/Mbaitoli Federal Constituency",
+      "name": "Akarachi Etinosa Amadi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Imo",
+      "federalConstituency": "Isiala Mbano/Okigwe/Onuimo Federal Constituency",
+      "name": "Miriam Onuoha",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Imo",
+      "federalConstituency": "Isu/Njaba/Nkwerre/Nwangele Federal Constituency",
+      "name": "Ugonna Ozuruigbo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Imo",
+      "federalConstituency": "Oguta/Ohaji-Egbema/Oru West Federal Constituency",
+      "name": "Okechukwu Dibiagwu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Imo",
+      "federalConstituency": "Oru East/Orsu/Orlu Federal Constituency",
+      "name": "Chukwugozie Nwachukwu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Imo",
+      "federalConstituency": "Owerri Municipal/Owerri North/Owerri West Federal Constituency",
+      "name": "Tochukwu Chinedu Okere",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "verified"
     },
     {
       "office": "HOA",
       "state": "Imo",
-      "stateConstituency": "Imo PLACEHOLDER State Constituency",
-      "name": "Bukola Uche (PLACEHOLDER \u2014 REPLACE ME)",
+      "stateConstituency": "Ahiazu Mbaise State Constituency",
+      "name": "Samuel Nkem Otuibe",
       "party": "APC",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Mbaitoli State Constituency",
+      "name": "Innocent Ikechukwu Ikpamezie",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ngor Okpala State Constituency",
+      "name": "Obinna Ambrose Egu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ikeduru State Constituency",
+      "name": "Iheoha Johnleoba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Oru West State Constituency",
+      "name": "Dominic Ugochukwu Ezerioha",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Onuimo State Constituency",
+      "name": "Esile James Uba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Orsu State Constituency",
+      "name": "Agabige Francis Uche",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ehime Mbano State Constituency",
+      "name": "Bernard Ndubuisi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ohaji/Egbema State Constituency",
+      "name": "Uzoma Francis Osuoha",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Njaba State Constituency",
+      "name": "Ozioma Bennett Ebonine",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ideato North State Constituency",
+      "name": "Udeze Ernest Okechukwu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Obowo State Constituency",
+      "name": "Chidozie Kennedy Ibeh",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Okigwe State Constituency",
+      "name": "Ogbunikpa Chidi Samuel",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ezinihitte Mbaise State Constituency",
+      "name": "Henry Agbasonu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Nkwerre State Constituency",
+      "name": "Ojukwu Thaddeus Chisom",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Oguta State Constituency",
+      "name": "Gilbert Chidozie Nwosu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Orlu State Constituency",
+      "name": "Martin Ihezuo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Owerri Municipal State Constituency",
+      "name": "Amadi Clinton",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Aboh Mbaise State Constituency",
+      "name": "Princewill Ugochukwu Amuchie",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Ideato South State Constituency",
+      "name": "Duru Iheonukara Johnson",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Imo",
+      "stateConstituency": "Isu State Constituency",
+      "name": "Kingsley Emeka Ozurumba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Imo State House of Assembly"
     },
     {
       "office": "CHM",
       "state": "Imo",
-      "lga": "Imo PLACEHOLDER LGA",
-      "name": "Zainab Bala (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "lga": "Ahiazu Mbaise LGA",
+      "name": "Larry Obinna Chikwe",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Ehime Mbano LGA",
+      "name": "Uche Nwodu",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Ezinihitte Mbaise LGA",
+      "name": "Chinedu A. Nwachukwu",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Ideato North LGA",
+      "name": "Okechukwu Oparah",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Ideato South LGA",
+      "name": "Okechukwu Okwara",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Ihitte Uboma LGA",
+      "name": "Obioha Ndukwe",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Ikeduru LGA",
+      "name": "Justice Nze",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Isiala Mbano LGA",
+      "name": "Chika Okoroike",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Isu LGA",
+      "name": "Kenneth Ukah",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Mbaitoli LGA",
+      "name": "Ifunanya Nwanegbo",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Ngor Okpala LGA",
+      "name": "Chika Ibekwe",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Njaba LGA",
+      "name": "Vitalis Ugo Obi",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Nkwerre LGA",
+      "name": "Emmanuel C. Chukwunyere",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Nwangele LGA",
+      "name": "Paul Duru",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Obowo LGA",
+      "name": "Obioma Ehirim Johnson",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Oguta LGA",
+      "name": "Ifeanyi Nani",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Ohaji/Egbema LGA",
+      "name": "Marcellanus Chinasa",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Okigwe LGA",
+      "name": "Nkechi Mbonu",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Onuimo LGA",
+      "name": "Emeka Paul Obi",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Orlu LGA",
+      "name": "Christian Okechukwu Mbarie",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Orsu LGA",
+      "name": "Friday Ebeneme",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Oru East LGA",
+      "name": "Nnamdi Oparaigwe",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Oru West LGA",
+      "name": "Ikenna Adikaibe",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Owerri Municipal LGA",
+      "name": "Chidiebere Emereibe",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Owerri North LGA",
+      "name": "Lucky Abaraonye",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
+    },
+    {
+      "office": "CHM",
+      "state": "Imo",
+      "lga": "Owerri West LGA",
+      "name": "Victor Osigwe",
+      "party": "APC",
+      "termStart": "2024-09-23",
+      "termEnd": "2027-09-22",
+      "source": "ISIEC"
     }
   ]
 }

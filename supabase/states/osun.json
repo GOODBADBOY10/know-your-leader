@@ -1,82 +1,1045 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Osun",
   "senatorialDistricts": [
     {
       "state": "Osun",
-      "name": "Osun PLACEHOLDER Senatorial District"
+      "name": "Osun Central"
+    },
+    {
+      "state": "Osun",
+      "name": "Osun East"
+    },
+    {
+      "state": "Osun",
+      "name": "Osun West"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Osun",
-      "name": "Osun PLACEHOLDER Federal Constituency"
+      "name": "Boluwaduro/Ifedayo/Ila"
+    },
+    {
+      "state": "Osun",
+      "name": "Boripe/Ifelodun/Odo-Otin"
+    },
+    {
+      "state": "Osun",
+      "name": "Irepodun/Olorunda/Osogbo/Orolu"
+    },
+    {
+      "state": "Osun",
+      "name": "Atakunmosa East/Atakunmosa West/Ilesa East/Ilesa West"
+    },
+    {
+      "state": "Osun",
+      "name": "Obokun/Oriade"
+    },
+    {
+      "state": "Osun",
+      "name": "Ife Central/Ife East/Ife North/Ife South"
+    },
+    {
+      "state": "Osun",
+      "name": "Ayedire/Iwo/Ola-Oluwa"
+    },
+    {
+      "state": "Osun",
+      "name": "Ayedaade/Irewole/Isokan"
+    },
+    {
+      "state": "Osun",
+      "name": "Ede North/Ede South/Egbedore/Ejigbo"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Osun",
-      "name": "Osun PLACEHOLDER State Constituency"
+      "name": "Ifedayo"
+    },
+    {
+      "state": "Osun",
+      "name": "Ife South"
+    },
+    {
+      "state": "Osun",
+      "name": "Ede North"
+    },
+    {
+      "state": "Osun",
+      "name": "Obokun"
+    },
+    {
+      "state": "Osun",
+      "name": "Ifelodun"
+    },
+    {
+      "state": "Osun",
+      "name": "Oriade"
+    },
+    {
+      "state": "Osun",
+      "name": "Olorunda"
+    },
+    {
+      "state": "Osun",
+      "name": "Ilesa West"
+    },
+    {
+      "state": "Osun",
+      "name": "Atakunmosa East and West"
+    },
+    {
+      "state": "Osun",
+      "name": "Ejigbo"
+    },
+    {
+      "state": "Osun",
+      "name": "Ife Central"
+    },
+    {
+      "state": "Osun",
+      "name": "Ila"
+    },
+    {
+      "state": "Osun",
+      "name": "Odo-Otin"
+    },
+    {
+      "state": "Osun",
+      "name": "Ife East"
+    },
+    {
+      "state": "Osun",
+      "name": "Irewole/Isokan"
+    },
+    {
+      "state": "Osun",
+      "name": "Ola-Oluwa"
+    },
+    {
+      "state": "Osun",
+      "name": "Irepodun/Orolu"
+    },
+    {
+      "state": "Osun",
+      "name": "Ilesa East"
+    },
+    {
+      "state": "Osun",
+      "name": "Ede South"
+    },
+    {
+      "state": "Osun",
+      "name": "Ife North"
+    },
+    {
+      "state": "Osun",
+      "name": "Ayedaade"
+    },
+    {
+      "state": "Osun",
+      "name": "Ayedire"
+    },
+    {
+      "state": "Osun",
+      "name": "Boripe/Boluwaduro"
+    },
+    {
+      "state": "Osun",
+      "name": "Iwo"
+    },
+    {
+      "state": "Osun",
+      "name": "Egbedore"
+    },
+    {
+      "state": "Osun",
+      "name": "Osogbo"
     }
   ],
   "lgas": [
     {
       "state": "Osun",
-      "name": "Osun PLACEHOLDER LGA",
-      "senatorialDistrict": "Osun PLACEHOLDER Senatorial District",
-      "federalConstituency": "Osun PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Osun PLACEHOLDER State Constituency"
+      "name": "Boluwaduro",
+      "senatorialDistrict": "Osun Central",
+      "federalConstituency": "Boluwaduro/Ifedayo/Ila",
+      "stateConstituency": "Boripe/Boluwaduro"
+    },
+    {
+      "state": "Osun",
+      "name": "Boripe",
+      "senatorialDistrict": "Osun Central",
+      "federalConstituency": "Boripe/Ifelodun/Odo-Otin",
+      "stateConstituency": "Boripe/Boluwaduro"
+    },
+    {
+      "state": "Osun",
+      "name": "Ifedayo",
+      "senatorialDistrict": "Osun Central",
+      "federalConstituency": "Boluwaduro/Ifedayo/Ila",
+      "stateConstituency": "Ifedayo"
+    },
+    {
+      "state": "Osun",
+      "name": "Ifelodun",
+      "senatorialDistrict": "Osun Central",
+      "federalConstituency": "Boripe/Ifelodun/Odo-Otin",
+      "stateConstituency": "Ifelodun"
+    },
+    {
+      "state": "Osun",
+      "name": "Ila",
+      "senatorialDistrict": "Osun Central",
+      "federalConstituency": "Boluwaduro/Ifedayo/Ila",
+      "stateConstituency": "Ila"
+    },
+    {
+      "state": "Osun",
+      "name": "Irepodun",
+      "senatorialDistrict": "Osun Central",
+      "federalConstituency": "Irepodun/Olorunda/Osogbo/Orolu",
+      "stateConstituency": "Irepodun/Orolu"
+    },
+    {
+      "state": "Osun",
+      "name": "Odo-Otin",
+      "senatorialDistrict": "Osun Central",
+      "federalConstituency": "Boripe/Ifelodun/Odo-Otin",
+      "stateConstituency": "Odo-Otin"
+    },
+    {
+      "state": "Osun",
+      "name": "Olorunda",
+      "senatorialDistrict": "Osun Central",
+      "federalConstituency": "Irepodun/Olorunda/Osogbo/Orolu",
+      "stateConstituency": "Olorunda"
+    },
+    {
+      "state": "Osun",
+      "name": "Orolu",
+      "senatorialDistrict": "Osun Central",
+      "federalConstituency": "Irepodun/Olorunda/Osogbo/Orolu",
+      "stateConstituency": "Irepodun/Orolu"
+    },
+    {
+      "state": "Osun",
+      "name": "Osogbo",
+      "senatorialDistrict": "Osun Central",
+      "federalConstituency": "Irepodun/Olorunda/Osogbo/Orolu",
+      "stateConstituency": "Osogbo"
+    },
+    {
+      "state": "Osun",
+      "name": "Atakunmosa East",
+      "senatorialDistrict": "Osun East",
+      "federalConstituency": "Atakunmosa East/Atakunmosa West/Ilesa East/Ilesa West",
+      "stateConstituency": "Atakunmosa East and West"
+    },
+    {
+      "state": "Osun",
+      "name": "Atakunmosa West",
+      "senatorialDistrict": "Osun East",
+      "federalConstituency": "Atakunmosa East/Atakunmosa West/Ilesa East/Ilesa West",
+      "stateConstituency": "Atakunmosa East and West"
+    },
+    {
+      "state": "Osun",
+      "name": "Ife Central",
+      "senatorialDistrict": "Osun East",
+      "federalConstituency": "Ife Central/Ife East/Ife North/Ife South",
+      "stateConstituency": "Ife Central"
+    },
+    {
+      "state": "Osun",
+      "name": "Ife East",
+      "senatorialDistrict": "Osun East",
+      "federalConstituency": "Ife Central/Ife East/Ife North/Ife South",
+      "stateConstituency": "Ife East"
+    },
+    {
+      "state": "Osun",
+      "name": "Ife North",
+      "senatorialDistrict": "Osun East",
+      "federalConstituency": "Ife Central/Ife East/Ife North/Ife South",
+      "stateConstituency": "Ife North"
+    },
+    {
+      "state": "Osun",
+      "name": "Ife South",
+      "senatorialDistrict": "Osun East",
+      "federalConstituency": "Ife Central/Ife East/Ife North/Ife South",
+      "stateConstituency": "Ife South"
+    },
+    {
+      "state": "Osun",
+      "name": "Ilesa East",
+      "senatorialDistrict": "Osun East",
+      "federalConstituency": "Atakunmosa East/Atakunmosa West/Ilesa East/Ilesa West",
+      "stateConstituency": "Ilesa East"
+    },
+    {
+      "state": "Osun",
+      "name": "Ilesa West",
+      "senatorialDistrict": "Osun East",
+      "federalConstituency": "Atakunmosa East/Atakunmosa West/Ilesa East/Ilesa West",
+      "stateConstituency": "Ilesa West"
+    },
+    {
+      "state": "Osun",
+      "name": "Obokun",
+      "senatorialDistrict": "Osun East",
+      "federalConstituency": "Obokun/Oriade",
+      "stateConstituency": "Obokun"
+    },
+    {
+      "state": "Osun",
+      "name": "Oriade",
+      "senatorialDistrict": "Osun East",
+      "federalConstituency": "Obokun/Oriade",
+      "stateConstituency": "Oriade"
+    },
+    {
+      "state": "Osun",
+      "name": "Ayedaade",
+      "senatorialDistrict": "Osun West",
+      "federalConstituency": "Ayedaade/Irewole/Isokan",
+      "stateConstituency": "Ayedaade"
+    },
+    {
+      "state": "Osun",
+      "name": "Ayedire",
+      "senatorialDistrict": "Osun West",
+      "federalConstituency": "Ayedire/Iwo/Ola-Oluwa",
+      "stateConstituency": "Ayedire"
+    },
+    {
+      "state": "Osun",
+      "name": "Ede North",
+      "senatorialDistrict": "Osun West",
+      "federalConstituency": "Ede North/Ede South/Egbedore/Ejigbo",
+      "stateConstituency": "Ede North"
+    },
+    {
+      "state": "Osun",
+      "name": "Ede South",
+      "senatorialDistrict": "Osun West",
+      "federalConstituency": "Ede North/Ede South/Egbedore/Ejigbo",
+      "stateConstituency": "Ede South"
+    },
+    {
+      "state": "Osun",
+      "name": "Egbedore",
+      "senatorialDistrict": "Osun West",
+      "federalConstituency": "Ede North/Ede South/Egbedore/Ejigbo",
+      "stateConstituency": "Egbedore"
+    },
+    {
+      "state": "Osun",
+      "name": "Ejigbo",
+      "senatorialDistrict": "Osun West",
+      "federalConstituency": "Ede North/Ede South/Egbedore/Ejigbo",
+      "stateConstituency": "Ejigbo"
+    },
+    {
+      "state": "Osun",
+      "name": "Irewole",
+      "senatorialDistrict": "Osun West",
+      "federalConstituency": "Ayedaade/Irewole/Isokan",
+      "stateConstituency": "Irewole/Isokan"
+    },
+    {
+      "state": "Osun",
+      "name": "Isokan",
+      "senatorialDistrict": "Osun West",
+      "federalConstituency": "Ayedaade/Irewole/Isokan",
+      "stateConstituency": "Irewole/Isokan"
+    },
+    {
+      "state": "Osun",
+      "name": "Iwo",
+      "senatorialDistrict": "Osun West",
+      "federalConstituency": "Ayedire/Iwo/Ola-Oluwa",
+      "stateConstituency": "Iwo"
+    },
+    {
+      "state": "Osun",
+      "name": "Ola-Oluwa",
+      "senatorialDistrict": "Osun West",
+      "federalConstituency": "Ayedire/Iwo/Ola-Oluwa",
+      "stateConstituency": "Ola-Oluwa"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Osun",
-      "name": "Umar Aliyu (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
-      "termStart": "2023-05-29",
-      "termEnd": "2027-05-29",
-      "source": "manual"
+      "name": "Ademola Nurudeen Jackson Adeleke",
+      "party": "Accord",
+      "termStart": "2022-11-27",
+      "termEnd": "2026-11-27",
+      "source": "Osun State Government"
     },
     {
       "office": "SEN",
       "state": "Osun",
-      "senatorialDistrict": "Osun PLACEHOLDER Senatorial District",
-      "name": "Umar Uche (PLACEHOLDER \u2014 REPLACE ME)",
+      "senatorialDistrict": "Osun Central",
+      "name": "Olubiyi Oluwole Fadeyi",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "SEN",
+      "state": "Osun",
+      "senatorialDistrict": "Osun East",
+      "name": "Francis Adenigba Fadahunsi",
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "current-2026"
+    },
+    {
+      "office": "SEN",
+      "state": "Osun",
+      "senatorialDistrict": "Osun West",
+      "name": "Kamorudeen Olalere Oyewumi",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
     },
     {
       "office": "REP",
       "state": "Osun",
-      "federalConstituency": "Osun PLACEHOLDER Federal Constituency",
-      "name": "Umar Eze (PLACEHOLDER \u2014 REPLACE ME)",
+      "federalConstituency": "Boripe/Ifelodun/Odo-Otin",
+      "name": "Adetunji Olawuyi",
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "current-2026"
+    },
+    {
+      "office": "REP",
+      "state": "Osun",
+      "federalConstituency": "Irepodun/Olorunda/Osogbo/Orolu",
+      "name": "Adewale Morufu",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "REP",
+      "state": "Osun",
+      "federalConstituency": "Boluwaduro/Ifedayo/Ila",
+      "name": "Clement Akanni",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "REP",
+      "state": "Osun",
+      "federalConstituency": "Ife Central/Ife East/Ife North/Ife South",
+      "name": "Taofeek Ajilesoro",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "REP",
+      "state": "Osun",
+      "federalConstituency": "Ede North/Ede South/Egbedore/Ejigbo",
+      "name": "Bamidele Salam",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "REP",
+      "state": "Osun",
+      "federalConstituency": "Ayedire/Iwo/Ola-Oluwa",
+      "name": "Mudashiru Lukman Alani",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "REP",
+      "state": "Osun",
+      "federalConstituency": "Ayedaade/Irewole/Isokan",
+      "name": "Lanre Oladebo",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "REP",
+      "state": "Osun",
+      "federalConstituency": "Obokun/Oriade",
+      "name": "Oluwole Oke",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "REP",
+      "state": "Osun",
+      "federalConstituency": "Atakunmosa East/Atakunmosa West/Ilesa East/Ilesa West",
+      "name": "Sanya Omirin",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
     },
     {
       "office": "HOA",
       "state": "Osun",
-      "stateConstituency": "Osun PLACEHOLDER State Constituency",
-      "name": "Musa Fashola (PLACEHOLDER \u2014 REPLACE ME)",
+      "stateConstituency": "Odo-Otin",
+      "name": "Adewale Olumide Egbedun",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ife North",
+      "name": "Akinyode Abidemi Oyewusi",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ede North",
+      "name": "Kofoworola Babajide Adewunmi",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ilesa West",
+      "name": "Olawale Oladipupo Akerele",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Irepodun/Orolu",
+      "name": "Adekunle Emmanuel Oladimeji",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ola-Oluwa",
+      "name": "Afeez Abiodun Ibrahim",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ifedayo",
+      "name": "Kasope Ajibade Abolarin",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Oriade",
+      "name": "Michael Olakanmi Ajibola",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Atakunmosa East and West",
+      "name": "Sanmi Ebenezer Areoye",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ayedire",
+      "name": "Elisha Akinyemi Oderinwale",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Boripe/Boluwaduro",
+      "name": "Simeon Olufemi Popoola",
       "party": "APC",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ede South",
+      "name": "Taofeek Olalekan Olayiwola",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Egbedore",
+      "name": "Rotimi Adesola Ogunrinade",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ejigbo",
+      "name": "Olujimi Adedotun Asagade",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ife Central",
+      "name": "Abiola Jeremiah Awoyeye",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ife East",
+      "name": "Saheed Olumide Fatunmise",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ifelodun",
+      "name": "Tajudeen Akinlolu Adeyemi",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ife South",
+      "name": "Lawrence Olalekan Adeoti",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ila",
+      "name": "Sikiru Akinloye Bajepade",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Ilesa East",
+      "name": "Oladiran Oyewole Olatunbosun",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Irewole/Isokan",
+      "name": "Abiola Waheed Ibrahim",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Iwo",
+      "name": "Adesina Atanda Rabiu",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Olorunda",
+      "name": "Olaide Kolawole Ajibola",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
+    },
+    {
+      "office": "HOA",
+      "state": "Osun",
+      "stateConstituency": "Osogbo",
+      "name": "Bamidele Rasheed Lawal",
+      "party": "Accord",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "current-2026"
     },
     {
       "office": "CHM",
       "state": "Osun",
-      "lga": "Osun PLACEHOLDER LGA",
-      "name": "Emeka Adegoke (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "lga": "Boripe",
+      "name": "Babalola Wasiu Kayode",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Egbedore",
+      "name": "Okunade Oluwafemi Adesanya",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ife Central",
+      "name": "Adeyenuwo Rotimi John",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Obokun",
+      "name": "Agboola Francis Olajire",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Isokan",
+      "name": "Azeez Lateef Adeniran",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Boluwaduro",
+      "name": "Aina Abayomi Adesina",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ola-Oluwa",
+      "name": "Sodiq Samuel Oluwapelumi",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Irepodun",
+      "name": "Ajibade Oluwatoyin S.",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ilesa West",
+      "name": "Adebanjo Oladiti Tunmininu",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Atakunmosa East",
+      "name": "Ibironke Alade Adegboye",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ife South",
+      "name": "Aroke Muyiwa Aderemi",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Olorunda",
+      "name": "Kolade Obafemi Kolawole",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Iwo",
+      "name": "Moshood Adekunle Kabiru",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ifelodun",
+      "name": "Awotunde Abiodun Sarafadeen",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Osogbo",
+      "name": "Akande Taiwo Adekunle",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Atakunmosa West",
+      "name": "Dada Feyisayo Ajibola",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ede North",
+      "name": "Amodu Taiwo",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ifedayo",
+      "name": "Atolagbe Kayode Olayinka",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ife North",
+      "name": "Akande Michael O.",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Oriade",
+      "name": "Adeyekun Taiwo Adebayo",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ayedaade",
+      "name": "Adeniran Adenike Felicia",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ede South",
+      "name": "Afolabi Oyekola Lukman",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ife East",
+      "name": "Odunyemi Haruna Bukola",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Irewole",
+      "name": "Jooda Ambali Babajide",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Odo-Otin",
+      "name": "Adewale Adeyinka Oluwaseun",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ayedire",
+      "name": "Ogunbiyi Solomon Akinyemi",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ejigbo",
+      "name": "Raimi Adenike Nafisat",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ila",
+      "name": "Adebisi Jayeola Nasir",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Ilesa East",
+      "name": "Ilesanmi Taiwo Sunday",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
+    },
+    {
+      "office": "CHM",
+      "state": "Osun",
+      "lga": "Orolu",
+      "name": "Alade Aderemi Fatai",
+      "party": "PDP",
+      "termStart": "2025-02-23",
+      "termEnd": "2028-02-23",
+      "source": "OSSIEC-2025"
     }
   ]
 }

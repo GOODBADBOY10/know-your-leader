@@ -1,82 +1,757 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Taraba",
   "senatorialDistricts": [
     {
       "state": "Taraba",
-      "name": "Taraba PLACEHOLDER Senatorial District"
+      "name": "Taraba North"
+    },
+    {
+      "state": "Taraba",
+      "name": "Taraba Central"
+    },
+    {
+      "state": "Taraba",
+      "name": "Taraba South"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Taraba",
-      "name": "Taraba PLACEHOLDER Federal Constituency"
+      "name": "Jalingo/Yorro/Zing"
+    },
+    {
+      "state": "Taraba",
+      "name": "Karim Lamido/Lau/Ardo-Kola"
+    },
+    {
+      "state": "Taraba",
+      "name": "Bali/Gassol"
+    },
+    {
+      "state": "Taraba",
+      "name": "Gashaka/Kurmi/Sardauna"
+    },
+    {
+      "state": "Taraba",
+      "name": "Takum/Donga/Ussa"
+    },
+    {
+      "state": "Taraba",
+      "name": "Wukari/Ibi"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Taraba",
-      "name": "Taraba PLACEHOLDER State Constituency"
+      "name": "Ardo-Kola"
+    },
+    {
+      "state": "Taraba",
+      "name": "Bali I"
+    },
+    {
+      "state": "Taraba",
+      "name": "Bali II"
+    },
+    {
+      "state": "Taraba",
+      "name": "Donga"
+    },
+    {
+      "state": "Taraba",
+      "name": "Gashaka"
+    },
+    {
+      "state": "Taraba",
+      "name": "Gassol I"
+    },
+    {
+      "state": "Taraba",
+      "name": "Gassol II"
+    },
+    {
+      "state": "Taraba",
+      "name": "Ibi"
+    },
+    {
+      "state": "Taraba",
+      "name": "Jalingo I"
+    },
+    {
+      "state": "Taraba",
+      "name": "Jalingo II"
+    },
+    {
+      "state": "Taraba",
+      "name": "Karim Lamido I"
+    },
+    {
+      "state": "Taraba",
+      "name": "Karim Lamido II"
+    },
+    {
+      "state": "Taraba",
+      "name": "Kurmi"
+    },
+    {
+      "state": "Taraba",
+      "name": "Lau"
+    },
+    {
+      "state": "Taraba",
+      "name": "Mbamga"
+    },
+    {
+      "state": "Taraba",
+      "name": "Nguroje"
+    },
+    {
+      "state": "Taraba",
+      "name": "Sardauna"
+    },
+    {
+      "state": "Taraba",
+      "name": "Takum I"
+    },
+    {
+      "state": "Taraba",
+      "name": "Takum II"
+    },
+    {
+      "state": "Taraba",
+      "name": "Ussa"
+    },
+    {
+      "state": "Taraba",
+      "name": "Wukari I"
+    },
+    {
+      "state": "Taraba",
+      "name": "Wukari II"
+    },
+    {
+      "state": "Taraba",
+      "name": "Yorro"
+    },
+    {
+      "state": "Taraba",
+      "name": "Zing"
     }
   ],
   "lgas": [
     {
       "state": "Taraba",
-      "name": "Taraba PLACEHOLDER LGA",
-      "senatorialDistrict": "Taraba PLACEHOLDER Senatorial District",
-      "federalConstituency": "Taraba PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Taraba PLACEHOLDER State Constituency"
+      "name": "Ardo-Kola",
+      "senatorialDistrict": "Taraba North",
+      "federalConstituency": "Karim Lamido/Lau/Ardo-Kola",
+      "stateConstituency": "Ardo-Kola"
+    },
+    {
+      "state": "Taraba",
+      "name": "Bali",
+      "senatorialDistrict": "Taraba Central",
+      "federalConstituency": "Bali/Gassol",
+      "stateConstituency": "Bali I"
+    },
+    {
+      "state": "Taraba",
+      "name": "Donga",
+      "senatorialDistrict": "Taraba South",
+      "federalConstituency": "Takum/Donga/Ussa",
+      "stateConstituency": "Donga"
+    },
+    {
+      "state": "Taraba",
+      "name": "Gashaka",
+      "senatorialDistrict": "Taraba Central",
+      "federalConstituency": "Gashaka/Kurmi/Sardauna",
+      "stateConstituency": "Gashaka"
+    },
+    {
+      "state": "Taraba",
+      "name": "Gassol",
+      "senatorialDistrict": "Taraba Central",
+      "federalConstituency": "Bali/Gassol",
+      "stateConstituency": "Gassol I"
+    },
+    {
+      "state": "Taraba",
+      "name": "Ibi",
+      "senatorialDistrict": "Taraba South",
+      "federalConstituency": "Wukari/Ibi",
+      "stateConstituency": "Ibi"
+    },
+    {
+      "state": "Taraba",
+      "name": "Jalingo",
+      "senatorialDistrict": "Taraba North",
+      "federalConstituency": "Jalingo/Yorro/Zing",
+      "stateConstituency": "Jalingo I"
+    },
+    {
+      "state": "Taraba",
+      "name": "Karim Lamido",
+      "senatorialDistrict": "Taraba North",
+      "federalConstituency": "Karim Lamido/Lau/Ardo-Kola",
+      "stateConstituency": "Karim Lamido I"
+    },
+    {
+      "state": "Taraba",
+      "name": "Kurmi",
+      "senatorialDistrict": "Taraba Central",
+      "federalConstituency": "Gashaka/Kurmi/Sardauna",
+      "stateConstituency": "Kurmi"
+    },
+    {
+      "state": "Taraba",
+      "name": "Lau",
+      "senatorialDistrict": "Taraba North",
+      "federalConstituency": "Karim Lamido/Lau/Ardo-Kola",
+      "stateConstituency": "Lau"
+    },
+    {
+      "state": "Taraba",
+      "name": "Sardauna",
+      "senatorialDistrict": "Taraba Central",
+      "federalConstituency": "Gashaka/Kurmi/Sardauna",
+      "stateConstituency": "Sardauna"
+    },
+    {
+      "state": "Taraba",
+      "name": "Takum",
+      "senatorialDistrict": "Taraba South",
+      "federalConstituency": "Takum/Donga/Ussa",
+      "stateConstituency": "Takum I"
+    },
+    {
+      "state": "Taraba",
+      "name": "Ussa",
+      "senatorialDistrict": "Taraba South",
+      "federalConstituency": "Takum/Donga/Ussa",
+      "stateConstituency": "Ussa"
+    },
+    {
+      "state": "Taraba",
+      "name": "Wukari",
+      "senatorialDistrict": "Taraba South",
+      "federalConstituency": "Wukari/Ibi",
+      "stateConstituency": "Wukari I"
+    },
+    {
+      "state": "Taraba",
+      "name": "Yorro",
+      "senatorialDistrict": "Taraba North",
+      "federalConstituency": "Jalingo/Yorro/Zing",
+      "stateConstituency": "Yorro"
+    },
+    {
+      "state": "Taraba",
+      "name": "Zing",
+      "senatorialDistrict": "Taraba North",
+      "federalConstituency": "Jalingo/Yorro/Zing",
+      "stateConstituency": "Zing"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Taraba",
-      "name": "Temitope Chukwuma (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
+      "name": "Agbu Kefas",
+      "party": "PDP",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "manual"
+      "source": "Taraba State Government"
     },
     {
       "office": "SEN",
       "state": "Taraba",
-      "senatorialDistrict": "Taraba PLACEHOLDER Senatorial District",
-      "name": "Gloria Adegoke (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
+      "senatorialDistrict": "Taraba North",
+      "name": "Shuaibu Isa Lau",
+      "party": "PDP",
       "termStart": "2023-06-13",
-      "termEnd": "2027-06-13",
-      "source": "manual"
+      "termEnd": "2027-06-12",
+      "source": "National Assembly"
+    },
+    {
+      "office": "SEN",
+      "state": "Taraba",
+      "senatorialDistrict": "Taraba Central",
+      "name": "Haruna Manu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "National Assembly"
+    },
+    {
+      "office": "SEN",
+      "state": "Taraba",
+      "senatorialDistrict": "Taraba South",
+      "name": "David Jimkuta",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "National Assembly"
     },
     {
       "office": "REP",
       "state": "Taraba",
-      "federalConstituency": "Taraba PLACEHOLDER Federal Constituency",
-      "name": "Nkechi Aminu (PLACEHOLDER \u2014 REPLACE ME)",
+      "federalConstituency": "Jalingo/Yorro/Zing",
+      "name": "Sadiq Abbas Tafida",
       "party": "PDP",
       "termStart": "2023-06-13",
-      "termEnd": "2027-06-13",
-      "source": "manual"
+      "termEnd": "2027-06-12",
+      "source": "Current National Assembly directory"
+    },
+    {
+      "office": "REP",
+      "state": "Taraba",
+      "federalConstituency": "Karim Lamido/Lau/Ardo-Kola",
+      "name": "Audu Mohammed Lauya",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Current National Assembly directory"
+    },
+    {
+      "office": "REP",
+      "state": "Taraba",
+      "federalConstituency": "Bali/Gassol",
+      "name": "Jaafaru Chiroma Yakubu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Current National Assembly directory"
+    },
+    {
+      "office": "REP",
+      "state": "Taraba",
+      "federalConstituency": "Gashaka/Kurmi/Sardauna",
+      "name": "Peter Abel Diah",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Current National Assembly directory"
+    },
+    {
+      "office": "REP",
+      "state": "Taraba",
+      "federalConstituency": "Takum/Donga/Ussa",
+      "name": "Mark Bako Useni",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Current National Assembly directory"
+    },
+    {
+      "office": "REP",
+      "state": "Taraba",
+      "federalConstituency": "Wukari/Ibi",
+      "name": "Ayuba Dampar",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Current National Assembly directory"
     },
     {
       "office": "HOA",
       "state": "Taraba",
-      "stateConstituency": "Taraba PLACEHOLDER State Constituency",
-      "name": "Suleiman Obi (PLACEHOLDER \u2014 REPLACE ME)",
+      "stateConstituency": "Ardo-Kola",
+      "name": "Happy Shonruba",
       "party": "APC",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Bali I",
+      "name": "Veronica Alhassan",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Bali II",
+      "name": "Hamann Adama Borkono",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Donga",
+      "name": "Bibonga Dinkomiya Nulamuga",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Gashaka",
+      "name": "Muhammad Batulu Katltume",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Gassol I",
+      "name": "Abdullahi Chul Musa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Gassol II",
+      "name": "Umar Kaura Abbas",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Ibi",
+      "name": "Zakari Sanusi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Jalingo I",
+      "name": "Umar Adamu Sarki",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Jalingo II",
+      "name": "Mairiga Usman Uba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Karim Lamido I",
+      "name": "Mike Dio M. M. Jen",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Karim Lamido II",
+      "name": "Anas Shuaibu Didango",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Kurmi",
+      "name": "Tafarki Agbadu Eneme",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Lau",
+      "name": "Akila Nuhu Rantiyo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Mbamga",
+      "name": "Peter Abel Diah",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Nguroje",
+      "name": "Cyprain Nelson Len",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Sardauna",
+      "name": "Suleiman Titong Abdul-Azeez Tanko",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Takum I",
+      "name": "Tanko-Yusuf Abubakar John",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Takum II",
+      "name": "Lamba John",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Ussa",
+      "name": "Rikupki Joshua Urenyang",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Wukari I",
+      "name": "Zikengyu Yakubu Jethro",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Wukari II",
+      "name": "Angye Josiah Yaro",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Yorro",
+      "name": "Kassong Kannoh Joseph",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
+    },
+    {
+      "office": "HOA",
+      "state": "Taraba",
+      "stateConstituency": "Zing",
+      "name": "John Kizito Bonzina",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-12",
+      "source": "Taraba State House of Assembly"
     },
     {
       "office": "CHM",
       "state": "Taraba",
-      "lga": "Taraba PLACEHOLDER LGA",
-      "name": "Bukola Bello (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
+      "lga": "Ardo-Kola",
+      "name": "Ismail Zakari",
+      "party": "PDP",
       "termStart": "2024-01-01",
       "termEnd": "2027-01-01",
-      "source": "manual"
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Bali",
+      "name": "Aboki Dauda Dakk",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Donga",
+      "name": "Ezra Voka",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Gashaka",
+      "name": "Umar Yusuf",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Gassol",
+      "name": "Abubakar Sadiq",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Ibi",
+      "name": "Illiya Ajibu",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Jalingo",
+      "name": "Aminu Jauro Hassan",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Karim Lamido",
+      "name": "Britus Dan-Jos",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Kurmi",
+      "name": "Moses Maihankali",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Lau",
+      "name": "Nigeria Ezra Jatau",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Sardauna",
+      "name": "M. J. Umar",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Takum",
+      "name": "John Ali",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Ussa",
+      "name": "Peter Shenwun",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Wukari",
+      "name": "Dauda Samaila",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Yorro",
+      "name": "Martina Anthony",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
+    },
+    {
+      "office": "CHM",
+      "state": "Taraba",
+      "lga": "Zing",
+      "name": "Davoro Titus",
+      "party": "PDP",
+      "termStart": "2024-01-01",
+      "termEnd": "2027-01-01",
+      "source": "Current local government listing"
     }
   ]
 }

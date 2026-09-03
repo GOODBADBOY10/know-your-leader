@@ -1,82 +1,879 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Ondo",
   "senatorialDistricts": [
     {
       "state": "Ondo",
-      "name": "Ondo PLACEHOLDER Senatorial District"
+      "name": "Ondo North Senatorial District"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ondo Central Senatorial District"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ondo South Senatorial District"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Ondo",
-      "name": "Ondo PLACEHOLDER Federal Constituency"
+      "name": "Akoko North East/Akoko North West Federal Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akoko South East/Akoko South West Federal Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akure North/Akure South Federal Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Idanre/Ifedore Federal Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ilaje/Ese-Odo Federal Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ile-Oluji/Okeigbo/Odigbo Federal Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Okitipupa/Irele Federal Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ondo East/Ondo West Federal Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Owo/Ose Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Ondo",
-      "name": "Ondo PLACEHOLDER State Constituency"
+      "name": "Akoko North East State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akoko North West Constituency I"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akoko North West Constituency II"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akoko South East State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akoko South West Constituency I"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akoko South West Constituency II"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akure North State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akure South I State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akure South II State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ese-Odo State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Idanre State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ifedore State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ilaje I State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ilaje II State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ile-Oluji/Okeigbo State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Irele State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Odigbo I State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Odigbo II State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Okitipupa I State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Okitipupa II State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ondo East State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ondo West I State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ondo West II State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ose State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Owo I State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Owo II State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Ondo",
-      "name": "Ondo PLACEHOLDER LGA",
-      "senatorialDistrict": "Ondo PLACEHOLDER Senatorial District",
-      "federalConstituency": "Ondo PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Ondo PLACEHOLDER State Constituency"
+      "name": "Akoko North East",
+      "senatorialDistrict": "Ondo North Senatorial District",
+      "federalConstituency": "Akoko North East/Akoko North West Federal Constituency",
+      "stateConstituency": "Akoko North East State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akoko North West",
+      "senatorialDistrict": "Ondo North Senatorial District",
+      "federalConstituency": "Akoko North East/Akoko North West Federal Constituency",
+      "stateConstituency": "Akoko North West Constituency I"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akoko South East",
+      "senatorialDistrict": "Ondo North Senatorial District",
+      "federalConstituency": "Akoko South East/Akoko South West Federal Constituency",
+      "stateConstituency": "Akoko South East State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akoko South West",
+      "senatorialDistrict": "Ondo North Senatorial District",
+      "federalConstituency": "Akoko South East/Akoko South West Federal Constituency",
+      "stateConstituency": "Akoko South West Constituency I"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akure North",
+      "senatorialDistrict": "Ondo Central Senatorial District",
+      "federalConstituency": "Akure North/Akure South Federal Constituency",
+      "stateConstituency": "Akure North State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Akure South",
+      "senatorialDistrict": "Ondo Central Senatorial District",
+      "federalConstituency": "Akure North/Akure South Federal Constituency",
+      "stateConstituency": "Akure South I State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ese-Odo",
+      "senatorialDistrict": "Ondo South Senatorial District",
+      "federalConstituency": "Ilaje/Ese-Odo Federal Constituency",
+      "stateConstituency": "Ese-Odo State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Idanre",
+      "senatorialDistrict": "Ondo Central Senatorial District",
+      "federalConstituency": "Idanre/Ifedore Federal Constituency",
+      "stateConstituency": "Idanre State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ifedore",
+      "senatorialDistrict": "Ondo Central Senatorial District",
+      "federalConstituency": "Idanre/Ifedore Federal Constituency",
+      "stateConstituency": "Ifedore State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ilaje",
+      "senatorialDistrict": "Ondo South Senatorial District",
+      "federalConstituency": "Ilaje/Ese-Odo Federal Constituency",
+      "stateConstituency": "Ilaje I State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ile-Oluji/Okeigbo",
+      "senatorialDistrict": "Ondo South Senatorial District",
+      "federalConstituency": "Ile-Oluji/Okeigbo/Odigbo Federal Constituency",
+      "stateConstituency": "Ile-Oluji/Okeigbo State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Irele",
+      "senatorialDistrict": "Ondo South Senatorial District",
+      "federalConstituency": "Okitipupa/Irele Federal Constituency",
+      "stateConstituency": "Irele State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Odigbo",
+      "senatorialDistrict": "Ondo South Senatorial District",
+      "federalConstituency": "Ile-Oluji/Okeigbo/Odigbo Federal Constituency",
+      "stateConstituency": "Odigbo I State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Okitipupa",
+      "senatorialDistrict": "Ondo South Senatorial District",
+      "federalConstituency": "Okitipupa/Irele Federal Constituency",
+      "stateConstituency": "Okitipupa I State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ondo East",
+      "senatorialDistrict": "Ondo Central Senatorial District",
+      "federalConstituency": "Ondo East/Ondo West Federal Constituency",
+      "stateConstituency": "Ondo East State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ondo West",
+      "senatorialDistrict": "Ondo Central Senatorial District",
+      "federalConstituency": "Ondo East/Ondo West Federal Constituency",
+      "stateConstituency": "Ondo West I State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ose",
+      "senatorialDistrict": "Ondo North Senatorial District",
+      "federalConstituency": "Owo/Ose Federal Constituency",
+      "stateConstituency": "Ose State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Owo",
+      "senatorialDistrict": "Ondo North Senatorial District",
+      "federalConstituency": "Owo/Ose Federal Constituency",
+      "stateConstituency": "Owo I State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Odigbo",
+      "senatorialDistrict": "Ondo South Senatorial District",
+      "federalConstituency": "Ile-Oluji/Okeigbo/Odigbo Federal Constituency",
+      "stateConstituency": "Odigbo II State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Okitipupa",
+      "senatorialDistrict": "Ondo South Senatorial District",
+      "federalConstituency": "Okitipupa/Irele Federal Constituency",
+      "stateConstituency": "Okitipupa II State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Ondo West",
+      "senatorialDistrict": "Ondo Central Senatorial District",
+      "federalConstituency": "Ondo East/Ondo West Federal Constituency",
+      "stateConstituency": "Ondo West II State Constituency"
+    },
+    {
+      "state": "Ondo",
+      "name": "Owo",
+      "senatorialDistrict": "Ondo North Senatorial District",
+      "federalConstituency": "Owo/Ose Federal Constituency",
+      "stateConstituency": "Owo II State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Ondo",
-      "name": "Obinna Fashola (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
-      "termStart": "2023-05-29",
+      "name": "Lucky Orimisan Aiyedatiwa",
+      "party": "APC",
+      "termStart": "2023-12-27",
       "termEnd": "2027-05-29",
-      "source": "manual"
+      "source": "Ondo State Government"
     },
     {
       "office": "SEN",
       "state": "Ondo",
-      "senatorialDistrict": "Ondo PLACEHOLDER Senatorial District",
-      "name": "Chinedu Balogun (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "PDP",
+      "senatorialDistrict": "Ondo North Senatorial District",
+      "name": "Olajide Ipinsagba",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "National Assembly"
+    },
+    {
+      "office": "SEN",
+      "state": "Ondo",
+      "senatorialDistrict": "Ondo Central Senatorial District",
+      "name": "Adeniyi Ayodele Adegbonmire",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly"
+    },
+    {
+      "office": "SEN",
+      "state": "Ondo",
+      "senatorialDistrict": "Ondo South Senatorial District",
+      "name": "Jimoh Ibrahim",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "National Assembly"
     },
     {
       "office": "REP",
       "state": "Ondo",
-      "federalConstituency": "Ondo PLACEHOLDER Federal Constituency",
-      "name": "Chioma Uche (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
+      "federalConstituency": "Akoko North East/Akoko North West Federal Constituency",
+      "name": "Ife Ehindero",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ondo",
+      "federalConstituency": "Akoko South East/Akoko South West Federal Constituency",
+      "name": "Gboyega Adefarati",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ondo",
+      "federalConstituency": "Akure North/Akure South Federal Constituency",
+      "name": "Abiodun Derin Adesida",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ondo",
+      "federalConstituency": "Idanre/Ifedore Federal Constituency",
+      "name": "Festus Akingbaso",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ondo",
+      "federalConstituency": "Ilaje/Ese-Odo Federal Constituency",
+      "name": "Donald Ojogo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ondo",
+      "federalConstituency": "Ile-Oluji/Okeigbo/Odigbo Federal Constituency",
+      "name": "Festus Adefiranye",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ondo",
+      "federalConstituency": "Okitipupa/Irele Federal Constituency",
+      "name": "Jimi Odimayo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ondo",
+      "federalConstituency": "Ondo East/Ondo West Federal Constituency",
+      "name": "Abiola Makinde",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Ondo",
+      "federalConstituency": "Owo/Ose Federal Constituency",
+      "name": "Timehin Adelegbe",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
     },
     {
       "office": "HOA",
       "state": "Ondo",
-      "stateConstituency": "Ondo PLACEHOLDER State Constituency",
-      "name": "Zainab Nnaji (PLACEHOLDER \u2014 REPLACE ME)",
+      "stateConstituency": "Ondo East State Constituency",
+      "name": "Oladiji Olamide Adesanmi",
       "party": "APC",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Okitipupa II State Constituency",
+      "name": "Gbegudu Ololade James",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Ose State Constituency",
+      "name": "Oshati Olatunji Emmanuel",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Akoko North West Constituency II",
+      "name": "Felix Afe",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Odigbo I State Constituency",
+      "name": "Fabiyi Olatunji",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Akoko South East State Constituency",
+      "name": "Suleiman Muritala",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Akoko North East State Constituency",
+      "name": "Japhet Victor Toyin",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Idanre State Constituency",
+      "name": "Ogunlowo Oluwatosin Ajirotu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Okitipupa I State Constituency",
+      "name": "Akinrogunde Akintomide",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Irele State Constituency",
+      "name": "Ogunlana Christopher",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Owo II State Constituency",
+      "name": "Adeyemi Olayemi A",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Ondo West II State Constituency",
+      "name": "Biola Oladapo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Akure North State Constituency",
+      "name": "Ologede Kolawole Michael",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Akoko South West Constituency II",
+      "name": "Felemu Gudubankole O",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Ondo West I State Constituency",
+      "name": "Ogunwumiju Moyinolorun Taiwo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Ilaje I State Constituency",
+      "name": "Akinruntan Abayomi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Akoko North West Constituency I",
+      "name": "Fatai Tiamiyu Atere",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Akure South II State Constituency",
+      "name": "Olajide David Sunday",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Owo I State Constituency",
+      "name": "Oluwole Emmanuel Ogunmolasuyi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Akoko South West Constituency I",
+      "name": "Daoudu Oluwatoyin Raymond",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Ilaje II State Constituency",
+      "name": "Fayemi-Obayelu Olawumi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Ese-Odo State Constituency",
+      "name": "Allen Messiah Oluwatoyin",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Akure South I State Constituency",
+      "name": "Oguntodu Olajide Johnson",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Ile-Oluji/Okeigbo State Constituency",
+      "name": "Akinsuroju Akindolanii Nelson",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Ondo",
+      "stateConstituency": "Ifedore State Constituency",
+      "name": "Bamidele Oleyelogun",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Wikipedia (Ondo State House of Assembly); Speaker of the 9th Assembly"
     },
     {
       "office": "CHM",
       "state": "Ondo",
-      "lga": "Ondo PLACEHOLDER LGA",
-      "name": "Aliyu Ojo (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "lga": "Akoko North West",
+      "name": "Owolabi Esan",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Akure South",
+      "name": "Gbenga Fasua",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Irele",
+      "name": "Akinfe Olajide",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Ondo West",
+      "name": "Ayotunde Akinfolarin",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Owo",
+      "name": "Tope Omolayo",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Ese-Odo",
+      "name": "Ebimobowei Molos",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Ile-Oluji/Okeigbo",
+      "name": "Adeboye Adebare",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Odigbo",
+      "name": "Adegoroye Taiwo",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Okitipupa",
+      "name": "Andrew Ogunsakin",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Akoko North East",
+      "name": "Mohammed Mutiu",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Akoko South West",
+      "name": "Ezekiel Ayorinde Ajana",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Ifedore",
+      "name": "Oladipupo Ajibola",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Akoko South East",
+      "name": "Omolehin Jude Ayegbo",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Akure North",
+      "name": "Ogunbolude Johnson",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Idanre",
+      "name": "Smart Adeluyi Omotadowa",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Ilaje",
+      "name": "Oripenaye Maurice",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Ose",
+      "name": "Clement Kolapo Ojo",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Ondo",
+      "lga": "Ondo East",
+      "name": "Ogunduyilemi Kola Joshua",
+      "party": "APC",
+      "termStart": "2025-02-17",
+      "termEnd": "2028-02-17",
+      "source": "Ondo State Government"
     }
   ]
 }

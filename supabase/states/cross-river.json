@@ -1,82 +1,571 @@
 {
-  "_status": "placeholder",
+  "_status": "unverified",
   "_state": "Cross River",
   "senatorialDistricts": [
     {
       "state": "Cross River",
-      "name": "Cross River PLACEHOLDER Senatorial District"
+      "name": "Cross River Central Senatorial District"
+    },
+    {
+      "state": "Cross River",
+      "name": "Cross River South Senatorial District"
+    },
+    {
+      "state": "Cross River",
+      "name": "Cross River North Senatorial District"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Cross River",
-      "name": "Cross River PLACEHOLDER Federal Constituency"
+      "name": "Abi/Yakurr Federal Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Akamkpa/Biase Federal Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Bekwarra/Obudu/Obanliku Federal Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Calabar Municipal/Odukpani Federal Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Calabar South/Akpabuyo/Bakassi Federal Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Ikom/Boki Federal Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Obubra/Etung Federal Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Ogoja/Yala Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Cross River",
-      "name": "Cross River PLACEHOLDER State Constituency"
+      "name": "Abi State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Akamkpa I/II State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Akpabuyo State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Bakassi State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Bekwarra State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Boki State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Biase State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Calabar Municipality State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Calabar South I State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Calabar South II State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Etung State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Ikom I State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Ikom II State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Obanliku State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Obubra I State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Obubra II State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Odukpani State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Ogoja State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Yarkur I State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Yarkur II State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Yala I State Constituency"
+    },
+    {
+      "state": "Cross River",
+      "name": "Yala II State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Cross River",
-      "name": "Cross River PLACEHOLDER LGA",
-      "senatorialDistrict": "Cross River PLACEHOLDER Senatorial District",
-      "federalConstituency": "Cross River PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Cross River PLACEHOLDER State Constituency"
+      "name": "Abi",
+      "senatorialDistrict": "Cross River Central",
+      "federalConstituency": "Abi/Yakurr",
+      "stateConstituency": "Abi"
+    },
+    {
+      "state": "Cross River",
+      "name": "Akamkpa",
+      "senatorialDistrict": "Cross River South",
+      "federalConstituency": "Akamkpa/Biase",
+      "stateConstituency": "Akamkpa I & II"
+    },
+    {
+      "state": "Cross River",
+      "name": "Akpabuyo",
+      "senatorialDistrict": "Cross River South",
+      "federalConstituency": "Calabar South/Akpabuyo/Bakassi",
+      "stateConstituency": "Akpabuyo"
+    },
+    {
+      "state": "Cross River",
+      "name": "Bakassi",
+      "senatorialDistrict": "Cross River South",
+      "federalConstituency": "Calabar South/Akpabuyo/Bakassi",
+      "stateConstituency": "Bakassi"
+    },
+    {
+      "state": "Cross River",
+      "name": "Bekwarra",
+      "senatorialDistrict": "Cross River North",
+      "federalConstituency": "Bekwarra/Obudu/Obanliku",
+      "stateConstituency": "Bekwarra"
+    },
+    {
+      "state": "Cross River",
+      "name": "Biase",
+      "senatorialDistrict": "Cross River South",
+      "federalConstituency": "Akamkpa/Biase",
+      "stateConstituency": "Biase"
+    },
+    {
+      "state": "Cross River",
+      "name": "Boki",
+      "senatorialDistrict": "Cross River Central",
+      "federalConstituency": "Ikom/Boki",
+      "stateConstituency": "Boki I & II"
+    },
+    {
+      "state": "Cross River",
+      "name": "Calabar Municipal",
+      "senatorialDistrict": "Cross River South",
+      "federalConstituency": "Calabar Municipal/Odukpani",
+      "stateConstituency": "Calabar Municipal"
+    },
+    {
+      "state": "Cross River",
+      "name": "Calabar South",
+      "senatorialDistrict": "Cross River South",
+      "federalConstituency": "Calabar South/Akpabuyo/Bakassi",
+      "stateConstituency": "Calabar South I & II"
+    },
+    {
+      "state": "Cross River",
+      "name": "Etung",
+      "senatorialDistrict": "Cross River Central",
+      "federalConstituency": "Obubra/Etung",
+      "stateConstituency": "Etung"
+    },
+    {
+      "state": "Cross River",
+      "name": "Ikom",
+      "senatorialDistrict": "Cross River Central",
+      "federalConstituency": "Ikom/Boki",
+      "stateConstituency": "Ikom I & II"
+    },
+    {
+      "state": "Cross River",
+      "name": "Obanliku",
+      "senatorialDistrict": "Cross River North",
+      "federalConstituency": "Bekwarra/Obudu/Obanliku",
+      "stateConstituency": "Obanliku"
+    },
+    {
+      "state": "Cross River",
+      "name": "Obubra",
+      "senatorialDistrict": "Cross River Central",
+      "federalConstituency": "Obubra/Etung",
+      "stateConstituency": "Obubra I & II"
+    },
+    {
+      "state": "Cross River",
+      "name": "Obudu",
+      "senatorialDistrict": "Cross River North",
+      "federalConstituency": "Bekwarra/Obudu/Obanliku",
+      "stateConstituency": "Obudu"
+    },
+    {
+      "state": "Cross River",
+      "name": "Odukpani",
+      "senatorialDistrict": "Cross River South",
+      "federalConstituency": "Calabar Municipal/Odukpani",
+      "stateConstituency": "Odukpani"
+    },
+    {
+      "state": "Cross River",
+      "name": "Ogoja",
+      "senatorialDistrict": "Cross River North",
+      "federalConstituency": "Ogoja/Yala",
+      "stateConstituency": "Ogoja"
+    },
+    {
+      "state": "Cross River",
+      "name": "Yakurr",
+      "senatorialDistrict": "Cross River Central",
+      "federalConstituency": "Abi/Yakurr",
+      "stateConstituency": "Yakurr I & II"
+    },
+    {
+      "state": "Cross River",
+      "name": "Yala",
+      "senatorialDistrict": "Cross River North",
+      "federalConstituency": "Ogoja/Yala",
+      "stateConstituency": "Yala I & II"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Cross River",
-      "name": "Segun Nweke (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
+      "name": "Bassey Edet Otu",
+      "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "manual"
+      "source": "Ijesha Digital hub (IDH)"
     },
     {
       "office": "SEN",
       "state": "Cross River",
-      "senatorialDistrict": "Cross River PLACEHOLDER Senatorial District",
-      "name": "Ekaete Nweke (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
+      "senatorialDistrict": "Cross River North",
+      "name": "Jarigbe Agom Jarigbe",
+      "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "SEN",
+      "state": "Cross River",
+      "senatorialDistrict": "Cross River Central",
+      "name": "Eteng Jonah Williams",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "SEN",
+      "state": "Cross River",
+      "senatorialDistrict": "Cross River South",
+      "name": "Asuquo Ekpenyong",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ijesha Digital hub (IDH)"
     },
     {
       "office": "REP",
       "state": "Cross River",
-      "federalConstituency": "Cross River PLACEHOLDER Federal Constituency",
-      "name": "Obinna Nnamdi (PLACEHOLDER \u2014 REPLACE ME)",
+      "federalConstituency": "Calabar Municipal/Odukpani",
+      "name": "Akiba Bassey Ekpenyong",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "REP",
+      "state": "Cross River",
+      "federalConstituency": "Calabar South/Akpabuyo/Bakassi",
+      "name": "Joseph Archibong Bassey",
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "Ijesha Digital hub (IDH)"
     },
     {
-      "office": "HOA",
+      "office": "REP",
       "state": "Cross River",
-      "stateConstituency": "Cross River PLACEHOLDER State Constituency",
-      "name": "Ifeoma Nnamdi (PLACEHOLDER \u2014 REPLACE ME)",
+      "federalConstituency": "Akamkpa/Biase",
+      "name": "Inyang Emil Lemke",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "REP",
+      "state": "Cross River",
+      "federalConstituency": "Ikom/Boki",
+      "name": "Victor Abang Bisong",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "REP",
+      "state": "Cross River",
+      "federalConstituency": "Obubra/Etung",
+      "name": "Michael Irom Etaba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "REP",
+      "state": "Cross River",
+      "federalConstituency": "Yakurr/Abi",
+      "name": "Alex Egbona Egbona",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "REP",
+      "state": "Cross River",
+      "federalConstituency": "Ogoja/Yala",
+      "name": "Godwin Offiono Odey Ekpo",
       "party": "PDP",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "REP",
+      "state": "Cross River",
+      "federalConstituency": "Obudu/Bekwarra/Obanliku",
+      "name": "Peter Akpanke Atianashie",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Ijesha Digital hub (IDH)"
     },
     {
       "office": "CHM",
       "state": "Cross River",
-      "lga": "Cross River PLACEHOLDER LGA",
-      "name": "Zainab Bala (PLACEHOLDER \u2014 REPLACE ME)",
+      "lga": "Abi",
+      "name": "Egbala Bassey Egbala",
       "party": "APC",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Akamkpa",
+      "name": "Felix Akposi",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Akpabuyo",
+      "name": "Effiom Bassey Effiong",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Bakassi",
+      "name": "Effiong Bassey Okon",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Bekwarra",
+      "name": "Theresa Ushie",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Biase",
+      "name": "Edodi Eyong Edodi",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Boki",
+      "name": "Beatrice Etta Nyiam",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Calabar Municipality",
+      "name": "James Koko Anam",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Calabar South",
+      "name": "Patrick Okon Archibong",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Etung",
+      "name": "Henry Njar Anom",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Ikom",
+      "name": "Mercy Nsor",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Obanliku",
+      "name": "Sunny Ayang",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Obubra",
+      "name": "Kingsley Arikpo",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Obudu",
+      "name": "Peter Akonfe Undiandeye",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Odukpani",
+      "name": "Ukpong Etim Asido",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Ogoja",
+      "name": "Christopher Agbeh",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Yakurr",
+      "name": "Yibala Inyang",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
+    },
+    {
+      "office": "CHM",
+      "state": "Cross River",
+      "lga": "Yala",
+      "name": "Fred Okem",
+      "party": "APC",
+      "termStart": "2024-11-04",
+      "termEnd": "2027-11-04",
+      "source": "Ijesha Digital hub (IDH)"
     }
   ]
 }

@@ -1,82 +1,1042 @@
 {
-  "_status": "placeholder",
-  "_state": "Jigawa",
   "senatorialDistricts": [
     {
       "state": "Jigawa",
-      "name": "Jigawa PLACEHOLDER Senatorial District"
+      "name": "Jigawa North-East Senatorial District"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Jigawa North-West Senatorial District"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Jigawa South-West Senatorial District"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Jigawa",
-      "name": "Jigawa PLACEHOLDER Federal Constituency"
+      "name": "Babura/Garki Federal Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Birnin Kudu/Buji Federal Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Birniwa/Guri/Kirikasamma Federal Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Dutse/Kiyawa Federal Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Gagarawa/Gumel/Maigatari/Sule Tankarkar Federal Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Gwaram Federal Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Hadejia/Auyo/Kafin Hausa Federal Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Jahun/Miga Federal Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Kazaure/Roni/Gwiwa/Yankwashi Federal Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Mallam Madori/Kaugama Federal Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Ringim/Taura Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Jigawa",
-      "name": "Jigawa PLACEHOLDER State Constituency"
+      "name": "Auyo State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Babura State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Birniwa State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Birnin Kudu State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Buji State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Bulangu State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Dutse State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Fagam State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Gagarawa State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Garki State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Gumel State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Guri State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Gwaram State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Gwiwa State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Hadejia State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Jahun State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Kafin Hausa State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Kanya State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Kaugama State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Kazaure State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Kiri Kasamma State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Kiyawa State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Maigatari State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Malam Madori State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Miga State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Ringim State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Roni State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Sule Tankarkar State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Taura State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Yankwashi State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Jigawa",
-      "name": "Jigawa PLACEHOLDER LGA",
-      "senatorialDistrict": "Jigawa PLACEHOLDER Senatorial District",
-      "federalConstituency": "Jigawa PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Jigawa PLACEHOLDER State Constituency"
+      "name": "Auyo",
+      "senatorialDistrict": "Jigawa North-East Senatorial District",
+      "federalConstituency": "Hadejia/Auyo/Kafin Hausa Federal Constituency",
+      "stateConstituency": "Auyo State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Babura",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "federalConstituency": "Babura/Garki Federal Constituency",
+      "stateConstituency": "Babura State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Birniwa",
+      "senatorialDistrict": "Jigawa North-East Senatorial District",
+      "federalConstituency": "Birniwa/Guri/Kirikasamma Federal Constituency",
+      "stateConstituency": "Birniwa State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Birnin Kudu",
+      "senatorialDistrict": "Jigawa South-West Senatorial District",
+      "federalConstituency": "Birnin Kudu/Buji Federal Constituency",
+      "stateConstituency": "Birnin Kudu State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Buji",
+      "senatorialDistrict": "Jigawa South-West Senatorial District",
+      "federalConstituency": "Birnin Kudu/Buji Federal Constituency",
+      "stateConstituency": "Buji State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Dutse",
+      "senatorialDistrict": "Jigawa South-West Senatorial District",
+      "federalConstituency": "Dutse/Kiyawa Federal Constituency",
+      "stateConstituency": "Dutse State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Gagarawa",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "federalConstituency": "Gagarawa/Gumel/Maigatari/Sule Tankarkar Federal Constituency",
+      "stateConstituency": "Gagarawa State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Garki",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "federalConstituency": "Babura/Garki Federal Constituency",
+      "stateConstituency": "Garki State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Gumel",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "federalConstituency": "Gagarawa/Gumel/Maigatari/Sule Tankarkar Federal Constituency",
+      "stateConstituency": "Gumel State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Guri",
+      "senatorialDistrict": "Jigawa North-East Senatorial District",
+      "federalConstituency": "Birniwa/Guri/Kirikasamma Federal Constituency",
+      "stateConstituency": "Guri State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Gwaram",
+      "senatorialDistrict": "Jigawa South-West Senatorial District",
+      "federalConstituency": "Gwaram Federal Constituency",
+      "stateConstituency": "Gwaram State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Gwiwa",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "federalConstituency": "Kazaure/Roni/Gwiwa/Yankwashi Federal Constituency",
+      "stateConstituency": "Gwiwa State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Hadejia",
+      "senatorialDistrict": "Jigawa North-East Senatorial District",
+      "federalConstituency": "Hadejia/Auyo/Kafin Hausa Federal Constituency",
+      "stateConstituency": "Hadejia State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Jahun",
+      "senatorialDistrict": "Jigawa South-West Senatorial District",
+      "federalConstituency": "Jahun/Miga Federal Constituency",
+      "stateConstituency": "Jahun State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Kafin Hausa",
+      "senatorialDistrict": "Jigawa North-East Senatorial District",
+      "federalConstituency": "Hadejia/Auyo/Kafin Hausa Federal Constituency",
+      "stateConstituency": "Kafin Hausa State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Kaugama",
+      "senatorialDistrict": "Jigawa North-East Senatorial District",
+      "federalConstituency": "Mallam Madori/Kaugama Federal Constituency",
+      "stateConstituency": "Kaugama State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Kazaure",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "federalConstituency": "Kazaure/Roni/Gwiwa/Yankwashi Federal Constituency",
+      "stateConstituency": "Kazaure State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Kiri Kasamma",
+      "senatorialDistrict": "Jigawa North-East Senatorial District",
+      "federalConstituency": "Birniwa/Guri/Kirikasamma Federal Constituency",
+      "stateConstituency": "Kiri Kasamma State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Kiyawa",
+      "senatorialDistrict": "Jigawa South-West Senatorial District",
+      "federalConstituency": "Dutse/Kiyawa Federal Constituency",
+      "stateConstituency": "Kiyawa State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Maigatari",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "federalConstituency": "Gagarawa/Gumel/Maigatari/Sule Tankarkar Federal Constituency",
+      "stateConstituency": "Maigatari State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Malam Madori",
+      "senatorialDistrict": "Jigawa North-East Senatorial District",
+      "federalConstituency": "Mallam Madori/Kaugama Federal Constituency",
+      "stateConstituency": "Malam Madori State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Miga",
+      "senatorialDistrict": "Jigawa South-West Senatorial District",
+      "federalConstituency": "Jahun/Miga Federal Constituency",
+      "stateConstituency": "Miga State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Ringim",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "federalConstituency": "Ringim/Taura Federal Constituency",
+      "stateConstituency": "Ringim State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Roni",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "federalConstituency": "Kazaure/Roni/Gwiwa/Yankwashi Federal Constituency",
+      "stateConstituency": "Roni State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Sule Tankarkar",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "federalConstituency": "Gagarawa/Gumel/Maigatari/Sule Tankarkar Federal Constituency",
+      "stateConstituency": "Sule Tankarkar State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Taura",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "federalConstituency": "Ringim/Taura Federal Constituency",
+      "stateConstituency": "Taura State Constituency"
+    },
+    {
+      "state": "Jigawa",
+      "name": "Yankwashi",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "federalConstituency": "Kazaure/Roni/Gwiwa/Yankwashi Federal Constituency",
+      "stateConstituency": "Yankwashi State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Jigawa",
-      "name": "Obinna Okafor (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
+      "name": "Umar A. Namadi",
+      "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "manual"
+      "source": "Jigawa State Government"
     },
     {
       "office": "SEN",
       "state": "Jigawa",
-      "senatorialDistrict": "Jigawa PLACEHOLDER Senatorial District",
-      "name": "Garba Uche (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
+      "senatorialDistrict": "Jigawa North-East Senatorial District",
+      "name": "Ahmad Abdulhamid Malam Madori",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "2023 election result"
+    },
+    {
+      "office": "SEN",
+      "state": "Jigawa",
+      "senatorialDistrict": "Jigawa North-West Senatorial District",
+      "name": "Babangida Hussaini",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "2023 election result"
+    },
+    {
+      "office": "SEN",
+      "state": "Jigawa",
+      "senatorialDistrict": "Jigawa South-West Senatorial District",
+      "name": "Mustapha Khabeeb",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "2023 election result"
     },
     {
       "office": "REP",
       "state": "Jigawa",
-      "federalConstituency": "Jigawa PLACEHOLDER Federal Constituency",
-      "name": "Funke Balogun (PLACEHOLDER \u2014 REPLACE ME)",
+      "federalConstituency": "Babura/Garki Federal Constituency",
+      "name": "Isa Dogon Yaro",
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "REP",
+      "state": "Jigawa",
+      "federalConstituency": "Birnin Kudu/Buji Federal Constituency",
+      "name": "Adamu Yakubu",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "REP",
+      "state": "Jigawa",
+      "federalConstituency": "Birniwa/Guri/Kirikasamma Federal Constituency",
+      "name": "Abubakar Hassan Fulata",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "REP",
+      "state": "Jigawa",
+      "federalConstituency": "Dutse/Kiyawa Federal Constituency",
+      "name": "Dahiru Madaki Kiyawa",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "REP",
+      "state": "Jigawa",
+      "federalConstituency": "Gagarawa/Gumel/Maigatari/Sule Tankarkar Federal Constituency",
+      "name": "Nazifi Sani Fulawa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "REP",
+      "state": "Jigawa",
+      "federalConstituency": "Gwaram Federal Constituency",
+      "name": "Yusif Shitu Galambi",
+      "party": "NNPP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "REP",
+      "state": "Jigawa",
+      "federalConstituency": "Hadejia/Auyo/Kafin Hausa Federal Constituency",
+      "name": "Ibrahim Usman Auyo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "REP",
+      "state": "Jigawa",
+      "federalConstituency": "Jahun/Miga Federal Constituency",
+      "name": "Yusif Sa'idu Miga",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "REP",
+      "state": "Jigawa",
+      "federalConstituency": "Kazaure/Roni/Gwiwa/Yankwashi Federal Constituency",
+      "name": "Muktar Muhammad",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "REP",
+      "state": "Jigawa",
+      "federalConstituency": "Mallam Madori/Kaugama Federal Constituency",
+      "name": "Abubakar Makki Yalleman",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "REP",
+      "state": "Jigawa",
+      "federalConstituency": "Ringim/Taura Federal Constituency",
+      "name": "Sa'adu Wada Taura",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
     },
     {
       "office": "HOA",
       "state": "Jigawa",
-      "stateConstituency": "Jigawa PLACEHOLDER State Constituency",
-      "name": "Nkechi Musa (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "stateConstituency": "Auyo State Constituency",
+      "name": "Ishaq Sani",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Babura State Constituency",
+      "name": "Abdulrahman Mas'ud Naruwa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Birniwa State Constituency",
+      "name": "Hassan Keriya",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Birnin Kudu State Constituency",
+      "name": "Mohd Kabir",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Buji State Constituency",
+      "name": "Sale A. Baba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Bulangu State Constituency",
+      "name": "Yusuf Ahmed",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Dutse State Constituency",
+      "name": "Tasi'u Ishaq",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Fagam State Constituency",
+      "name": "Yahaya Zakar",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Gagarawa State Constituency",
+      "name": "Ibrahim Ya'u",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Garki State Constituency",
+      "name": "Abdu Ilu Muku",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Gumel State Constituency",
+      "name": "Sani Isyaku Abubakar",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Guri State Constituency",
+      "name": "Usmam Abdullahi Tura",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Gwaram State Constituency",
+      "name": "Yakubu Ado Zamdam",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Gwiwa State Constituency",
+      "name": "Aminu Zakari",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Hadejia State Constituency",
+      "name": "Abubakar Mohd Sadiq",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Jahun State Constituency",
+      "name": "Idris Garba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Kafin Hausa State Constituency",
+      "name": "Mohammed Adamu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Kanya State Constituency",
+      "name": "Ibrahim Hashim Kanya",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Kaugama State Constituency",
+      "name": "Sani Saleh",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Kazaure State Constituency",
+      "name": "Mohd Idris Adamu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Kiri Kasamma State Constituency",
+      "name": "Aliyu Ahmed Aliyu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Kiyawa State Constituency",
+      "name": "Yahaya Mohd",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Maigatari State Constituency",
+      "name": "Habu Mohammed",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Malam Madori State Constituency",
+      "name": "Ibrahim Hamza Adamu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Miga State Constituency",
+      "name": "Haruna Aliyu Da",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Ringim State Constituency",
+      "name": "Aminu Sule Sankara",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Roni State Constituency",
+      "name": "Lawan Mohd Dansure",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Sule Tankarkar State Constituency",
+      "name": "Abubakar Mohd Sa'id",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Taura State Constituency",
+      "name": "Dayyabu She",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "HOA",
+      "state": "Jigawa",
+      "stateConstituency": "Yankwashi State Constituency",
+      "name": "Ado Mohd Zoto",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Jigawa State Government"
     },
     {
       "office": "CHM",
       "state": "Jigawa",
-      "lga": "Jigawa PLACEHOLDER LGA",
-      "name": "Yakubu Ojo (PLACEHOLDER \u2014 REPLACE ME)",
+      "lga": "Auyo",
+      "name": "Baffa Shinge",
       "party": "APC",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Babura",
+      "name": "Lawan Isma'il",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Birniwa",
+      "name": "Umar Baffa",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Buji",
+      "name": "Abdullahi Sulaiman Yayari",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Birnin Kudu",
+      "name": "Magani Yusif Gigo",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Dutse",
+      "name": "Bala Usman Chamo",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Gumel",
+      "name": "Ahmed Rufa'i Gumel",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Gwaram",
+      "name": "Zaharaddeen Abubakar",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Gwiwa",
+      "name": "Saleh Ahmed Zauma",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Gagarawa",
+      "name": "Sani Muktar Madaka",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Guri",
+      "name": "Musa Shu'aibu Guri",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Garki",
+      "name": "Mudassir Musa",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Hadejia",
+      "name": "Abdullahi Bala Umar",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Jahun",
+      "name": "Chairman listed in 2024 state records",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Kafin Hausa",
+      "name": "Chairman listed in 2024 state records",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Kaugama",
+      "name": "Idris Mati Haruna",
+      "party": "APC",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Kazaure",
+      "name": "Muhammad Muktar",
+      "party": "APC",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Kiri Kasamma",
+      "name": "Chairman listed in 2024 state records",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Kiyawa",
+      "name": "Nasiru Ahmed Kiyawa",
+      "party": "APC",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Maigatari",
+      "name": "Uzairu Nadabo",
+      "party": "APC",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Malam Madori",
+      "name": "Usaini Umar",
+      "party": "APC",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Miga",
+      "name": "Adamu Sarki Miga",
+      "party": "APC",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Ringim",
+      "name": "Shehu Sule Udi",
+      "party": "APC",
+      "source": "2024 record"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Roni",
+      "name": "Tukur Mohd Ali",
+      "party": "APC",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Sule Tankarkar",
+      "name": "Saleh Ahmed Danzomo",
+      "party": "APC",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Taura",
+      "name": "Baffa Yahaya Taura",
+      "party": "APC",
+      "source": "Jigawa State Government"
+    },
+    {
+      "office": "CHM",
+      "state": "Jigawa",
+      "lga": "Yankwashi",
+      "name": "Mubarak Ahmed",
+      "party": "APC",
+      "source": "Jigawa State Government"
     }
   ]
 }

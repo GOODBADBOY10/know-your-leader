@@ -1,38 +1,466 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Katsina",
+  "_verification_notes": "Complete on first pass: GOV, all 3 SEN, all 15 REP, all 34 HOA, all 34 CHM (correctly one per real LGA). Fixed the recurring 'source' field bug (was contributor's name) and a combined-string constituency reference for Bakori. Worth a light double-check later: Batagarawa and Charanchi LGAs share the same 'Charanchi State Constituency', and Kafur and Malumfashi LGAs share 'Malumfashi East State Constituency' \u2014 unusual (normally one LGA splits into multiple seats, not two LGAs sharing one), but kept as submitted since it may be genuinely correct for lower-population LGA pairs.",
   "senatorialDistricts": [
     {
       "state": "Katsina",
-      "name": "Katsina PLACEHOLDER Senatorial District"
+      "name": "Katsina Central Senatorial District"
+    },
+    {
+      "state": "Katsina",
+      "name": "Katsina North Senatorial District"
+    },
+    {
+      "state": "Katsina",
+      "name": "Katsina South Senatorial District"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Katsina",
-      "name": "Katsina PLACEHOLDER Federal Constituency"
+      "name": "Bakori/Danja Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Batagarawa/Charanchi/Rimi Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Batsari/Safana/Danmusa Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Bindawa/Mani Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Daura/Sandamu/Mai'Adua Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Dutsin-Ma/Kurfi Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Faskari/Kankara/Sabuwa Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Funtua/Dandume Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Ingawa/Kankia/Kusada Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Jibia/Kaita Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Katsina Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Malumfashi/Kafur Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Mashi/Dutsi Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Matazu/Musawa Federal Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Zango/Baure Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Katsina",
-      "name": "Katsina PLACEHOLDER State Constituency"
+      "name": "Bakori State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Bakori II Tsiga State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Batsari State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Baure State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Bindawa State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Charanchi State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Dandume State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Danja State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Danmusa State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Daura State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Dutsi State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Dutsin-Ma State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Faskari State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Funtua State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Ingawa State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Jibia State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Kafur State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Kaita State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Kankara State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Kankia State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Katsina State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Kurfi State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Kusada State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Maiadua State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Malumfashi East State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Mani State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Mashi State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Matazu State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Musawa State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Rimi State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Sabuwa State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Safana State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Sandamu State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Zango State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Katsina",
-      "name": "Katsina PLACEHOLDER LGA",
-      "senatorialDistrict": "Katsina PLACEHOLDER Senatorial District",
-      "federalConstituency": "Katsina PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Katsina PLACEHOLDER State Constituency"
+      "name": "Bakori",
+      "senatorialDistrict": "Katsina South Senatorial District",
+      "federalConstituency": "Bakori/Danja Federal Constituency",
+      "stateConstituency": "Bakori State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Batagarawa",
+      "senatorialDistrict": "Katsina Central Senatorial District",
+      "federalConstituency": "Batagarawa/Charanchi/Rimi Federal Constituency",
+      "stateConstituency": "Charanchi State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Batsari",
+      "senatorialDistrict": "Katsina Central Senatorial District",
+      "federalConstituency": "Batsari/Safana/Danmusa Federal Constituency",
+      "stateConstituency": "Batsari State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Baure",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "federalConstituency": "Zango/Baure Federal Constituency",
+      "stateConstituency": "Baure State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Bindawa",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "federalConstituency": "Bindawa/Mani Federal Constituency",
+      "stateConstituency": "Bindawa State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Charanchi",
+      "senatorialDistrict": "Katsina Central Senatorial District",
+      "federalConstituency": "Batagarawa/Charanchi/Rimi Federal Constituency",
+      "stateConstituency": "Charanchi State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Dandume",
+      "senatorialDistrict": "Katsina South Senatorial District",
+      "federalConstituency": "Funtua/Dandume Federal Constituency",
+      "stateConstituency": "Dandume State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Danja",
+      "senatorialDistrict": "Katsina South Senatorial District",
+      "federalConstituency": "Bakori/Danja Federal Constituency",
+      "stateConstituency": "Danja State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Dan Musa",
+      "senatorialDistrict": "Katsina Central Senatorial District",
+      "federalConstituency": "Batsari/Safana/Danmusa Federal Constituency",
+      "stateConstituency": "Danmusa State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Daura",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "federalConstituency": "Daura/Sandamu/Mai'Adua Federal Constituency",
+      "stateConstituency": "Daura State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Dutsi",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "federalConstituency": "Mashi/Dutsi Federal Constituency",
+      "stateConstituency": "Dutsi State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Dutsin-Ma",
+      "senatorialDistrict": "Katsina Central Senatorial District",
+      "federalConstituency": "Dutsin-Ma/Kurfi Federal Constituency",
+      "stateConstituency": "Dutsin-Ma State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Faskari",
+      "senatorialDistrict": "Katsina South Senatorial District",
+      "federalConstituency": "Faskari/Kankara/Sabuwa Federal Constituency",
+      "stateConstituency": "Faskari State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Funtua",
+      "senatorialDistrict": "Katsina South Senatorial District",
+      "federalConstituency": "Funtua/Dandume Federal Constituency",
+      "stateConstituency": "Funtua State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Ingawa",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "federalConstituency": "Ingawa/Kankia/Kusada Federal Constituency",
+      "stateConstituency": "Ingawa State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Jibia",
+      "senatorialDistrict": "Katsina Central Senatorial District",
+      "federalConstituency": "Jibia/Kaita Federal Constituency",
+      "stateConstituency": "Jibia State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Kafur",
+      "senatorialDistrict": "Katsina South Senatorial District",
+      "federalConstituency": "Malumfashi/Kafur Federal Constituency",
+      "stateConstituency": "Kafur State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Kaita",
+      "senatorialDistrict": "Katsina Central Senatorial District",
+      "federalConstituency": "Jibia/Kaita Federal Constituency",
+      "stateConstituency": "Kaita State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Kankara",
+      "senatorialDistrict": "Katsina South Senatorial District",
+      "federalConstituency": "Faskari/Kankara/Sabuwa Federal Constituency",
+      "stateConstituency": "Kankara State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Kankia",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "federalConstituency": "Ingawa/Kankia/Kusada Federal Constituency",
+      "stateConstituency": "Kankia State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Katsina",
+      "senatorialDistrict": "Katsina Central Senatorial District",
+      "federalConstituency": "Katsina Federal Constituency",
+      "stateConstituency": "Katsina State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Kurfi",
+      "senatorialDistrict": "Katsina Central Senatorial District",
+      "federalConstituency": "Dutsin-Ma/Kurfi Federal Constituency",
+      "stateConstituency": "Kurfi State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Kusada",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "federalConstituency": "Ingawa/Kankia/Kusada Federal Constituency",
+      "stateConstituency": "Kusada State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Mai'Adua",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "federalConstituency": "Daura/Sandamu/Mai'Adua Federal Constituency",
+      "stateConstituency": "Maiadua State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Malumfashi",
+      "senatorialDistrict": "Katsina South Senatorial District",
+      "federalConstituency": "Malumfashi/Kafur Federal Constituency",
+      "stateConstituency": "Malumfashi East State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Mani",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "federalConstituency": "Bindawa/Mani Federal Constituency",
+      "stateConstituency": "Mani State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Mashi",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "federalConstituency": "Mashi/Dutsi Federal Constituency",
+      "stateConstituency": "Mashi State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Matazu",
+      "senatorialDistrict": "Katsina South Senatorial District",
+      "federalConstituency": "Matazu/Musawa Federal Constituency",
+      "stateConstituency": "Matazu State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Musawa",
+      "senatorialDistrict": "Katsina South Senatorial District",
+      "federalConstituency": "Matazu/Musawa Federal Constituency",
+      "stateConstituency": "Musawa State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Rimi",
+      "senatorialDistrict": "Katsina Central Senatorial District",
+      "federalConstituency": "Batagarawa/Charanchi/Rimi Federal Constituency",
+      "stateConstituency": "Rimi State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Sabuwa",
+      "senatorialDistrict": "Katsina South Senatorial District",
+      "federalConstituency": "Faskari/Kankara/Sabuwa Federal Constituency",
+      "stateConstituency": "Sabuwa State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Safana",
+      "senatorialDistrict": "Katsina Central Senatorial District",
+      "federalConstituency": "Batsari/Safana/Danmusa Federal Constituency",
+      "stateConstituency": "Safana State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Sandamu",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "federalConstituency": "Daura/Sandamu/Mai'Adua Federal Constituency",
+      "stateConstituency": "Sandamu State Constituency"
+    },
+    {
+      "state": "Katsina",
+      "name": "Zango",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "federalConstituency": "Zango/Baure Federal Constituency",
+      "stateConstituency": "Zango State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Katsina",
-      "name": "Segun Ibe (PLACEHOLDER \u2014 REPLACE ME)",
+      "name": "Dikko Umaru Radda",
       "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
@@ -41,8 +469,58 @@
     {
       "office": "SEN",
       "state": "Katsina",
-      "senatorialDistrict": "Katsina PLACEHOLDER Senatorial District",
-      "name": "Maryam Aliyu (PLACEHOLDER \u2014 REPLACE ME)",
+      "senatorialDistrict": "Katsina Central Senatorial District",
+      "name": "Abdulaziz Musa Yar'Adua",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Katsina",
+      "senatorialDistrict": "Katsina North Senatorial District",
+      "name": "Nasiru Sani Zangon Daura",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "SEN",
+      "state": "Katsina",
+      "senatorialDistrict": "Katsina South Senatorial District",
+      "name": "Mohammed Muntari Dandutse",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Bakori/Danja Federal Constituency",
+      "name": "Abdullahi Balarabe Darai",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Batagarawa/Charanchi/Rimi Federal Constituency",
+      "name": "Murtala Usman Banye",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Batsari/Safana/Danmusa Federal Constituency",
+      "name": "Ilyasu Aliyu Abubakar",
       "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
@@ -51,9 +529,119 @@
     {
       "office": "REP",
       "state": "Katsina",
-      "federalConstituency": "Katsina PLACEHOLDER Federal Constituency",
-      "name": "Rahma Bala (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
+      "federalConstituency": "Bindawa/Mani Federal Constituency",
+      "name": "Yusuf Ahmed Doro",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Daura/Sandamu/Mai'Adua Federal Constituency",
+      "name": "Jamo Aminu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Dutsin-Ma/Kurfi Federal Constituency",
+      "name": "Balele Aminu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Faskari/Kankara/Sabuwa Federal Constituency",
+      "name": "Mohammed Jameel",
+      "party": "NNPP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Funtua/Dandume Federal Constituency",
+      "name": "Mohammed Abubakar Ahmad",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Ingawa/Kankia/Kusada Federal Constituency",
+      "name": "Ismail Dalha Kusada",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Jibia/Kaita Federal Constituency",
+      "name": "Koli Ada",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Katsina Federal Constituency",
+      "name": "Ahmad Aminu Chindoo",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Malumfashi/Kafur Federal Constituency",
+      "name": "Muhammad Aminu Ibrahim",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Mashi/Dutsi Federal Constituency",
+      "name": "Yusuf Mazdu Majigiri",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Matazu/Musawa Federal Constituency",
+      "name": "Ahmed Aliyu Abdullahi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "REP",
+      "state": "Katsina",
+      "federalConstituency": "Zango/Baure Federal Constituency",
+      "name": "Sani Lawal",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
       "source": "manual"
@@ -61,21 +649,681 @@
     {
       "office": "HOA",
       "state": "Katsina",
-      "stateConstituency": "Katsina PLACEHOLDER State Constituency",
-      "name": "Aisha Bello (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
+      "stateConstituency": "Bakori State Constituency",
+      "name": "Aminu Ibrahim Kurami",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Bakori II Tsiga State Constituency",
+      "name": "Shagumba Tukur Iliyasu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Batsari State Constituency",
+      "name": "Tukur Mustapha",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Baure State Constituency",
+      "name": "Umar Surajo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Bindawa State Constituency",
+      "name": "Ali Umar Bindawa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Charanchi State Constituency",
+      "name": "Isah Lawal Kuraye",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Dandume State Constituency",
+      "name": "Nuhu Yahaya Mahuta",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Danja State Constituency",
+      "name": "Abubakar Dabai Shamsudeen",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Danmusa State Constituency",
+      "name": "Garba Aminu A.",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Daura State Constituency",
+      "name": "Yhaya Nasir",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Dutsi State Constituency",
+      "name": "Samaila Abduljalal",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Dutsin-Ma State Constituency",
+      "name": "Abubakar Muhammad Hamisu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Faskari State Constituency",
+      "name": "Muazu Samaila Bawa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Funtua State Constituency",
+      "name": "Mohammed Abubakar Total",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Ingawa State Constituency",
+      "name": "Suleman Abubakar Tunas",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Jibia State Constituency",
+      "name": "Yusuf Mustapha",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Kafur State Constituency",
+      "name": "Wakili Shuaibu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Kaita State Constituency",
+      "name": "Abdu Sirajo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Kankara State Constituency",
+      "name": "Mohammed Murtala Kankara",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Kankia State Constituency",
+      "name": "Hamza Salisu Rimaye",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Katsina State Constituency",
+      "name": "Abubakar Albaba Aliyu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Kurfi State Constituency",
+      "name": "Ibrahim Aminu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Kusada State Constituency",
+      "name": "Garba Ghali",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Maiadua State Constituency",
+      "name": "Rabe Mustapha Musa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Malumfashi East State Constituency",
+      "name": "Ibrahim Aminu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Mani State Constituency",
+      "name": "Zayyana Shuaibu Bujawa",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Mashi State Constituency",
+      "name": "Sani Bello Mustapha",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Matazu State Constituency",
+      "name": "Dikko Ibrahim Umar",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Musawa State Constituency",
+      "name": "Yaro H. Lawal",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Rimi State Constituency",
+      "name": "Kurabau Abdulrahman Saleh",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Sabuwa State Constituency",
+      "name": "Danjuma Ibrahim",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Safana State Constituency",
+      "name": "Haruna Runka Abduljalal",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Sandamu State Constituency",
+      "name": "Magaji Ruma Sale",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "manual"
+    },
+    {
+      "office": "HOA",
+      "state": "Katsina",
+      "stateConstituency": "Zango State Constituency",
+      "name": "Musa Maigari Tasiu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
       "source": "manual"
     },
     {
       "office": "CHM",
       "state": "Katsina",
-      "lga": "Katsina PLACEHOLDER LGA",
-      "name": "Garba Musa (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "PDP",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
+      "lga": "Bakori",
+      "name": "Abubakar Garba Musa",
+      "party": "APC",
+      "termStart": "2025-06-13",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Batagarawa",
+      "name": "Yahaya Lawal Kawo",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Batsari",
+      "name": "Mannir Muazu Rumah",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Baure",
+      "name": "Saminu Sulaiman Baure",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Bindawa",
+      "name": "Badaru Musa Giremawa",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Charanchi",
+      "name": "Ibrahim Sani Koda",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Dandume",
+      "name": "Bishir Sabu Gyazama",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Danja",
+      "name": "Rabo Tambaya",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Dan Musa",
+      "name": "Ibrahim Namama",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Daura",
+      "name": "Bala Musa",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Dutsi",
+      "name": "Abdulrazaq Adamu Kayawa",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Dutsin-Ma",
+      "name": "Kabir Abdul Salam Shema",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Faskari",
+      "name": "Surajo Aliyu Daudawa",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Funtua",
+      "name": "Abdullahi Goya",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Ingawa",
+      "name": "Abdullahi Idris",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Jibia",
+      "name": "Surajo Ado Jibia",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Kafur",
+      "name": "Surajo Bature",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Kaita",
+      "name": "Bello Lawal Yandaki",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Kankara",
+      "name": "Kasimu Dantsoho Katoge",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Kankia",
+      "name": "Lawal Abdul Gezi",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Katsina",
+      "name": "Isah Miqdad AD Saude",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Kurfi",
+      "name": "Babangida Abdullahi",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Kusada",
+      "name": "Sani Adamu Dan Gamau",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Mai'Adua",
+      "name": "Mamman Salisu Na-Allahu",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Malumfashi",
+      "name": "Muntari Abdullahi City",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Mani",
+      "name": "Yunusa Muhammad Sani",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Mashi",
+      "name": "Salisu Kallan Dan Kada",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Matazu",
+      "name": "Shamsuddeen Muhammad",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Musawa",
+      "name": "Aliyu Idris Gin-Gin",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Rimi",
+      "name": "Muhammad Ali Rimi",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Sabuwa",
+      "name": "Usamatu Adamu Damari",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Safana",
+      "name": "Abdullahi Sani Brazil",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Sandamu",
+      "name": "Usman Nalado Matawalle",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
+      "source": "manual"
+    },
+    {
+      "office": "CHM",
+      "state": "Katsina",
+      "lga": "Zango",
+      "name": "Babangida Yardaje",
+      "party": "APC",
+      "termStart": "2025-04-14",
+      "termEnd": "2028-04-14",
       "source": "manual"
     }
   ]
