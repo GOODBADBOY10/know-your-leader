@@ -1,7 +1,6 @@
 {
   "_status": "complete",
   "_state": "Plateau",
-
   "senatorialDistricts": [
     {
       "state": "Plateau",
@@ -16,7 +15,6 @@
       "name": "Plateau South Senatorial District"
     }
   ],
-
   "federalConstituencies": [
     {
       "state": "Plateau",
@@ -51,7 +49,6 @@
       "name": "Wase Federal Constituency"
     }
   ],
-
   "stateConstituencies": [
     {
       "state": "Plateau",
@@ -150,7 +147,6 @@
       "name": "Pankshin Central State Constituency"
     }
   ],
-
   "lgas": [
     {
       "state": "Plateau",
@@ -272,7 +268,6 @@
       "stateConstituency": "Wase State Constituency"
     }
   ],
-
   "officeholders": [
     {
       "office": "GOV",
@@ -301,7 +296,7 @@
       "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-     "source": "Adewale Samuel"
+      "source": "Adewale Samuel"
     },
     {
       "office": "SEN",
@@ -383,7 +378,7 @@
       "termEnd": "2027-06-13",
       "source": "Adewale Samuel"
     },
-    { 
+    {
       "office": "REP",
       "state": "Plateau",
       "federalConstituency": "Wase Federal Constituency",
@@ -394,184 +389,174 @@
       "source": "Adewale Samuel"
     },
     {
-    "office": "GOV",
-    "state": "Plateau",
-    "name": "Caleb Mutfwang",
-    "party": "PDP",
-    "termStart": "2023-05-29",
-    "termEnd": "2027-05-29",
-    "source": "Adewale Samuel"
-  },
-
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Barkin Ladi",
-    "name": "Pwajok Stephen Gyang",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Bassa",
-    "name": "Joshua Sunday Riti",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Bokkos",
-    "name": "Amalau Samuel Amalau",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Jos East",
-    "name": "Markus Nyam",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Jos North",
-    "name": "John K. Chris",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Jos South",
-    "name": "Silas Patrick Dung",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Kanam",
-    "name": "Salihu Musa",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Kanke",
-    "name": "Lapching Ezekiel Golime",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Langtang North",
-    "name": "Pirfa Jingfa Tyem",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Langtang South",
-    "name": "Nanfa Nbin",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Mangu",
-    "name": "Emmanuel Mwolpun",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Mikang",
-    "name": "Soepding Benard Alhali",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Pankshin",
-    "name": "Felix Amos Gonung",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Qua'an Pan",
-    "name": "Christopher Audu Manshep",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Riyom",
-    "name": "Bature Sati",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Shendam",
-    "name": "Nicholas Kemi Nshe",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  },
-  {
-    "office": "CHM",
-    "state": "Plateau",
-    "lga": "Wase",
-    "name": "Hamisu Anani Mohammed",
-    "party": "PDP",
-    "termStart": "2024-10-11",
-    "termEnd": "2026-10-11",
-    "source": "Adewale Samuel"
-  }
-]
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Barkin Ladi",
+      "name": "Pwajok Stephen Gyang",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Bassa",
+      "name": "Joshua Sunday Riti",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Bokkos",
+      "name": "Amalau Samuel Amalau",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Jos East",
+      "name": "Markus Nyam",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Jos North",
+      "name": "John K. Chris",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Jos South",
+      "name": "Silas Patrick Dung",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Kanam",
+      "name": "Salihu Musa",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Kanke",
+      "name": "Lapching Ezekiel Golime",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Langtang North",
+      "name": "Pirfa Jingfa Tyem",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Langtang South",
+      "name": "Nanfa Nbin",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Mangu",
+      "name": "Emmanuel Mwolpun",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Mikang",
+      "name": "Soepding Benard Alhali",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Pankshin",
+      "name": "Felix Amos Gonung",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Qua'an Pan",
+      "name": "Christopher Audu Manshep",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Riyom",
+      "name": "Bature Sati",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Shendam",
+      "name": "Nicholas Kemi Nshe",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    },
+    {
+      "office": "CHM",
+      "state": "Plateau",
+      "lga": "Wase",
+      "name": "Hamisu Anani Mohammed",
+      "party": "PDP",
+      "termStart": "2024-10-11",
+      "termEnd": "2026-10-11",
+      "source": "Adewale Samuel"
+    }
+  ]
 }
