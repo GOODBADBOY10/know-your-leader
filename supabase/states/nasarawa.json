@@ -1,82 +1,478 @@
 {
-  "_status": "placeholder",
+  "_status": "verified",
   "_state": "Nasarawa",
   "senatorialDistricts": [
     {
       "state": "Nasarawa",
-      "name": "Nasarawa PLACEHOLDER Senatorial District"
+      "name": "Nasarawa North",
+      "lgas": [
+        "Akwanga",
+        "Nasarawa Eggon",
+        "Wamba"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Nasarawa South",
+      "lgas": [
+        "Awe",
+        "Doma",
+        "Keana",
+        "Lafia",
+        "Obi"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Nasarawa West",
+      "lgas": [
+        "Karu",
+        "Keffi",
+        "Kokona",
+        "Nasarawa",
+        "Toto"
+      ]
     }
   ],
   "federalConstituencies": [
     {
       "state": "Nasarawa",
-      "name": "Nasarawa PLACEHOLDER Federal Constituency"
+      "name": "Akwanga/Nasarawa Eggon/Wamba",
+      "senatorialDistrict": "Nasarawa North",
+      "lgas": [
+        "Akwanga",
+        "Nasarawa Eggon",
+        "Wamba"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Awe/Doma/Keana",
+      "senatorialDistrict": "Nasarawa South",
+      "lgas": [
+        "Awe",
+        "Doma",
+        "Keana"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Keffi/Karu/Kokona",
+      "senatorialDistrict": "Nasarawa West",
+      "lgas": [
+        "Keffi",
+        "Karu",
+        "Kokona"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Lafia/Obi",
+      "senatorialDistrict": "Nasarawa South",
+      "lgas": [
+        "Lafia",
+        "Obi"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Nasarawa/Toto",
+      "senatorialDistrict": "Nasarawa West",
+      "lgas": [
+        "Nasarawa",
+        "Toto"
+      ]
     }
   ],
   "stateConstituencies": [
     {
       "state": "Nasarawa",
-      "name": "Nasarawa PLACEHOLDER State Constituency"
+      "name": "Akwanga North",
+      "lga": "Akwanga",
+      "senatorialDistrict": "Nasarawa North",
+      "federalConstituency": "Akwanga/Nasarawa Eggon/Wamba"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Akwanga South",
+      "lga": "Akwanga",
+      "senatorialDistrict": "Nasarawa North",
+      "federalConstituency": "Akwanga/Nasarawa Eggon/Wamba"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Nasarawa Eggon East",
+      "lga": "Nasarawa Eggon",
+      "senatorialDistrict": "Nasarawa North",
+      "federalConstituency": "Akwanga/Nasarawa Eggon/Wamba"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Nasarawa Eggon West",
+      "lga": "Nasarawa Eggon",
+      "senatorialDistrict": "Nasarawa North",
+      "federalConstituency": "Akwanga/Nasarawa Eggon/Wamba"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Wamba",
+      "lga": "Wamba",
+      "senatorialDistrict": "Nasarawa North",
+      "federalConstituency": "Akwanga/Nasarawa Eggon/Wamba"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Awe North",
+      "lga": "Awe",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Awe/Doma/Keana"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Awe South",
+      "lga": "Awe",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Awe/Doma/Keana"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Doma North",
+      "lga": "Doma",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Awe/Doma/Keana"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Doma South",
+      "lga": "Doma",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Awe/Doma/Keana"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Keana",
+      "lga": "Keana",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Awe/Doma/Keana"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Lafia North",
+      "lga": "Lafia",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Lafia/Obi"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Lafia Central",
+      "lga": "Lafia",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Lafia/Obi"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Obi I",
+      "lga": "Obi",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Lafia/Obi"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Obi II",
+      "lga": "Obi",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Lafia/Obi"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Karu/Gitata",
+      "lga": "Karu",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Keffi/Karu/Kokona"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Uke/Karshi",
+      "lga": "Karu",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Keffi/Karu/Kokona"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Keffi East",
+      "lga": "Keffi",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Keffi/Karu/Kokona"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Keffi West",
+      "lga": "Keffi",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Keffi/Karu/Kokona"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Kokona East",
+      "lga": "Kokona",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Keffi/Karu/Kokona"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Kokona West",
+      "lga": "Kokona",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Keffi/Karu/Kokona"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Nasarawa Central",
+      "lga": "Nasarawa",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Nasarawa/Toto"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Udege/Loko",
+      "lga": "Nasarawa",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Nasarawa/Toto"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Toto/Gadabuke",
+      "lga": "Toto",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Nasarawa/Toto"
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Umaisha/Ugya",
+      "lga": "Toto",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Nasarawa/Toto"
     }
   ],
   "lgas": [
     {
       "state": "Nasarawa",
-      "name": "Nasarawa PLACEHOLDER LGA",
-      "senatorialDistrict": "Nasarawa PLACEHOLDER Senatorial District",
-      "federalConstituency": "Nasarawa PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Nasarawa PLACEHOLDER State Constituency"
+      "name": "Akwanga",
+      "senatorialDistrict": "Nasarawa North",
+      "federalConstituency": "Akwanga/Nasarawa Eggon/Wamba",
+      "stateConstituencies": [
+        "Akwanga North",
+        "Akwanga South"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Awe",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Awe/Doma/Keana",
+      "stateConstituencies": [
+        "Awe North",
+        "Awe South"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Doma",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Awe/Doma/Keana",
+      "stateConstituencies": [
+        "Doma North",
+        "Doma South"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Karu",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Keffi/Karu/Kokona",
+      "stateConstituencies": [
+        "Karu/Gitata",
+        "Uke/Karshi"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Keana",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Awe/Doma/Keana",
+      "stateConstituencies": [
+        "Keana"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Keffi",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Keffi/Karu/Kokona",
+      "stateConstituencies": [
+        "Keffi East",
+        "Keffi West"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Kokona",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Keffi/Karu/Kokona",
+      "stateConstituencies": [
+        "Kokona East",
+        "Kokona West"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Lafia",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Lafia/Obi",
+      "stateConstituencies": [
+        "Lafia North",
+        "Lafia Central"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Nasarawa",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Nasarawa/Toto",
+      "stateConstituencies": [
+        "Nasarawa Central",
+        "Udege/Loko"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Nasarawa Eggon",
+      "senatorialDistrict": "Nasarawa North",
+      "federalConstituency": "Akwanga/Nasarawa Eggon/Wamba",
+      "stateConstituencies": [
+        "Nasarawa Eggon East",
+        "Nasarawa Eggon West"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Obi",
+      "senatorialDistrict": "Nasarawa South",
+      "federalConstituency": "Lafia/Obi",
+      "stateConstituencies": [
+        "Obi I",
+        "Obi II"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Toto",
+      "senatorialDistrict": "Nasarawa West",
+      "federalConstituency": "Nasarawa/Toto",
+      "stateConstituencies": [
+        "Toto/Gadabuke",
+        "Umaisha/Ugya"
+      ]
+    },
+    {
+      "state": "Nasarawa",
+      "name": "Wamba",
+      "senatorialDistrict": "Nasarawa North",
+      "federalConstituency": "Akwanga/Nasarawa Eggon/Wamba",
+      "stateConstituencies": [
+        "Wamba"
+      ]
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Nasarawa",
-      "name": "Halima Suleiman (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "ADC",
+      "name": "Abdullahi Audu Sule",
+      "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "manual"
+      "source": "verified"
     },
     {
       "office": "SEN",
       "state": "Nasarawa",
-      "senatorialDistrict": "Nasarawa PLACEHOLDER Senatorial District",
-      "name": "Aisha Okoro (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
+      "senatorialDistrict": "Nasarawa North",
+      "name": "Danladi Halilu Envulu-Anza",
+      "party": "APC",
+      "termStart": "2026-06-24",
+      "termEnd": "2027-06-13",
+      "source": "2026 Nasarawa North senatorial by-election / INEC certificate and swearing-in"
+    },
+    {
+      "office": "SEN",
+      "state": "Nasarawa",
+      "senatorialDistrict": "Nasarawa South",
+      "name": "Mohammed Ogoshi Onawo",
+      "party": "PDP",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "verified"
+    },
+    {
+      "office": "SEN",
+      "state": "Nasarawa",
+      "senatorialDistrict": "Nasarawa West",
+      "name": "Ahmed Aliyu Wadada",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified; party updated following 2026 defection"
     },
     {
       "office": "REP",
       "state": "Nasarawa",
-      "federalConstituency": "Nasarawa PLACEHOLDER Federal Constituency",
-      "name": "Emeka Ojo (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
+      "federalConstituency": "Akwanga/Nasarawa Eggon/Wamba",
+      "name": "Jeremiah Umaru",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "verified"
     },
     {
-      "office": "HOA",
+      "office": "REP",
       "state": "Nasarawa",
-      "stateConstituency": "Nasarawa PLACEHOLDER State Constituency",
-      "name": "Bashir Adebayo (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "PDP",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "federalConstituency": "Awe/Doma/Keana",
+      "name": "Abubakar Hassan Nalaraba",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
     },
     {
-      "office": "CHM",
+      "office": "REP",
       "state": "Nasarawa",
-      "lga": "Nasarawa PLACEHOLDER LGA",
-      "name": "Folake Bello (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "federalConstituency": "Keffi/Karu/Kokona",
+      "name": "Jonathan Gaza Gbefwi",
+      "party": "SDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Nasarawa",
+      "federalConstituency": "Lafia/Obi",
+      "name": "Abubakar Sarki Dahiru",
+      "party": "SDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
+    },
+    {
+      "office": "REP",
+      "state": "Nasarawa",
+      "federalConstituency": "Nasarawa/Toto",
+      "name": "Abdulmumin Mohammed Ari",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "verified"
     }
   ]
 }
