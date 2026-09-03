@@ -4,79 +4,706 @@
   "senatorialDistricts": [
     {
       "state": "Ebonyi",
-      "name": "Ebonyi PLACEHOLDER Senatorial District"
+      "name": "Ebonyi North"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Ebonyi Central"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Ebonyi Sounth"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Ebonyi",
-      "name": "Ebonyi PLACEHOLDER Federal Constituency"
+      "name": "Abakaliki/Izzi"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Afikpo North/Afikpo South (Edda)"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Ebonyi/Ohaukwu"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Ezza North/Ishielu"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Ezza South/Ikwo (Ikwo)/Ezza South Federal Constituency"
+    },
+    { "state": "Ebonyi",
+      "name": "Ivo-Ohaozara/Onicha (Ohanivo)"
     }
+
   ],
   "stateConstituencies": [
     {
       "state": "Ebonyi",
-      "name": "Ebonyi PLACEHOLDER State Constituency"
-    }
+      "name": "Abakaliki North State Constituency"
+      },
+      {
+        "state": "Ebonyi",
+        "name": "Abakaliki South State Constituency"
+        },
+        {
+          "state": "Ebonyi",
+          "name": "Afikpo North East State Constituency"
+        },
+        {
+          "state": "Ebonyi",
+          "name": "Afikpo North West State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name": "Afikpo South East State Constituency"
+        },
+        {
+          "state": "Ebonyi",
+          "name": "Afikpo South West State Constituency"
+        },
+        {
+          "state": "Ebonyi",
+          "name": "Ebonyi North East State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name": "Ebonyi North West State Constituency"
+        },
+        {
+          "state": "Ebonyi",
+          "name" :" Ezza South State Constituency"
+        },
+        {
+          "state": "Ebonyi",
+          "name" :"Ezza North West State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name":"North East State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name":"Ikwo North State Constituency "
+        },
+        {
+          "state":"Ebonyi",
+          "name":" Ikwo South State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name":"Ishielu North State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name":"Ivo State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name":"Izzi East State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name": " Izzi West State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name":"Ohaozara East State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name":"Ohaozara West State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name":"Onicha East State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name":"Onicha West State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name":"Ohaukwu North State Constituency"
+        },
+        {
+          "state":"Ebonyi",
+          "name":"Ohaukwu South State Constituency"
+        }
   ],
   "lgas": [
     {
       "state": "Ebonyi",
-      "name": "Ebonyi PLACEHOLDER LGA",
-      "senatorialDistrict": "Ebonyi PLACEHOLDER Senatorial District",
-      "federalConstituency": "Ebonyi PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Ebonyi PLACEHOLDER State Constituency"
+      "name": "Abakaliki LGA",
+      "senatorialDistrict": "Ebonyi North Senatorial District",
+      "federalConstituency": "Abakaliki/Izzi Federal Constituency",
+      "stateConstituency": "Abakaliki North, Abakaliki South State Constituency"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Izzi LGA",
+      "senatorialDistrict": "Ebonyi North Senatorial District",
+      "federalConstituency": "Abakaliki/Izzi Federal Constituency",
+      "stateConstituency": "Izzi East, Izzi West State Constituency"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Ebonyi LGA",
+      "senatorialDistrict": "Ebonyi North Senatorial District",
+      "federalConstituency": "Ebonyi/Ohaukwu Federal Constituency",
+      "stateConstituency": "Ebonyi North, Ebonyi South State Constituency"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Ohaukwu LGA",
+      "senatorialDistrict": "Ebonyi North Senatorial District ",
+      "federalConstituency": "Ebonyi/Ohaukwu Federal Constituency",
+      "stateConstituency": "Ohaukwu North, Ohaukwu South State Constituency"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Ezza North LGA",
+      "senatorialDistrict": "Ebonyi Central Senatorial District",
+      "federalConstituency": "Ezza North/Ishielu Federal Constituency",
+      "stateConstituency": "Ezza North East, Ezza North West South State Constituency"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Ishielu LGA",
+      "senatorialDistrict": "Ebonyi Central Senatorial District",
+      "federalConstituency": "Ezza North/Ishielu Federal Constituency",
+      "stateConstituency": "Ishielu North, Ishielu South, Ezza North West South State Constituency"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Ezza South LGA",
+      "senatorialDistrict": "Ebonyi Central Senatorial District",
+      "federalConstituency": "Ezza South/Ikwo Federal Constituency",
+      "stateConstituency": "Ezza South State Constituency"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Ikwo LGA",
+      "senatorialDistrict": "Ebonyi South Senatorial District",
+      "federalConstituency": "Ezza South/Ikwo Federal Constituency",
+      "stateConstituency": "Ikwo North, Ikwo South State Constituency"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Afikpo North LGA",
+      "senatorialDistrict": "Ebonyi South Senatorial District",
+      "federalConstituency": "Afikpo North/Afikpo South Federal Constituency",
+      "stateConstituency": "Afikpo North East, Afikpo North West State Constituency"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Afikpo South LGA",
+      "senatorialDistrict": "Ebonyi South Senatorial District",
+      "federalConstituency": "Afikpo North/Afikpo South Federal Constituency",
+      "stateConstituency": "Afikpo South East, Afikpo South West State Constituency"
+    },
+    {
+       "state": "Ebonyi",
+      "name": "Ivo LGA",
+      "senatorialDistrict": "Ebonyi South Senatorial District",
+      "federalConstituency": "Ivo-Ohaozara/Onicha Federal Constituency",
+      "stateConstituency": "Ivo State Constituency"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Ohaozara LGA",
+      "senatorialDistrict": "Ebonyi South Senatorial District",
+      "federalConstituency": "Ivo-Ohaozara/Onicha Federal Constituency",
+      "stateConstituency": "Ohaozara East, Ohaozara West State Constituency"
+    },
+    {
+      "state": "Ebonyi",
+      "name": "Onicha LGA",
+      "senatorialDistrict": "Ebonyi South Senatorial District",
+      "federalConstituency": "Ivo-Ohaozara/Onicha Federal Constituency",
+      "stateConstituency": "Onicha East, Onicha West State Constituency"
     }
+    
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Ebonyi",
-      "name": "Gloria Lawal (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
+      "name": "Rt. Hon. Francis Ogbonna Nwifuru",
+      "party": "APC",
       "termStart": "2023-05-29",
       "termEnd": "2027-05-29",
-      "source": "manual"
+      "source": "Better Future Systems"
     },
     {
       "office": "SEN",
       "state": "Ebonyi",
-      "senatorialDistrict": "Ebonyi PLACEHOLDER Senatorial District",
-      "name": "Halima Yusuf (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
+      "senatorialDistrict": "Ebonyi North",
+      "name": "Peter Onyeka Nwebonyi",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "web"
+    },
+    {
+      "office": "SEN",
+      "state": "Ebonyi",
+      "senatorialDistrict": "Ebonyi Central",
+      "name": "Emeka Kenneth Eze",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "web"
+    },
+    {
+      "office": "SEN",
+      "state": "Ebonyi",
+      "senatorialDistrict": "Ebonyi South",
+      "name": "Anthony Okorie Ani",
+      "party": "APC",
+      "termStart": "2024-11-01",
+      "termEnd": "2027-06-13",
+      "source": "web"
     },
     {
       "office": "REP",
       "state": "Ebonyi",
-      "federalConstituency": "Ebonyi PLACEHOLDER Federal Constituency",
-      "name": "Umar Fashola (PLACEHOLDER \u2014 REPLACE ME)",
+      "federalConstituency": "Abakaliki/Izzi",
+      "name": "Emmanuel Uguru",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "web"
+    },
+    {
+      "office": "REP",
+      "state": "Ebonyi",
+      "federalConstituency": "Ebonyi/Ohaukwu",
+      "name": "Nwachukwu Eze Eze",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "web"
+    },
+    {
+      "office": "REP",
+      "state": "Ebonyi",
+      "federalConstituency": "Ezza North/Ishielu",
+      "name": "Joseph Nwobasi",
       "party": "APGA",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "web"
+    },
+    {
+      "office": "REP",
+      "state": "Ebonyi",
+      "federalConstituency": "Ezza South/Ikwo",
+      "name": "Chinedu Nweke Ogah",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "web"
+    },
+    {
+      "office": "REP",
+      "state": "Ebonyi",
+      "federalConstituency": "Ohaozara/Onicha/Ivo",
+      "name": "Kama Nkemkanma Osi",
+      "party": "LP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "web"
+    },
+    {
+      "office": "REP",
+      "state": "Ebonyi",
+      "federalConstituency": "Afikpo North/Afikpo South",
+      "name": "Iduma Enwo Igariwey",
+      "party": "PDP",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "web"
     },
     {
       "office": "HOA",
       "state": "Ebonyi",
-      "stateConstituency": "Ebonyi PLACEHOLDER State Constituency",
-      "name": "Adewale Nnamdi (PLACEHOLDER \u2014 REPLACE ME)",
+      "stateConstituency": "Abakaliki North",
+      "name": "Nwoke Victor Chidi",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Abakaliki South",
+      "name": "Joseph Ununu Ogodo",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web",
+      "notes": "Deputy Leader of the House"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Afikpo North East",
+      "name": "Oluchukwu Ukie Ezeali",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Afikpo North West",
+      "name": "Ikoro Kingsley Ogbonna",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web",
+      "notes": "Leader of the House"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Afikpo South East",
+      "name": "Stephen Orji Igwe",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Afikpo South West",
+      "name": "Nkemka Okoro Onuma",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web",
+      "notes": "Chief Whip"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ebonyi North East",
+      "name": "Nwogbaga Chinyere Juliet",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ebonyi North West",
+      "name": "Nwodo Aloysius Nwodo",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ezza North East",
+      "name": "Ken Kelvin Okeh",
       "party": "APGA",
       "termStart": "2023-06-01",
       "termEnd": "2027-06-01",
-      "source": "manual"
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ezza North West",
+      "name": "Nwafor Christian",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ezza South",
+      "name": "Friday Ogbuewu",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ikwo North",
+      "name": "Ifeanyi Nwakpu",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ikwo South",
+      "name": "Moses Odunwa Ije",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web",
+      "notes": "Speaker"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ishielu North",
+      "name": "Henry Sunday Eze",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ishielu South",
+      "name": "Chukwu Arinze Lucas",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web",
+      "notes": "Deputy Chief Whip"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ivo",
+      "name": "Ogbadu Ogbunne Onyebuchi",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Izzi East",
+      "name": "Mbam Goodluck Obinna",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Izzi West",
+      "name": "Abiri Godwin Abiri",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ohaozara East",
+      "name": "Igu Chikezie Benson",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ohaozara West",
+      "name": "Onu Ukpai",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ohaukwu North",
+      "name": "Esther Agwu",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Ohaukwu South",
+      "name": "Chinedu Onah Ogba",
+      "party": "APC",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web",
+      "notes": "Deputy Speaker"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Onicha East",
+      "name": "Ogba Celestine Ifeanyi",
+      "party": "LP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
+    },
+    {
+      "office": "HOA",
+      "state": "Ebonyi",
+      "stateConstituency": "Onicha West",
+      "name": "Emezie Charles",
+      "party": "PDP",
+      "termStart": "2023-06-01",
+      "termEnd": "2027-06-01",
+      "source": "web"
     },
     {
       "office": "CHM",
       "state": "Ebonyi",
-      "lga": "Ebonyi PLACEHOLDER LGA",
-      "name": "Obinna Aliyu (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "PDP",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "lga": "Abakaliki",
+      "name": "Chidiebere Alo",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
+    },
+    {
+      "office": "CHM",
+      "state": "Ebonyi",
+      "lga": "Ebonyi",
+      "name": "Chibueze Odigwe",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
+    },
+    {
+      "office": "CHM",
+      "state": "Ebonyi",
+      "lga": "Izzi",
+      "name": "Helen Aduga",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
+    },
+    {
+      "office": "CHM",
+      "state": "Ebonyi",
+      "lga": "Ohaukwu",
+      "name": "Paul Ituma",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
+    },
+    {
+      "office": "CHM",
+      "state": "Ebonyi",
+      "lga": "Ezza North",
+      "name": "Friday Nwuhuo",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
+    },
+    {
+      "office": "CHM",
+      "state": "Ebonyi",
+      "lga": "Ezza South",
+      "name": "Chinedu Mkpuma",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
+    },
+    {
+      "office": "CHM",
+      "state": "Ebonyi",
+      "lga": "Ikwo",
+      "name": "Chidi Nwode",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
+    },
+    {
+      "office": "CHM",
+      "state": "Ebonyi",
+      "lga": "Ishielu",
+      "name": "Peace Agwu",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
+    },
+    {
+      "office": "CHM",
+      "state": "Ebonyi",
+      "lga": "Afikpo North",
+      "name": "Timothy Nwachi",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
+    },
+    {
+      "office": "CHM",
+      "state": "Ebonyi",
+      "lga": "Afikpo South (Edda)",
+      "name": "Simeon Onuoha",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
+    },
+    {
+      "office": "CHM",
+      "state": "Ebonyi",
+      "lga": "Ivo",
+      "name": "Michael Kalu Anyim",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
+    },
+    {
+      "office": "CHM",
+      "state": "Ebonyi",
+      "lga": "Ohaozara",
+      "name": "Osbourne Umahi",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
+    },
+    {
+      "office": "CHM",
+      "state": "Ebonyi",
+      "lga": "Onicha",
+      "name": "Ikechukwu Ogbofia",
+      "party": "APC",
+      "termStart": "2026-08-23",
+      "termEnd": "2028-08-23",
+      "source": "web"
     }
   ]
 }
