@@ -4,79 +4,852 @@
   "senatorialDistricts": [
     {
       "state": "Ekiti",
-      "name": "Ekiti PLACEHOLDER Senatorial District"
+      "name": "Ekiti Central"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti North"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti South"
     }
   ],
   "federalConstituencies": [
     {
       "state": "Ekiti",
-      "name": "Ekiti PLACEHOLDER Federal Constituency"
+      "name": "Ado Ekiti/Irepodun/Ifelodun Federal Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ijero/Ekiti West/Efon Federal Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ikole/Oye Federal Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ido/Osi/Ilejemeje/Moba Federal Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti South West/Ikere/Ise/Orun Federal Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti East/Emure/Gbonyin Federal Constituency"
     }
   ],
   "stateConstituencies": [
     {
       "state": "Ekiti",
-      "name": "Ekiti PLACEHOLDER State Constituency"
+      "name": "Ado I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ado II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Efon I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti East I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti East II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti South West I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti South West II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti West I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti West II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Emure I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Gbonyin I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ido/Osi I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ido/Osi II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ijero State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ikere I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ikere II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ikole I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ikole II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ilejemeje State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Irepodun/Ifelodun I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Irepodun/Ifelodun II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ise/Orun State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Moba I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Moba II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Oye I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Oye II State Constituency"
     }
   ],
   "lgas": [
     {
       "state": "Ekiti",
-      "name": "Ekiti PLACEHOLDER LGA",
-      "senatorialDistrict": "Ekiti PLACEHOLDER Senatorial District",
-      "federalConstituency": "Ekiti PLACEHOLDER Federal Constituency",
-      "stateConstituency": "Ekiti PLACEHOLDER State Constituency"
+      "name": "Ado-Ekiti",
+      "senatorialDistrict": "Ekiti Central",
+      "federalConstituency": "Ado Ekiti/Irepodun/Ifelodun Federal Constituency",
+      "stateConstituency": "Ado I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ado-Ekiti",
+      "senatorialDistrict": "Ekiti Central",
+      "federalConstituency": "Ado Ekiti/Irepodun/Ifelodun Federal Constituency",
+      "stateConstituency": "Ado II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Efon",
+      "senatorialDistrict": "Ekiti Central",
+      "federalConstituency": "Ijero/Ekiti West/Efon Federal Constituency",
+      "stateConstituency": "Efon I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti East",
+      "senatorialDistrict": "Ekiti South",
+      "federalConstituency": "Ekiti East/Emure/Gbonyin Federal Constituency",
+      "stateConstituency": "Ekiti East I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti East",
+      "senatorialDistrict": "Ekiti South",
+      "federalConstituency": "Ekiti East/Emure/Gbonyin Federal Constituency",
+      "stateConstituency": "Ekiti East II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti South-West",
+      "senatorialDistrict": "Ekiti South",
+      "federalConstituency": "Ekiti South West/Ikere/Ise/Orun Federal Constituency",
+      "stateConstituency": "Ekiti South West I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti South-West",
+      "senatorialDistrict": "Ekiti South",
+      "federalConstituency": "Ekiti South West/Ikere/Ise/Orun Federal Constituency",
+      "stateConstituency": "Ekiti South West II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti West",
+      "senatorialDistrict": "Ekiti Central",
+      "federalConstituency": "Ijero/Ekiti West/Efon Federal Constituency",
+      "stateConstituency": "Ekiti West I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ekiti West",
+      "senatorialDistrict": "Ekiti Central",
+      "federalConstituency": "Ijero/Ekiti West/Efon Federal Constituency",
+      "stateConstituency": "Ekiti West II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Emure",
+      "senatorialDistrict": "Ekiti South",
+      "federalConstituency": "Ekiti East/Emure/Gbonyin Federal Constituency",
+      "stateConstituency": "Emure I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Aiyekire (Gbonyin)",
+      "senatorialDistrict": "Ekiti South",
+      "federalConstituency": "Ekiti East/Emure/Gbonyin Federal Constituency",
+      "stateConstituency": "Gbonyin I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ido-Osi",
+      "senatorialDistrict": "Ekiti North",
+      "federalConstituency": "Ido/Osi/Ilejemeje/Moba Federal Constituency",
+      "stateConstituency": "Ido/Osi I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ido-Osi",
+      "senatorialDistrict": "Ekiti North",
+      "federalConstituency": "Ido/Osi/Ilejemeje/Moba Federal Constituency",
+      "stateConstituency": "Ido/Osi II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ijero",
+      "senatorialDistrict": "Ekiti Central",
+      "federalConstituency": "Ijero/Ekiti West/Efon Federal Constituency",
+      "stateConstituency": "Ijero State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ikere",
+      "senatorialDistrict": "Ekiti South",
+      "federalConstituency": "Ekiti South West/Ikere/Ise/Orun Federal Constituency",
+      "stateConstituency": "Ikere I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ikere",
+      "senatorialDistrict": "Ekiti South",
+      "federalConstituency": "Ekiti South West/Ikere/Ise/Orun Federal Constituency",
+      "stateConstituency": "Ikere II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ikole",
+      "senatorialDistrict": "Ekiti North",
+      "federalConstituency": "Ikole/Oye Federal Constituency",
+      "stateConstituency": "Ikole I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ikole",
+      "senatorialDistrict": "Ekiti North",
+      "federalConstituency": "Ikole/Oye Federal Constituency",
+      "stateConstituency": "Ikole II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ilejemeje",
+      "senatorialDistrict": "Ekiti North",
+      "federalConstituency": "Ido/Osi/Ilejemeje/Moba Federal Constituency",
+      "stateConstituency": "Ilejemeje State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Irepodun/Ifelodun",
+      "senatorialDistrict": "Ekiti Central",
+      "federalConstituency": "Ado Ekiti/Irepodun/Ifelodun Federal Constituency",
+      "stateConstituency": "Irepodun/Ifelodun I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Irepodun/Ifelodun",
+      "senatorialDistrict": "Ekiti Central",
+      "federalConstituency": "Ado Ekiti/Irepodun/Ifelodun Federal Constituency",
+      "stateConstituency": "Irepodun/Ifelodun II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Ise/Orun",
+      "senatorialDistrict": "Ekiti South",
+      "federalConstituency": "Ekiti South West/Ikere/Ise/Orun Federal Constituency",
+      "stateConstituency": "Ise/Orun State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Moba",
+      "senatorialDistrict": "Ekiti North",
+      "federalConstituency": "Ido/Osi/Ilejemeje/Moba Federal Constituency",
+      "stateConstituency": "Moba I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Moba",
+      "senatorialDistrict": "Ekiti North",
+      "federalConstituency": "Ido/Osi/Ilejemeje/Moba Federal Constituency",
+      "stateConstituency": "Moba II State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Oye",
+      "senatorialDistrict": "Ekiti North",
+      "federalConstituency": "Ikole/Oye Federal Constituency",
+      "stateConstituency": "Oye I State Constituency"
+    },
+    {
+      "state": "Ekiti",
+      "name": "Oye",
+      "senatorialDistrict": "Ekiti North",
+      "federalConstituency": "Ikole/Oye Federal Constituency",
+      "stateConstituency": "Oye II State Constituency"
     }
   ],
   "officeholders": [
     {
       "office": "GOV",
       "state": "Ekiti",
-      "name": "Emeka Okafor (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
-      "termStart": "2023-05-29",
-      "termEnd": "2027-05-29",
-      "source": "manual"
+      "name": "Biodun Abayomi Oyebanji",
+      "party": "APC",
+      "termStart": "2022-10-16",
+      "termEnd": "2026-10-16",
+      "source": "Sarah"
     },
     {
       "office": "SEN",
       "state": "Ekiti",
-      "senatorialDistrict": "Ekiti PLACEHOLDER Senatorial District",
-      "name": "Adewale Danladi (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "LP",
+      "senatorialDistrict": "Ekiti Central",
+      "name": "Michael Opeyemi Bamidele",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "Sarah"
+    },
+    {
+      "office": "SEN",
+      "state": "Ekiti",
+      "senatorialDistrict": "Ekiti North",
+      "name": "Olusegun Cyril Oluwole Fasuyi",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Sarah"
+    },
+    {
+      "office": "SEN",
+      "state": "Ekiti",
+      "senatorialDistrict": "Ekiti South",
+      "name": "Adeyemi Raphael Adaramodu",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Sarah"
     },
     {
       "office": "REP",
       "state": "Ekiti",
-      "federalConstituency": "Ekiti PLACEHOLDER Federal Constituency",
-      "name": "Aliyu Yusuf (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "APGA",
+      "federalConstituency": "Ado Ekiti/Irepodun/Ifelodun Federal Constituency",
+      "name": "Olusola Steve Fatoba",
+      "party": "APC",
       "termStart": "2023-06-13",
       "termEnd": "2027-06-13",
-      "source": "manual"
+      "source": "Sarah"
+    },
+    {
+      "office": "REP",
+      "state": "Ekiti",
+      "federalConstituency": "Ijero/Ekiti West/Efon Federal Constituency",
+      "name": "Abiodun Francis Omoleye",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Sarah"
+    },
+    {
+      "office": "REP",
+      "state": "Ekiti",
+      "federalConstituency": "Ikole/Oye Federal Constituency",
+      "name": "Akintunde Rotimi Jr.",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Sarah"
+    },
+    {
+      "office": "REP",
+      "state": "Ekiti",
+      "federalConstituency": "Ido/Osi/Ilejemeje/Moba Federal Constituency",
+      "name": "Akinlayo Davidson Kolawole",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Sarah"
+    },
+    {
+      "office": "REP",
+      "state": "Ekiti",
+      "federalConstituency": "Ekiti South West/Ikere/Ise/Orun Federal Constituency",
+      "name": "Rufus Adeniyi Ojuawo",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Sarah"
+    },
+    {
+      "office": "REP",
+      "state": "Ekiti",
+      "federalConstituency": "Ekiti East/Emure/Gbonyin Federal Constituency",
+      "name": "Olufemi Richard Bamisile",
+      "party": "APC",
+      "termStart": "2023-06-13",
+      "termEnd": "2027-06-13",
+      "source": "Sarah"
     },
     {
       "office": "HOA",
       "state": "Ekiti",
-      "stateConstituency": "Ekiti PLACEHOLDER State Constituency",
-      "name": "Onyekachi Eze (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
-      "termStart": "2023-06-01",
-      "termEnd": "2027-06-01",
-      "source": "manual"
+      "stateConstituency": "Ikole II State Constituency",
+      "name": "Adeoye Stephen Aribasoye",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ado II State Constituency",
+      "name": "Bolaji Olagbaju",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ekiti South West II State Constituency",
+      "name": "Tolulope Michael Ige",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ido/Osi II State Constituency",
+      "name": "Ebenezer Oluwayomi Ayorinde",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Efon I State Constituency",
+      "name": "Bosede Yinka Olowookere",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Emure I State Constituency",
+      "name": "Maryam Bimbola Ogunlade",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Irepodun/Ifelodun II State Constituency",
+      "name": "Hakeem Jamiu Ayodeji",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ekiti West II State Constituency",
+      "name": "Johnson Bode-Adeoye Oyekola",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ado I State Constituency",
+      "name": "Ayodeji Adeyinka Adegbite",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Moba I State Constituency",
+      "name": "Abimbola Christiana Solanke",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Gbonyin I State Constituency",
+      "name": "Teju Princess Okuyiga",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ijero State Constituency",
+      "name": "Ademola Martins Ojo",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Irepodun/Ifelodun I State Constituency",
+      "name": "Femi Olanrewaju Akindele",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ikere II State Constituency",
+      "name": "Babatunde Lawrence Idowu",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ekiti East II State Constituency",
+      "name": "Lateef Oluwole Akanle",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ido/Osi II State Constituency",
+      "name": "Abiodun Babatunde Fawekun",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Moba II State Constituency",
+      "name": "Adeyemi Jacob Awoniyi",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Oye I State Constituency",
+      "name": "Temitope Ademola Longe",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ikole I State Constituency",
+      "name": "Babafemi Sunday Fatunla",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ekiti East I State Constituency",
+      "name": "Oladele Olaoye Ogunsakin",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ise/Orun State Constituency",
+      "name": "Babatunde Emmanuel Omotayo",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ekiti South West I State Constituency",
+      "name": "Kehinde Anthony Adaramodu",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Oye II State Constituency",
+      "name": "Idowu Sunday Odebunmi",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ilejemeje State Constituency",
+      "name": "Iyabode Fakunle-Okieimen",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ikere I State Constituency",
+      "name": "Babatunde Lawrence Oke",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
+    },
+    {
+      "office": "HOA",
+      "state": "Ekiti",
+      "stateConstituency": "Ekiti West I State Constituency",
+      "name": "Hakeem Agunbiade",
+      "party": "APC",
+      "termStart": "2023-06-07",
+      "termEnd": "2027-06-07",
+      "source": "Sarah"
     },
     {
       "office": "CHM",
       "state": "Ekiti",
-      "lga": "Ekiti PLACEHOLDER LGA",
-      "name": "Umar Chukwuma (PLACEHOLDER \u2014 REPLACE ME)",
-      "party": "NNPP",
-      "termStart": "2024-01-01",
-      "termEnd": "2027-01-01",
-      "source": "manual"
+      "lga": "Ado-Ekiti",
+      "name": "Bosun Osaloni",
+      "party": "APC",
+      "termStart": "2024-02-05",
+      "termEnd": "2027-02-05",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Efon",
+      "name": "Afolabi Segun Ezekiel",
+      "party": "APC",
+      "termStart": "2024-02-16",
+      "termEnd": "2027-02-16",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Ekiti East",
+      "name": "Ojo Oluwasegun Samuel",
+      "party": "APC",
+      "termStart": "2024-02-12",
+      "termEnd": "2027-02-12",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Ekiti South-West",
+      "name": "Apolola Richard",
+      "party": "APC",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-02-14",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Ekiti West",
+      "name": "Omojola Moses Akin",
+      "party": "APC",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-02-14",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Emure",
+      "name": "Adedayo Adedibo Tosin",
+      "party": "APC",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-02-14",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Aiyekire (Gbonyin)",
+      "name": "Adeyemo Adeoye Davies",
+      "party": "APC",
+      "termStart": "2024-02-05",
+      "termEnd": "2027-02-05",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Ido-Osi",
+      "name": "Omoleye Bamidele Adetiloye",
+      "party": "APC",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-02-14",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Ijero",
+      "name": "Folowosele Julius Abayomi",
+      "party": "APC",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-02-14",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Ikere",
+      "name": "Adamolekun Olu Egbejoda",
+      "party": "APC",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-02-14",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Ikole",
+      "name": "Omojola Adebayo Ojo",
+      "party": "APC",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-02-14",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Ilejemeje",
+      "name": "Pius Alaba Dada",
+      "party": "APC",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-02-14",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Irepodun/Ifelodun",
+      "name": "Oluwatuyi Gbenga Stephen",
+      "party": "APC",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-02-14",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Ise/Orun",
+      "name": "Ayodele Samson B.",
+      "party": "APC",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-02-14",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Moba",
+      "name": "Fadugba Bamidele J.",
+      "party": "APC",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-02-14",
+      "source": "Sarah"
+    },
+    {
+      "office": "CHM",
+      "state": "Ekiti",
+      "lga": "Oye",
+      "name": "Bamisile Adesola C.",
+      "party": "APC",
+      "termStart": "2024-02-14",
+      "termEnd": "2027-02-14",
+      "source": "Sarah"
     }
   ]
 }
